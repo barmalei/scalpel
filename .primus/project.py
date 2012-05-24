@@ -40,7 +40,7 @@ PROJECT = Project("TAE",
           DownloadArchivedFiles('lib/corpora/CoNLL/2003', "%s/corpora/conll/conll-2003.zip" % REPO_URL),
           DownloadArchivedFiles('lib/corpora/ILPS', "%s/corpora/ilps.zip" % REPO_URL),
           DownloadArchivedFiles('lib/snowball', "%s/snowball/stemmer-1.1.0.zip" % REPO_URL),
-          DownloadFile('lib/junit', "%s/junit/junit-4.8.2.jar" % REPO_URL),
+          DownloadFile('lib/junit/junit-4.8.2.jar', "%s/junit/junit-4.8.2.jar" % REPO_URL),
           DownloadArchivedFiles('lib/jython', "%s/jython/jython-2.5.2.zip" % REPO_URL)
         ]),
         
@@ -71,4 +71,4 @@ PROJECT = Project("TAE",
         
         RunPythonCode("test/tests.py"),
         RunJUnit("test/ilps/common/TestCustomClassLoader.class", classpath = ['test', 'lib', 'lib/junit/junit-4.8.2.jar'])
-]) 
+], version=(1,3,0)) 
