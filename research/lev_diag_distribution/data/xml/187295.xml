@@ -1,0 +1,194 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/70780/71460/73701/187295">
+    <expressie>
+      <docid><![CDATA[133349]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[0]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Verreijt, Bart]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[commentaar]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur />
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>187781</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[30-03-1991]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[0]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[30-03-1991]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[KRO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ NCRV]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ IKON]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[TD46070]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>472490</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[187781]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>778206</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[TDU46070]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus><![CDATA[Uitleenkopie]]></archiefstatus>
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>472491</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[187781]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>778780</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[V27233]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>472492</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[187781]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>778205</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Oecumenische viering van lezingen en gebed in de oecumenische
+broedergemeenschap te Taizé, Frankrijk. Voorganger is Frère
+Roger Schutz. In deze viering wordt ook een broeder van Taizé
+geprofest. Het Nederlandse commentaar wordt gesproken door
+Bart Verreijt.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Papieren: beeldbandproduktieformulier]]></annotatie>
+      <taakID>279098</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[NADER TE BEPALEN]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[oecumene]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[kerkdiensten]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Schutz, Roger]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen>
+          <geografische_naam><![CDATA[Frankrijk]]></geografische_naam>
+          <geografische_naam><![CDATA[Taizé]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[Pasen]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

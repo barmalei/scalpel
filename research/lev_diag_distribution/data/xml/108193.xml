@@ -1,0 +1,139 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/55011/55671/57751/108193">
+    <expressie>
+      <docid><![CDATA[9178]]></docid>
+      <afleveringsnummer><![CDATA[1]]></afleveringsnummer>
+      <deel />
+      <tijdsduur><![CDATA[0]]></tijdsduur>
+      <broncatalogus><![CDATA[Inventarisatie]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Heuvel, Aad van den]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Zwerus, Peter]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+        <recht>
+          <bron><![CDATA[VARA 2001-07-12]]></bron>
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>108622</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[16-02-1981]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[0]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[16-02-1981]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: kleur
+*]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[STV]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[VV4547]]></dragernummer>
+        <dragertype><![CDATA[Umatic]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>308351</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[108622]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>390422</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Thema-programma gepresenteerd door Peter Zwerus en
+gastpresentator Aad van den Heuvel. Oa een optreden van
+popgroep Drukwerk met "Ik verveel me zo in Amsterdam Noord"
+en een gesprek met W.M. van Andel, hoofd kinderpolitie Den
+Haag.]]></samenvatting>
+      <beschrijving />
+      <annotatie />
+      <taakID>172951</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Inventarisatie]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

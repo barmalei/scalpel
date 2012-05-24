@@ -1,0 +1,241 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/553427">
+    <expressie>
+      <docid><![CDATA[56219]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[3300000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Galis, Cor]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[omroeper]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Meijer, Ischa]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Meijer, Ischa]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Meijer, Ischa]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Meijer, Ischa]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[samenstelling]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Smit, Leonie]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <spreker>
+            <naam><![CDATA[Donselaar, J. van]]></naam>
+            <functie><![CDATA[cultureel antropoloog]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Lewin, Lisette]]></naam>
+            <functie><![CDATA[schrijfster]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Spek, Fred van der]]></naam>
+            <functie><![CDATA[politiek commentator]]></functie>
+          </spreker>
+          <uitvoerende>
+            <naam><![CDATA[Izzies]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Meijer, Ischa]]></naam>
+            <functie />
+          </uitvoerende>
+        </rollen>
+        <opnameplaatsen>
+          <opnameplaats><![CDATA[Amsterdam, Café Eik en Linde]]></opnameplaats>
+        </opnameplaatsen>
+        <taalgebruiken />
+        <opnamen />
+        <recht>
+          <bron />
+          <rechten><![CDATA[Originele banden, lenen uitsluitend met toestemming van de
+rechthebbende.]]></rechten>
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>554566</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[04-04-1989]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[57600000]]></begintijd>
+        <eindtijd />
+        <tijdsduur><![CDATA[3300000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 55'00"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[04-04-1989]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten>
+          <net><![CDATA[Radio 2]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VPRO]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA107858]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2373086</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554566]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3322323</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[57900000]]></beginopdrager>
+        <eindeopdrager><![CDATA[61200000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA9473]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1308276</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554566]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1932247</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Live praatprogramma, met:
+1. een interview met cultureel antropoloog en
+Surinamedeskundige J. van Donselaar over zijn woordenboek van
+het Surinaams-Nederlands [13'00"];
+2. column van politiek commentator Fred van der Spek over het
+bezoek van Sovjet-president Gorbatsjov aan Cuba en over
+Namibië [10'00"];
+3. interview met schrijfster Lisette Lewin over haar roman
+'Voor bijna alles bang geweest' [13'00"].
+Gelardeerd met het lied 'Je vais à pied' gezongen door Ischa
+Meijer,
+begeleid door het combo 'De Izzies' en muziek van 'De
+Izzies'.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Programma niet afgeluisterd. Beschrijving gemaakt op basis
+van programmagegevens.
+Bandnummer: NA-107858.
+
+Bon: 5414
+Bijzonderheden: programmagegevens op bon
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>686284</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[praatprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[literatuur]]></trefwoord>
+          <trefwoord><![CDATA[non-fictie]]></trefwoord>
+          <trefwoord><![CDATA[staatsbezoeken]]></trefwoord>
+          <trefwoord><![CDATA[taal- en literatuurwetenschap]]></trefwoord>
+          <trefwoord><![CDATA[woordenboeken]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Gorbatsjov, Michail]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen>
+          <geografische_naam><![CDATA[Cuba]]></geografische_naam>
+          <geografische_naam><![CDATA[Namibië]]></geografische_naam>
+          <geografische_naam><![CDATA[Sovjet-Unie]]></geografische_naam>
+          <geografische_naam><![CDATA[Suriname]]></geografische_naam>
+        </geografische_namen>
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

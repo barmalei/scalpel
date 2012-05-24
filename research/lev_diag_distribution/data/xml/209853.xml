@@ -1,0 +1,275 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/70780/71460/73701/209853">
+    <expressie>
+      <docid><![CDATA[99030]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[3901000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Duisters, Anton]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Visschers, Pieter]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>210336</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[02-04-1994]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[83684000]]></begintijd>
+        <eindtijd><![CDATA[1185000]]></eindtijd>
+        <tijdsduur><![CDATA[3901000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 65'01"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[02-04-1994]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[KRO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ RKK]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[83684000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1185000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[AR45434]]></dragernummer>
+        <dragertype><![CDATA[BCN]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>519402</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[210336]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>326910</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[83684000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1185000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[AR52591]]></dragernummer>
+        <dragertype><![CDATA[BCN]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>403201</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[210336]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>326913</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[83684000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1185000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD66576]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>519401</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[210336]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>326911</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[83684000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1185000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD66587]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>403200</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[210336]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>326914</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[83684000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1185000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V45434]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>519403</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[210336]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>326909</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[83684000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1185000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V52591]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>403202</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[210336]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>326912</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Eucharistieviering in de Petruskerk van de Pax Christi
+parochie in Lelystad. Voorgangers: omroeppastores Joke
+Litjens, Peter Denneman, Adri Verweij.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[TD66587/AR52591/V52591 TC 23:14:44 - 00:14:52
+TD66576/AR45434/V45434 TC 00:10:00 - 00:19:45]]></annotatie>
+      <taakID>304172</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[NADER TE BEPALEN]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[eucharistievieringen]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Denneman, Peter]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen />
+        <namen>
+          <naam><![CDATA[Pasen]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

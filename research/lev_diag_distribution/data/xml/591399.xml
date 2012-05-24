@@ -1,0 +1,300 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/67018/67678/69839/591399">
+    <expressie>
+      <docid />
+      <afleveringsnummer><![CDATA[2]]></afleveringsnummer>
+      <deel />
+      <tijdsduur><![CDATA[1435960]]></tijdsduur>
+      <broncatalogus />
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[Uitdam - Op reis]]></tekst>
+            <taal />
+            <type><![CDATA[titel]]></type>
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Heijstek, Bernadette]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[research]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Bothof, Colette]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[scenario]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Stips, Robert Jan]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[muziek]]></functie>
+            </functies>
+          </maker>
+          <cast>
+            <naam><![CDATA[Boer, Niels-Ingvar]]></naam>
+            <karakter><![CDATA[Harm]]></karakter>
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Smorenburg, Ariana]]></naam>
+            <karakter><![CDATA[Sanne]]></karakter>
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Jantzen, Koen]]></naam>
+            <karakter><![CDATA[Rudy]]></karakter>
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Duijvestein, Eva]]></naam>
+            <karakter><![CDATA[Mariska]]></karakter>
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Arens, Erik]]></naam>
+            <karakter><![CDATA[Willem]]></karakter>
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Wit, Frans de]]></naam>
+            <karakter><![CDATA[Gradus]]></karakter>
+            <toelichting />
+          </cast>
+        </rollen>
+        <taalgebruiken>
+          <taalgebruik>
+            <taal><![CDATA[Nederlands]]></taal>
+            <gebruik><![CDATA[uitgangstaal]]></gebruik>
+          </taalgebruik>
+        </taalgebruiken>
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[Kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen>
+          <opname>
+            <begindatum />
+            <einddatum />
+            <datumprecisie />
+            <productiejaar><![CDATA[1996]]></productiejaar>
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie />
+          </opname>
+        </opnamen>
+        <recht>
+          <bron />
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>592733</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum><![CDATA[10-09-1998]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[1435960]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling><![CDATA[0]]></indicatie_herhaling>
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[10-09-1998]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+      <publicatie>
+        <id>592732</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum><![CDATA[18-07-2007]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[53686000]]></begintijd>
+        <eindtijd><![CDATA[55121960]]></eindtijd>
+        <tijdsduur><![CDATA[1435960]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie><![CDATA[Stereo]]></annotatie_publicatie>
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat><![CDATA[4:3]]></distributieformaat>
+        <gelegenheid />
+        <indicatie_herhaling><![CDATA[1]]></indicatie_herhaling>
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[18-07-2007]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten>
+          <net><![CDATA[Nederland 2]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1555960]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[UITDAM__OP_RE-VAR001O85AV]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1354583</dragerid>
+        <DMGUID><![CDATA[2007071815560030800790450740014C2607C530000003236B00000D0F000018]]></DMGUID>
+        <SOF><![CDATA[0]]></SOF>
+        <publID><![CDATA[592732]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype>Stereo</geluidstype>
+        <metrage />
+        <sortering />
+        <positieid>2096852</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1555960]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[UITDAM__OP_RE-VAR001O85AV.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1354584</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[592732]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype>Stereo</geluidstype>
+        <metrage />
+        <sortering />
+        <positieid>2096853</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1555960]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[UITDAM__OP_RE-VAR001O85AV.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1354585</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[592732]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype>Stereo</geluidstype>
+        <metrage />
+        <sortering />
+        <positieid>2096854</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[De 19-jarige Harm, afkomstig uit de stad, heeft moeite zich aan te passen in zijn nieuwe woonplaats, een klein dorp. Hij wordt niet geaccepteerd door de andere jongeren. Dan wordt hij uitgedaagd voor een levensgevaarlijke straatrace.]]></samenvatting>
+      <beschrijving />
+      <annotatie />
+      <taakID>725541</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas />
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Straatrace met dodelijke afloop.]]></samenvatting>
+      <beschrijving><![CDATA[De gevaarlijke kanten van het veilige dorpsleven. De 19-jarige Harm, afkomstig uit de stad, heeft moeite zich aan te passen in zijn nieuwe woonplaats, een klein dorp. Hij wordt niet geaccepteerd door de andere jongeren. Dan wordt hij uitgedaagd voor een levensgevaarlijke straatrace.
+
+Onbekend talent
+De hoofdrollen worden vertolkt door onbekende acteurs, die niet per se zijn doorgebroken. Zo is Niels-Ingvar Boer, die Harm speelt, uiteindelijk terechtgekomen als beleidsmedewerker bij de overheid en Koen Jantzen, ofwel Rudy, is toneelschrijver geworden. ]]></beschrijving>
+      <annotatie />
+      <taakID>1057103</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas />
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

@@ -1,0 +1,247 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/439656">
+    <expressie>
+      <docid><![CDATA[54456]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[0]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <spreker>
+            <naam><![CDATA[Beatrix]]></naam>
+            <functie><![CDATA[Kon.der Nederlanden]]></functie>
+          </spreker>
+        </rollen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[19-09-1989]]></begindatum>
+            <einddatum />
+            <datumprecisie />
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie />
+          </opname>
+        </opnamen>
+        <recht>
+          <bron />
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>440795</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[0]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[19-09-1989]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NOS]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA146879]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2368624</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[440795]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3315325</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA185212]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2368625</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[440795]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3315326</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA187496]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2368626</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[440795]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3315327</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA189271]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2368627</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[440795]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3315328</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA2359]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1193421</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[440795]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1619762</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Troonrede 1989 uitgesproken door Kon.Beatrix.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Handelingen Tweede Kamer beschikbaar (Dossier VA1, map 11).
+
+Bon: 10593
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>542493</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[NADER TE BEPALEN]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[troonredes]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen>
+          <naam><![CDATA[Koninklijk Huis]]></naam>
+          <naam><![CDATA[Prinsjesdag]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

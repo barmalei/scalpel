@@ -1,0 +1,223 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/439592">
+    <expressie>
+      <docid><![CDATA[56967]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[0]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <spreker>
+            <naam><![CDATA[Jonge, Freek de]]></naam>
+            <functie><![CDATA[cabaretier]]></functie>
+          </spreker>
+        </rollen>
+        <opnameplaatsen>
+          <opnameplaats><![CDATA[Amsterdam]]></opnameplaats>
+        </opnameplaatsen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[26-08-1981]]></begindatum>
+            <einddatum />
+            <datumprecisie />
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie />
+          </opname>
+        </opnamen>
+        <recht>
+          <bron />
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>440731</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[0]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[26-08-1981]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA21890]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2373852</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[440731]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3323862</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA33925]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2373853</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[440731]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3323863</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA85417]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2373854</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[440731]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3323864</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA9982]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1193351</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[440731]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1619625</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Opname van het theaterprogramma 'De /Tragiek/' van Freek de
+Jonge.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Bon: 4487
+Bijzonderheden: opname uit uitzending. programmagegevens op bon.
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>542303</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[NADER TE BEPALEN]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[cabaret]]></trefwoord>
+          <trefwoord><![CDATA[theater]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen>
+          <naam><![CDATA[Carré]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

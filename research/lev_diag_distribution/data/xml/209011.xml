@@ -1,0 +1,192 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/70780/71460/73701/209011">
+    <expressie>
+      <docid><![CDATA[107588]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[4558000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Holl, Marcel]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Veldmeijer, Loes]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>209497</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[15-04-1995]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[82808000]]></begintijd>
+        <eindtijd><![CDATA[966000]]></eindtijd>
+        <tijdsduur><![CDATA[4558000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 75'58"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[15-04-1995]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[KRO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ RKK]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[82808000]]></beginopdrager>
+        <eindeopdrager><![CDATA[966000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[AR22809]]></dragernummer>
+        <dragertype><![CDATA[BCN]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>517607</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[209497]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>183215</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[82808000]]></beginopdrager>
+        <eindeopdrager><![CDATA[966000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD72095]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>517606</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[209497]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>183698</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[82808000]]></beginopdrager>
+        <eindeopdrager><![CDATA[966000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V57619]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>517608</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[209497]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>183697</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Eucharistieviering in de Petruskerk van de Pax
+Christi-parochie in Lelystad. Voorgangers zijn de
+omroeppastores Joke Litjens, Adri Verwey en Peter Denneman.]]></samenvatting>
+      <beschrijving />
+      <annotatie />
+      <taakID>303248</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[NADER TE BEPALEN]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[eucharistievieringen]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Denneman, Peter]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Verwey, Adri]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

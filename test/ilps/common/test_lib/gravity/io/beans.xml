@@ -1,0 +1,66 @@
+<beans>
+  <bean class="gravity.ui.grid.Grid" base="gravity.ui.Panel">
+    <prop id="cellInsets" type="java.awt.Insets">
+      <method id="getCellInsets" />
+      <method id="setCellInsets">
+        <a value="${.top}"/>
+        <a value="${.left}"/>
+        <a value="${.bottom}"/>
+        <a value="${.right}"/>
+      </method>
+    </prop>
+
+    <prop id="selColor1" type="java.awt.Color">
+      <method id="getColor">
+        <a value="0" type="i"/>
+      </method>
+      <method id="setColor">
+        <a type="i" value="0"/>
+        <a value="${}"/>
+      </method>
+    </prop>
+
+    <prop id="selColor2" type="java.awt.Color">
+      <method id="getColor">
+        <a type="i" value="1"/>
+      </method>
+      <method id="setColor">
+        <a type="i" value="1"/>
+        <a value="${}"/>
+      </method>
+    </prop>
+
+    <prop id="linesColor" type="java.awt.Color">
+      <method id="getColor">
+        <a type="i" value="2"/>
+      </method>
+      <method id="setColor">
+        <a type="i" value="2"/>
+        <a value="${}"/>
+      </method>
+    </prop>
+
+    <prop id="netMask" alias="gridLines"/>
+
+    <prop id="usePsMetric" type="b">
+      <method id="isUsePsMetric"/>
+      <method id="usePsMetric">
+        <a value="${}"/>
+      </method>
+    </prop>
+
+    <prop id="model"/>
+    <prop id="editorProvider"/>
+    <prop id="viewProvider"/>
+
+    <hide-prop id="layout"/>
+  </bean>
+
+  <bean base="gravity.ui.Canvas" class="gravity.ui.grid.GridCaption">
+    <prop id="borderView" alias="titleBorderView"/>
+  </bean>
+
+</beans>
+
+
+

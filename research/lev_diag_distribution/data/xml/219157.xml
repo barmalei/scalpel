@@ -1,0 +1,75 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/55011/55671/57751/219157">
+    <expressie>
+      <docid />
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur />
+      <broncatalogus />
+      <descriptie>
+        <titels />
+        <rollen />
+        <taalgebruiken />
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>219640</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[03-04-1984]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur />
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[03-04-1984]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[STV]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities />
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Van dit programma zijn slechts de hieronder vermelde onderdelen in het archief opgenomen.]]></samenvatting>
+      <beschrijving />
+      <annotatie />
+      <taakID>313515</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

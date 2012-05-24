@@ -1,0 +1,231 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/67018/67678/69839/204898">
+    <expressie>
+      <docid><![CDATA[77780]]></docid>
+      <afleveringsnummer><![CDATA[8]]></afleveringsnummer>
+      <deel />
+      <tijdsduur><![CDATA[1376000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[Afl. 8.: Bloed, zweet en tranen (Nijmegen)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Bruin, Mieke de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Holzhaus, Otto]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[scenario]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kappers, Bauke]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kroeske, Jan Douwe]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Wolf, Joost de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[redactie]]></functie>
+            </functies>
+          </maker>
+          <producent>
+            <naam><![CDATA[IDTV]]></naam>
+          </producent>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>205384</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[21-11-1992]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[69655000]]></begintijd>
+        <eindtijd><![CDATA[71031000]]></eindtijd>
+        <tijdsduur><![CDATA[1376000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 22'56"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[21-11-1992]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[69655000]]></beginopdrager>
+        <eindeopdrager><![CDATA[71031000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[AR49899]]></dragernummer>
+        <dragertype><![CDATA[BCN]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>508240</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[205384]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>321676</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[69655000]]></beginopdrager>
+        <eindeopdrager><![CDATA[71031000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD60009]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>508239</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[205384]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>321677</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[69655000]]></beginopdrager>
+        <eindeopdrager><![CDATA[71031000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V49899]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>508241</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[205384]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>321675</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Serie televisiedrama's, gebaseerd op waargebeurde ongelukken,
+ingeleid en afgekondigd door Jan Douwe Kroeske.
+Deze keer een bedrijfsongeval in het slachthuis door
+onoplettendheid tgv privéproblemen. Het slachtoffer
+Duizendschoon overleeft de slagaderlijke bloeding.
+Met: Adriaan Adriaansen; Isolde Hallensleben; Arthur
+Hallensleben; Ramon Ramnath; Howard Dodemont; Freek van
+Muiswinkel en Henk Mullens.]]></samenvatting>
+      <beschrijving />
+      <annotatie />
+      <taakID>298770</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[televisiedrama]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[arbeidsongevallen]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Adriaansen, Adriaan]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Dodemont, Howard]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Hallensleben, Isolde]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Muiswinkel, Freek van]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen>
+          <geografische_naam><![CDATA[Nederland]]></geografische_naam>
+        </geografische_namen>
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

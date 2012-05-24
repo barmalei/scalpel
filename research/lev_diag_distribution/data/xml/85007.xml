@@ -1,0 +1,372 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/40000/40480/41900/85007">
+    <expressie>
+      <docid><![CDATA[748]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[341000]]></tijdsduur>
+      <broncatalogus><![CDATA[Smalfilmmuseum (Paradox)]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen />
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[zw/w]]></kleur>
+          <indicatie_stom><![CDATA[1]]></indicatie_stom>
+          <contekst />
+        </context>
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[01-01-1938]]></begindatum>
+            <einddatum />
+            <datumprecisie><![CDATA[exacte datum onbekend]]></datumprecisie>
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie><![CDATA[[1938-00-00]]]></annotatie>
+          </opname>
+        </opnamen>
+        <recht>
+          <bron><![CDATA[HERKOMSTNUMMER: 62]]></bron>
+          <rechten><![CDATA[Beeld en Geluid
+CONTRACTNUMMER: B-013]]></rechten>
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>85467</id>
+        <titel />
+        <type><![CDATA[film]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[341000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 5'41"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[amateurfilm]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[01-01-1938]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: zw/w
+Geluid: stom]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NIET VAN TOEPASSING]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[3166400]]></beginopdrager>
+        <eindeopdrager><![CDATA[3508000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD45990]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie><![CDATA[Gebruik: archief
+Tijdsduur: 4'14"]]></dragerannotatie>
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>248350</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[85467]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>549934</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[16-0453]]></dragernummer>
+        <dragertype><![CDATA[FILM]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[SFM-kluis]]></bewaarplaats>
+        <dragerannotatie><![CDATA[Snelheid: 16 b/s
+Materiaal: acetaat
+Kleur: zw/w
+Filmbeeld: positief
+Gebruik: archief
+Tijdsduur: 5'42"
+Bewerking: geconserveerd]]></dragerannotatie>
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>252655</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[85467]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat><![CDATA[16 mm]]></formaat>
+        <herkomst />
+        <geluidstype>stom</geluidstype>
+        <metrage>41,70</metrage>
+        <sortering />
+        <positieid>568251</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[16-1348N]]></dragernummer>
+        <dragertype><![CDATA[FILM]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[SFM-kluis]]></bewaarplaats>
+        <dragerannotatie><![CDATA[Snelheid: 16 b/s
+Materiaal: acetaat
+Kleur: zw/w
+Filmfabrikant: Kodak
+Filmbeeld: dup.neg
+Gebruik: archief]]></dragerannotatie>
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>252656</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[85467]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat><![CDATA[16 mm]]></formaat>
+        <herkomst />
+        <geluidstype>stom</geluidstype>
+        <metrage>42,00</metrage>
+        <sortering />
+        <positieid>547803</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[16-1537]]></dragernummer>
+        <dragertype><![CDATA[FILM]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[SFM-kluis]]></bewaarplaats>
+        <dragerannotatie><![CDATA[Snelheid: 16 b/s
+Materiaal: acetaat
+Kleur: zw/w
+Filmfabrikant: Kodak
+Filmbeeld: positief
+Gebruik: vertoning
+Annotatie: In rol Hunningher programma]]></dragerannotatie>
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>252637</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[85467]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat><![CDATA[16 mm]]></formaat>
+        <herkomst />
+        <geluidstype>stom</geluidstype>
+        <metrage>42,00</metrage>
+        <sortering />
+        <positieid>570523</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[3166400]]></beginopdrager>
+        <eindeopdrager><![CDATA[3508000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[HETLEVENSLUST-HRE000085C4]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1132581</dragerid>
+        <DMGUID><![CDATA[2007040215585900800790450740014C2607C530000004656B00000D0F001417]]></DMGUID>
+        <SOF><![CDATA[3165000]]></SOF>
+        <publID><![CDATA[85467]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1369431</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[3166400]]></beginopdrager>
+        <eindeopdrager><![CDATA[3508000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[HETLEVENSLUST-HRE000085C4.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1132543</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[85467]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1369327</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[3166400]]></beginopdrager>
+        <eindeopdrager><![CDATA[3508000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[HETLEVENSLUST-HRE000085C4.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1132544</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[85467]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1369328</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[V78560]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie><![CDATA[Gebruik: zichtcopie]]></dragerannotatie>
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>248351</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[85467]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>570524</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Animatiefilm van amateurfilmer Johann G. Hunningher over het
+leven van een asperientje.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Documentatie: Inventarisatie Vera Tietjens 6-9-86
+Waardestelling: A
+Stadium: definitief]]></annotatie>
+      <taakID>133334</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[animatiefilm]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Smalfilmmuseum (Paradox)]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche SFM goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[amateuropnamen]]></trefwoord>
+          <trefwoord><![CDATA[geneesmiddelen]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[animatiefilm]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Het leven van een aspirientje.]]></samenvatting>
+      <beschrijving><![CDATA[Schattige animatie over de levensgeschiedenis van een aspirientje. 'Zij' doet aan kunstschaatsen en wordt op zekere dag verliefd op een heer. Ze trouwen en gaan op huwelijksreis naar een badplaats (de badkamer). Helaas valt hun geluk in het water. Letterlijk, want ze worden ingenomen met een glas water.
+
+Alledaags
+Amateurfilmer Johann G. Hunningher heeft iets met alledaagse voorwerpen. Paperclips en luciferdoosjes gaan hun eigen leven leiden onder zijn regie. In deze film is Hunningher zelf ook te zien.]]></beschrijving>
+      <annotatie />
+      <taakID>1104157</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas />
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

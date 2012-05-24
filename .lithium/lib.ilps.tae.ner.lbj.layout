@@ -1,0 +1,14 @@
+
+PROJECT {
+    @desc = "TAE LBJ context"
+
+    ARTIFACT(JAVA) {
+        @libs=['lib', 'lib/lbj', 'lib/lbj/bin', 'lib/lbj/Config', 'lib/lbj/Data']
+    }
+    
+    COMMAND('runjava', FileSet) { 
+        CLASS(RunJavaCode) {
+            @options = "-mx3G"
+        } 
+    }
+}

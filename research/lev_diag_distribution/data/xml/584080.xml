@@ -1,0 +1,264 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/67018/67678/69839/584080">
+    <expressie>
+      <docid />
+      <afleveringsnummer><![CDATA[4]]></afleveringsnummer>
+      <deel />
+      <tijdsduur><![CDATA[1497080]]></tijdsduur>
+      <broncatalogus />
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[Oosterbeek - Zwijn]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Bentveld, Menno]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <cast>
+            <naam><![CDATA[Knippels, Ad]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Hallensleben, Isolde]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Prins, Annemarie]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Ansing, Ingeborg]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+        </rollen>
+        <taalgebruiken>
+          <taalgebruik>
+            <taal><![CDATA[Nederlands]]></taal>
+            <gebruik><![CDATA[uitgangstaal]]></gebruik>
+          </taalgebruik>
+        </taalgebruiken>
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[Kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+        <recht>
+          <bron />
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>585321</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum><![CDATA[25-09-1997]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[1497080]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling><![CDATA[0]]></indicatie_herhaling>
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[25-09-1997]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+      <publicatie>
+        <id>585320</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum><![CDATA[30-06-2007]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[70501000]]></begintijd>
+        <eindtijd><![CDATA[71998080]]></eindtijd>
+        <tijdsduur><![CDATA[1497080]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie><![CDATA[Stereo]]></annotatie_publicatie>
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat><![CDATA[4:3]]></distributieformaat>
+        <gelegenheid />
+        <indicatie_herhaling><![CDATA[1]]></indicatie_herhaling>
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[30-06-2007]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten>
+          <net><![CDATA[Nederland 3]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1617080]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[OOSTERBEEK_ZW-VAR001O83UM]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1343617</dragerid>
+        <DMGUID><![CDATA[2007063020314020800790450740014C2607C530000003696B00000D0F001440]]></DMGUID>
+        <SOF><![CDATA[115000]]></SOF>
+        <publID><![CDATA[585320]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2081913</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1617080]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[OOSTERBEEK_ZW-VAR001O83UM.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1343618</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[585320]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2081914</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1617080]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[OOSTERBEEK_ZW-VAR001O83UM.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1343619</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[585320]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2081915</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Deze aflevering, gepresenteerd door Menno Bentveld, een ongeluk in huis. Amber trekt na het overlijden van haar oom in bij haar tante. Daar ontmoet ze Jeroen die haar tante helpt met klusjes in huis. De twee zien elkaar wel zitten. Vlak voor een avondje uit krijgt Jeroen echter een ongeluk als hij een lamp probeert te repareren.  ]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Programma niet bekeken. Beschrijving gemaakt op basis van programmagegevens.]]></annotatie>
+      <taakID>717847</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas />
+        <trefwoorden>
+          <trefwoord><![CDATA[ongevallen]]></trefwoord>
+          <trefwoord><![CDATA[reparaties]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Ongeval bij klussen in huis. ]]></samenvatting>
+      <beschrijving><![CDATA[Haastige spoed blijkt zelden goed en een ongeluk zit in een klein hoekje. Als Amber bij haar tante in huis gaat wonen, voelt ze zich eerst niet op haar gemak. Jeroen, de klusjesman van haar tante, staart haar steeds aan. Al snel voelt ze zich toch tot hem aangetrokken. Vlak voor een spannend avondje uit besluit Jeroen nog even snel een lamp te repareren. ]]></beschrijving>
+      <annotatie />
+      <taakID>1057105</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas />
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

@@ -1,0 +1,206 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/453462">
+    <expressie>
+      <docid><![CDATA[96554]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[994000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="N">
+            <tekst><![CDATA[AUTORACES OP CIRCUIT VAN ZANDVOORT]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Wybrands Marcussen, L.G.]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[commentaar]]></functie>
+            </functies>
+          </maker>
+          <spreker>
+            <naam><![CDATA[Nortier, Piet]]></naam>
+            <functie><![CDATA[autocoureur]]></functie>
+          </spreker>
+        </rollen>
+        <opnameplaatsen>
+          <opnameplaats><![CDATA[Zandvoort, autocircuit]]></opnameplaats>
+        </opnameplaatsen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[03-06-1939]]></begindatum>
+            <einddatum />
+            <datumprecisie />
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie />
+          </opname>
+        </opnamen>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>454601</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[994000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 16'34"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[03-06-1939]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie><![CDATA[Geluidskwaliteit matig]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[PHOHI]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA155686]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367844</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454601]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314320</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[1847000]]></beginopdrager>
+        <eindeopdrager><![CDATA[2841000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA0063]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1200754</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454601]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1651043</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Fragmenten van reportage van de wedstrijden autoracen in vijf
+klassen op het nieuwe circuit van Zandvoort. Aanwezig is de
+Nederlandse society; ook prins Bernhard arriveert. Van enkele
+klassenwedstrijden horen we (fragmenten van) een
+ooggetuigenverslag, van andere wedstrijden wordt alleen
+verslag uitgebracht. Racegeluiden en de omroeper van het
+circuit zijn te horen tijdens de reportage.
+De coureur [Piet] Nortier geeft de luisteraars een deskundig
+achteraf-verslag van de reeds gereden klasse A-wedstrijd, die
+spannend was. Rijshouwer [spelling onzeker] heeft deze
+wedstrijd gewonnen.
+De race van twee klassen is gewonnen door de Italiaan Bena
+[spelling onzeker], werkplaatsleider van Lancia. Het verschil
+in klasse verklaart de grote verschillen in rijtijden.
+De verslaggever geeft een indruk van de te rijden wedstrijd
+in klasse K. Nortier en Breman nemen in BMW's deel aan deze
+rit. Nortier passeert en wint; Breman wordt nummer twee.
+De wagens die wereldrecords behaalden, geven hierna een
+demonstratie. Het geluid van de legendarische  zilverkleurige
+'Stuck' van Auto-Union is tijdens deze demonstratierit goed
+hoorbaar.
+Er volgt een verslag van het begin van de wedstrijd klasse F.
+Nummer één is uitgevallen. Deze wedstrijd is nog niet
+beslist, als deze reportage eindigt.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[OudSFW: C31074/26-3069.
+ Van deze opname bestaat  geen uitleenexemplaar. Via
+Klantenservice kan een kopie worden gemaakt. Deze opname
+bestaat uit ruw, ongemonteerd materiaal en kan van wisselende
+geluidskwaliteit zijn.
+
+Bon: 24364
+Bijzonderheden: Opname uit uitzending
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>582381</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[sportwedstrijd]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[autosport]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA[Zandvoort]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[Circuit Park Zandvoort]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

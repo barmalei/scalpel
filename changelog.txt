@@ -1,0 +1,44 @@
+
+Changes v1.2.1 since v1.2.0
+===========================
+
+* throw out dummy StructuredText class from ilps/tae/text/module
+* AnnotatedText class has been added to support parsing various type of annotated texts
+* switch and re-implement some part of coNLL collection to the new AnnotatedText implementation
+* conll 2003 format can be transformed to conll2002. 2003 format is slightly different what 
+  makes impossible to use Lingpipe tagger CoNLL parser to train on CoNLL2003 corpus. 
+* new training model for Lingpipe has been included: 
+    -- CoNLL 2002 (hmm and lm) for spanish
+    -- CoNLL 2003 (hmm and lm) for english
+    -- CoNLL 2002 (hmm and lm) for dutch
+* small adjustment with stanford NER features to improve recognition quality 
+* some correction and improvement for NERs model mapping, use alias like "best" per language 
+  to select the best model for the given language. 
+* bunch of bug fixes and small corrections 
+* extend test-cases to cover more functionality 
+
+
+Changes v1.3.0 since v1.2.1
+===========================
+
+* NERs Jython support. Allow users to run JAVA based NERs (Stanford, Lingpipe, LbJ) in JVM
+  what can prevent NERs from multiple loading of training data 
+* Stanford POS Jython support
+* Custom JAVA classes loader can help to avoid class names clashes for stuff run under Jython 
+* New test cases (Class loader, Jython)
+* Jython deployment. Add Jython package to TAE
+* Sonar corpus support
+* Bug fixes and improvements in common package
+* JUnit deployment has been added. It is necessary to run JAVA test cases
+* Small part of Sonar corpus deployment has been added
+* New Stanford NER version
+* ILPS sentiment corpus support
+* ILPS primitive sentiment analyzer 
+* Standalone runner integration: the most important classes can be run from command line:
+    $ python lib/ilps/tae/ner/stanford/ner.py  "text" | file
+
+	  or even shorter 
+
+    $ bin/NER "text" | file   
+    $ bin/lingpipe.NER "text" | file   
+    $ bin/tnt.NER "text" | file

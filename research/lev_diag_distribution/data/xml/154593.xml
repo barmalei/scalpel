@@ -1,0 +1,334 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/68707/69387/71588/154593">
+    <expressie>
+      <docid><![CDATA[176920]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[1885000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[REM (8)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Aasman, Gert]]></naam>
+            <toelichting><![CDATA[e.a.;]]></toelichting>
+            <functies>
+              <functie><![CDATA[redactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Linde, Wibo van de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Roeland, Harmen]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <spreker>
+            <naam><![CDATA[Jongbloed, Jaap]]></naam>
+            <functie />
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Kroon, Bob]]></naam>
+            <functie />
+          </spreker>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+        <recht>
+          <bron><![CDATA[Archiefmateriaal: o.a. TROS ('Vermist'; 'TROS Aktua')]]></bron>
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>155079</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[24-04-2004]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[71923000]]></begintijd>
+        <eindtijd><![CDATA[73808000]]></eindtijd>
+        <tijdsduur><![CDATA[1885000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 31'25"]]></tijdsduur_annotatie>
+        <begintijdstip><![CDATA[47100000]]></begintijdstip>
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[24-04-2004]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten>
+          <net><![CDATA[Nederland 2]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[TROS]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[71922960]]></beginopdrager>
+        <eindeopdrager><![CDATA[73808760]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD74944]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>397906</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[155079]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>733269</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[71922960]]></beginopdrager>
+        <eindeopdrager><![CDATA[73808760]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TDU74944]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus><![CDATA[uitleenkopie]]></archiefstatus>
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>397907</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[155079]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>733268</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[71922960]]></beginopdrager>
+        <eindeopdrager><![CDATA[73808760]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[REM8_________-HRE00014CF4]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2560561</dragerid>
+        <DMGUID><![CDATA[2009010623341740800790450740014C2607C530000006348B00000D0F011290]]></DMGUID>
+        <SOF><![CDATA[71922000]]></SOF>
+        <publID><![CDATA[155079]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3879296</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[71922960]]></beginopdrager>
+        <eindeopdrager><![CDATA[73808760]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[REM8_________-HRE00014CF4.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2560351</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[155079]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3879069</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[71922960]]></beginopdrager>
+        <eindeopdrager><![CDATA[73808760]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[REM8_________-HRE00014CF4.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2560352</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[155079]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3879070</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[71923000]]></beginopdrager>
+        <eindeopdrager><![CDATA[73808000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V99044]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>397908</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[155079]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>733267</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Achtdelige serie praatprogramma's, gepresenteerd door Wibo
+van de Linde en Harmen Roeland, vanaf het REM-eiland voor de
+kust van Noordwijk waar de TROS ooit is begonnen. Er wordt
+teruggekeken op veertig jaar TROS-historie met gasten en
+gesproken over hun aandeel in vroegere en hedendaagse
+TROS-programma's en over hun huidige carrière. Daarnaast
+wordt een aantal actuele thema's besproken die betrekking
+hebben op hun specialisatie. In deze laatste aflevering: de
+presentatoren Jaap Jongbloed en Bob Kroon.]]></samenvatting>
+      <beschrijving><![CDATA[Aan de orde komen: hun algemene kijk op het huidige
+Nederland; hun visie welke gebeurtenissen in de recente
+geschiedenis belangrijk zijn geweest; de bevolkingsgroei; de
+mate van kindermishandeling in Nederland; geweld en
+alcoholisme in Nederland; de uitbreiding van de EU; de
+relatie arm en rijk in de wereld; het gedogen van zwervers;
+de opvoeding van de jeugd in Nederland; het gedogen van
+drugs; de drugspolitiek in Zwitserland; Bob Kroons
+correspondentieposten; zijn uitzetting uit Indonesië; het vak
+journalistiek; de deskundigheid van het kabinet-Balkenende;
+de integratie van etnische minderheden; de toekomst voor
+Nederland; de wereldgezondheidszorg.
+ARCHIEFMATERIAAL: Jaap Jongbloed als reporter probeert een
+gesprek aan te gaan met de politicus Koekkoek maar wordt van
+zijn erf gestuurd; Jaap Jongbloed brengt als presentator drie
+zussen weer met elkaar in contact ('Vermist'); Bob Kroon
+leidt de reportage in van het staatsbezoek van koningin
+Juliana aan Indonesië ('TROS Aktua'); snelle compilatie van
+beelden van Pim Fortuyn; staatsbezoek van koningin Juliana
+aan Indonesië, de koningin op Midden-Java; premier Balkenende
+in de Tweede Kamer tijdens het Margarita-debat.]]></beschrijving>
+      <annotatie><![CDATA[Het programma wordt in de gids aangekondigd als 'Studio REM'.]]></annotatie>
+      <taakID>243649</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[praatprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[armoede]]></trefwoord>
+          <trefwoord><![CDATA[drugs]]></trefwoord>
+          <trefwoord><![CDATA[integratie]]></trefwoord>
+          <trefwoord><![CDATA[kindermishandeling]]></trefwoord>
+          <trefwoord><![CDATA[migratie]]></trefwoord>
+          <trefwoord><![CDATA[opvoeding]]></trefwoord>
+          <trefwoord><![CDATA[politiek]]></trefwoord>
+          <trefwoord><![CDATA[rijkdom]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA[Nederland]]></geografische_naam>
+        </geografische_namen>
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

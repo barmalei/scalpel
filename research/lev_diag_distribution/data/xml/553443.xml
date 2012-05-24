@@ -1,0 +1,289 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/553443">
+    <expressie>
+      <docid><![CDATA[55039]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[4380000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Boogaard, Raymond van den]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Brandt Corstius, Hugo]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[commentaar]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Brandt Corstius, Hugo]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Hofland, Henk]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Smit, Leonie]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Tijn, Joop van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Tijn, Joop van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Wijnen, Harry van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <spreker>
+            <naam><![CDATA[Bie, Wim de]]></naam>
+            <functie><![CDATA[cabaretier]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Kooten, Kees van]]></naam>
+            <functie><![CDATA[cabaretier]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Toussaint, Jacques René]]></naam>
+            <functie><![CDATA[lid Tweede Kamer PvdA]]></functie>
+          </spreker>
+        </rollen>
+        <opnameplaatsen>
+          <opnameplaats><![CDATA[Amsterdam, Arti et Amicitiae]]></opnameplaats>
+        </opnameplaatsen>
+        <taalgebruiken />
+        <opnamen />
+        <recht>
+          <bron />
+          <rechten><![CDATA[Originele banden, lenen uitsluitend met toestemming van de
+rechthebbende.]]></rechten>
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>554582</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[02-05-1986]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[59400000]]></begintijd>
+        <eindtijd />
+        <tijdsduur><![CDATA[4380000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 76'00"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[02-05-1986]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten>
+          <net><![CDATA[Radio 5]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VPRO]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA134171]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2369395</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554582]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3316489</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NB83471]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2369396</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554582]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3316490</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[59580000]]></beginopdrager>
+        <eindeopdrager><![CDATA[63960000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA3546]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1193418</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554582]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1932279</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Wekelijks discussieprogramma, ditmaal onder leiding van Joop
+van Tijn, met journalisten Henk Hofland, Piet Grijs (Hugo
+Brandt Corstius) en Harry van Wijnen. De gasten zijn:
+VVD-fractievoorzitter A. Hubert van de gemeenteraad in Den
+Haag en Tweede-Kamerlid René Toussaint van de PvdA.
+Het programma omvat:
+- een column over de bezuinigingen van het Kabinet-Lubbers I;
+- telefonisch interview met de correspondent in Moskou over
+de ontploffing van de kerncentrale van Tsjernobyl;
+- interview met Hubert over het opstappen van de VVD uit het
+Haagse College;
+- een column over een zondagochtend in Manhattan, New York;
+- interview met cabaretiers Kees van Kooten en Wim de Bie
+vanuit het Stedelijk Museum in Amsterdam, waar zij optreden
+ter gelegenheid van het 25-jarig bestaan van Amnesty
+International;
+- interview met René Toussaint over de mogelijkheid dat hij
+niet terug zal keren in de PvdA-fractie in de Tweede Kamer.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Programma niet afgeluisterd. Beschrijving gemaakt op basis
+van programmagegevens.
+Bandnummer: NA-134171
+
+Bon: 10300
+Bijzonderheden: Registratie uit uitzending
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>686300</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[actuele informatie]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[bezuinigingen]]></trefwoord>
+          <trefwoord><![CDATA[gemeenteraden]]></trefwoord>
+          <trefwoord><![CDATA[jubilea]]></trefwoord>
+          <trefwoord><![CDATA[kernenergie]]></trefwoord>
+          <trefwoord><![CDATA[kernincidenten]]></trefwoord>
+          <trefwoord><![CDATA[radioactiviteit]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA[Amsterdam]]></geografische_naam>
+          <geografische_naam><![CDATA[Den Haag]]></geografische_naam>
+          <geografische_naam><![CDATA[Manhattan]]></geografische_naam>
+          <geografische_naam><![CDATA[Moskou]]></geografische_naam>
+          <geografische_naam><![CDATA[New York]]></geografische_naam>
+          <geografische_naam><![CDATA[Sovjet-Unie]]></geografische_naam>
+          <geografische_naam><![CDATA[Tsjernobyl]]></geografische_naam>
+          <geografische_naam><![CDATA[VS]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[Amnesty International]]></naam>
+          <naam><![CDATA[Kabinet-Lubbers I]]></naam>
+          <naam><![CDATA[PvdA]]></naam>
+          <naam><![CDATA[Stedelijk Museum]]></naam>
+          <naam><![CDATA[Tweede Kamer]]></naam>
+          <naam><![CDATA[VVD]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

@@ -1,0 +1,249 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/21392">
+    <expressie>
+      <docid><![CDATA[54233]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[2071000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Matser, Michiel]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Nederhorst, Maarten]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[01-02-1979]]></begindatum>
+            <einddatum />
+            <datumprecisie />
+            <productiejaar><![CDATA[1979]]></productiejaar>
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie />
+          </opname>
+        </opnamen>
+        <recht>
+          <bron />
+          <rechten><![CDATA[Originele banden, lenen uitsluitend met toestemming van de
+rechthebbende.]]></rechten>
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>21392</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[0]]></begintijd>
+        <eindtijd><![CDATA[2071000]]></eindtijd>
+        <tijdsduur><![CDATA[2071000]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[01-02-1979]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NOS]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA12902]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2369914</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[21392]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3317284</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[0]]></beginopdrager>
+        <eindeopdrager><![CDATA[0]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[VA4339]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Fonotheek B&G]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>63610</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[21392]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>125194</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[0]]></beginopdrager>
+        <eindeopdrager><![CDATA[0]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[444C4755494400925ADC211D392700F7774ECC030103000BE1A8C0C50C000000]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie><![CDATA[ ]]></dragerannotatie>
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>63609</dragerid>
+        <DMGUID><![CDATA[444C4755494400925ADC211D392700F7774ECC030103000BE1A8C0C50C000000]]></DMGUID>
+        <SOF />
+        <publID><![CDATA[21392]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>126873</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[0]]></beginopdrager>
+        <eindeopdrager><![CDATA[2071000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[0000011474.mp2]]></dragernummer>
+        <dragertype><![CDATA[MPG1L2]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>63611</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[21392]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>123114</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[De aankomst van Ayatollah Khomeini op het vliegveld in Teheran en vertrek van de Sjah. Met in de studio een Iraanse tolk/deskundige en (telefonisch) verslag door Michiel Matser vanuit Teheran.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Het item is gekopieerd op cd en gearchiveerd onder nr
+HAC-2726.
+
+
+Bon: 682
+Bijzonderheden: Programmagegevens op bon
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>40532</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas />
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA[Iran]]></geografische_naam>
+          <geografische_naam><![CDATA[Teheran]]></geografische_naam>
+        </geografische_namen>
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Aankomst van Ayatollah Khomeini en vertrek van Sjah.]]></samenvatting>
+      <beschrijving><![CDATA[De aankomst van Ayatollah Khomeini op het vliegveld in Teheran en het vertrek van de Sjah. Met in de studio een Iraanse tolk/deskundige en (telefonisch) verslag door Michiel Matser vanuit Teheran.]]></beschrijving>
+      <annotatie />
+      <taakID>40533</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas>
+          <thema><![CDATA[Oog op de wereld nieuws / radio / 1970-1979]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

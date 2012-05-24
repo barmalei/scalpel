@@ -1,0 +1,227 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/67018/67678/69839/197401">
+    <expressie>
+      <docid><![CDATA[72892]]></docid>
+      <afleveringsnummer><![CDATA[7]]></afleveringsnummer>
+      <deel />
+      <tijdsduur><![CDATA[1470000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[Belemmering (Almelo)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Dieho-Hamme, Rosan]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[scenario]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Doren, Ad van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kroeske, Jan Douwe]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Leupers, Marjo]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[redactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Stips, Wouter]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Wolf, Joost de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[redactie]]></functie>
+            </functies>
+          </maker>
+          <cast>
+            <naam><![CDATA[Altink, Lieke-Rosa]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Corton, Eric]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Musters, Marcel]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Rotteveel, Dennis]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Snoyink, Liz]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+          <producent>
+            <naam><![CDATA[Peekel/Stips Produkties ism VARA]]></naam>
+          </producent>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>197887</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[16-11-1991]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[122000]]></begintijd>
+        <eindtijd><![CDATA[1592000]]></eindtijd>
+        <tijdsduur><![CDATA[1470000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 24'30"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[16-11-1991]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[122000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1592000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[AR32373]]></dragernummer>
+        <dragertype><![CDATA[BCN]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>491888</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[197887]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>468691</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[122000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1592000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V32373]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>491889</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[197887]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>469241</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Serie televisiedrama's, in opdracht van Veilig Verkeer Nederland, gebaseerd op waargebeurde (verkeers)ongelukken, ingeleid en afgekondigd door Jan Douwe Kroeske.  
+Als Vera in een vioolconcours op het conservatorium een half jaar vioollessen in Italië wint, houdt haar vriend Jos de brief met de blijde boodschap achter. Te elfder ure vindt Vera de brief en spoedt zich naar het conservatorium. Op haar bromfiets wordt ze aangereden door een auto. De bestuurder, Ronald, brengt haar bloemen in het ziekenhuis. Moraal: voorrang kun je krijgen, maar moet je niet nemen. Met Lieke-Rosa Altink, Marcel Musters, Eric Corton, Liz Snoyink, Bart Gabrielse, Dennis Rotteveel, Didi Philipsen, Willem Becker, Floris van der Vlies en Rosane Paixao.]]></samenvatting>
+      <beschrijving />
+      <annotatie />
+      <taakID>290379</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[televisiedrama]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[verkeersongelukken]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA[Nederland]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[Veilig Verkeer Nederland]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

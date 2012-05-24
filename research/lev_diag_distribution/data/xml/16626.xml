@@ -1,0 +1,326 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/11968/11969/11969/16626">
+    <expressie>
+      <docid><![CDATA[62675]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[5007680]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="N">
+            <tekst><![CDATA[AFSCHEIDSCONCERT VAN DOE MAAR]]></tekst>
+            <taal />
+            <type><![CDATA[Titel]]></type>
+            <bron><![CDATA[Avail TITEL]]></bron>
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Blok, Dieuwertje]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[IDTV, Amsterdam iov KRO]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Pannekoek, Jop]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Plukker, Marianne]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Sleven, René]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>16626</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum><![CDATA[14-04-1984]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[57617000]]></begintijd>
+        <eindtijd><![CDATA[62710000]]></eindtijd>
+        <tijdsduur><![CDATA[5007680]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 84'53"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[14-04-1984]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur
+Geluid: A1=A2]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[KRO]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[57638000]]></beginopdrager>
+        <eindeopdrager><![CDATA[62645720]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD31806]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>37933</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[16626]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>561404</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[57638000]]></beginopdrager>
+        <eindeopdrager><![CDATA[62645720]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TDU31806]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus><![CDATA[Uitleenkopie]]></archiefstatus>
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>37934</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[16626]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>561406</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[57638000]]></beginopdrager>
+        <eindeopdrager><![CDATA[62645720]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[AFSCHEIDSCONC-HRE00006779]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie><![CDATA[ BG_30168.mpg]]></dragerannotatie>
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>37932</dragerid>
+        <DMGUID><![CDATA[444C4755494400BF4CA88E23AA480064B4442F030103000BE1A8C09134000000]]></DMGUID>
+        <SOF><![CDATA[57637880]]></SOF>
+        <publID><![CDATA[16626]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>561408</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[57638000]]></beginopdrager>
+        <eindeopdrager><![CDATA[62645720]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[BG_30168.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>37935</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[16626]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>561405</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[57638000]]></beginopdrager>
+        <eindeopdrager><![CDATA[62645720]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[AFSCHEIDSCONC-HRE00006779.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>193680</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[16626]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>561403</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[57638000]]></beginopdrager>
+        <eindeopdrager><![CDATA[62645720]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V28970]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>37936</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[16626]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>561407</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Afscheidsconcert van de Nederlandstalige popgroep Doe Maar vanuit de Maaspoort te Den Bosch. Doe Maar wordt voor deze gelegenheid bijgestaan door oa Henk Westbroek en Herman Brood en diverse ex-leden van de band.(83'27")]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[oud videotheeknummer: 91/3712; "real time"
+zendlijnregistratie VHS is identiek aan DIGI-BETA]]></annotatie>
+      <taakID>27649</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas />
+        <trefwoorden>
+          <trefwoord><![CDATA[concerten]]></trefwoord>
+          <trefwoord><![CDATA[popmuziek]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA['s-Hertogenbosch]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[De Maaspoort]]></naam>
+          <naam><![CDATA[Doe Maar]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Populaire popgroep Doe Maar neemt afscheid.]]></samenvatting>
+      <beschrijving><![CDATA[Afscheidsconcert van de popgroep Doe Maar. Met een hysterisch publiek en flauwvallende fans.
+
+Populair
+In de eerste helft van de jaren '80 bestormt Doe Maar de hitparades en worden boegbeelden Ernst Jansz en Henny Vrienten gebombardeerd tot popiconen. Juist door het enorme succes van de band en de jonge leeftijd van de fans besluit de groep te stoppen. Voor de fans een grote schok. 
+
+Reünie
+In 2000 komen de leden nog éénmaal bij elkaar voor een album en optredens in Ahoy' Rotterdam. De optredens werden bezocht door 175.000 mensen en daarmee is Doe Maar ook de succesvolste band van 2000.]]></beschrijving>
+      <annotatie />
+      <taakID>27650</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas>
+          <thema><![CDATA[Muziek voor miljoenen / Het beeld regeert / Tijdmachine]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

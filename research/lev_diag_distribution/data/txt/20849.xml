@@ -1,0 +1,244 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/20849">
+    <expressie>
+      <docid><![CDATA[50978]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[1794000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst />
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <spreker>
+            <naam><![CDATA[Schmidt, Annie M.G.]]></naam>
+            <functie><![CDATA[schryfster]]></functie>
+          </spreker>
+        </rollen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[21-06-1986]]></begindatum>
+            <einddatum />
+            <datumprecisie />
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie />
+          </opname>
+        </opnamen>
+        <recht>
+          <bron />
+          <rechten><![CDATA[Originele banden, lenen uitsluitend met toestemming van de
+rechthebbende.]]></rechten>
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>20849</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[0]]></begintijd>
+        <eindtijd><![CDATA[1794000]]></eindtijd>
+        <tijdsduur><![CDATA[1794000]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[21-06-1986]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NOS]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA150685]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2370278</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[20849]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3317734</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[0]]></beginopdrager>
+        <eindeopdrager><![CDATA[0]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[VA4884]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Fonotheek B&G]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>61726</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[20849]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>438897</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[0]]></beginopdrager>
+        <eindeopdrager><![CDATA[0]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[444C4755494400925ADC211D392700F7774ECC030103000BE1A8C0BD01000000]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie><![CDATA[ ]]></dragerannotatie>
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>61725</dragerid>
+        <DMGUID><![CDATA[444C4755494400925ADC211D392700F7774ECC030103000BE1A8C0BD01000000]]></DMGUID>
+        <SOF />
+        <publID><![CDATA[20849]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>438898</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[0]]></beginopdrager>
+        <eindeopdrager><![CDATA[1794000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[0000002758.mp2]]></dragernummer>
+        <dragertype><![CDATA[ONBEKEND]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>61727</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[20849]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>459352</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Kinderen praten met Annie M.G.Schmidt over haar werk. (Deel 1
+en Deel 2).]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Bon: 86859
+Bijzonderheden: Programmagegevens op bon
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>38919</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[literatuurprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas />
+        <trefwoorden>
+          <trefwoord><![CDATA[jeugdliteratuur]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[De schrijfster Annie M.G. Schmidt.]]></samenvatting>
+      <beschrijving><![CDATA[Als voorbijgangers op straat wordt gevraagd of zij een gedichtje van Annie M.G. Schmidt kennen, denken ze allemaal meteen aan 'Dikkertje Dap'. De schrijfster is 75 jaar geworden en vertelt in 'NOS Kindermagazine' over haar werk.]]></beschrijving>
+      <annotatie />
+      <taakID>38920</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas>
+          <thema><![CDATA[Kijkbuiskinderen / Leerzame zaken / Algemeen]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

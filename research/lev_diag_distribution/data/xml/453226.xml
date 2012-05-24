@@ -1,0 +1,515 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/100312/101132/104533/453226">
+    <expressie>
+      <docid><![CDATA[739]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[0]]></tijdsduur>
+      <broncatalogus><![CDATA[Weken Nederlandse Radio]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Azdural, Ahmet]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Bijleveld, Hildebrand]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Bremer, Gert]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[samenstelling]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Houët, Louis]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kooij, Machteld]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kuiper, Hans]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Lamers, Mieke]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Lazrak, Ali]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Lubsen, Jos]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[samenstelling]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Noordhoek, Wim]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Rakhorst-Chan, Loi Che]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Smeets, Arnold]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Smelt, Noud]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Stroobants, Fred]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Vos, Netty]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Waaijman, Kees]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Zoet, Hans]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <opnamen />
+        <recht>
+          <bron><![CDATA[Zender: Radio 5]]></bron>
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>454365</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[30-09-1998]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[0]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 1030'00"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[30-09-1998]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Tijdcode in ABS
+AANVULLING:
+Samplefrequentie: 32 kHz]]></technische_annotatie>
+        <netten>
+          <net><![CDATA[Radio 5]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[AVRO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[EO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[KRO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[NOS]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[NOT]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[NPS]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[PP]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[RKK]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[RVD]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[STER]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[TELEAC]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[VPRO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[WERELDOMROEP]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[WNR1241-I]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1200634</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454365]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1650603</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[2]]></volgnummer>
+        <dragernummer><![CDATA[WNR1241-II]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2546039</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454365]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3847477</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[3]]></volgnummer>
+        <dragernummer><![CDATA[WNR1241-III]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2546040</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454365]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3847478</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[4]]></volgnummer>
+        <dragernummer><![CDATA[WNR1241-IV]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2546041</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454365]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3847479</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[5]]></volgnummer>
+        <dragernummer><![CDATA[WNR1241-V]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2546042</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454365]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3847480</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[6]]></volgnummer>
+        <dragernummer><![CDATA[WNR1241-VI]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2546043</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454365]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3847481</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Zendlijnregistratie van week 40-1998. Integrale opname van
+Radio 5 woensdag 30 september 1998 06.50 uur tot 00.00 uur.]]></samenvatting>
+      <beschrijving><![CDATA['Radionieuws' (NOS): elk heel uur t/m 18.00 uur en om 21.00,
+22.00, 00.00 en 07.30 uur. Bevat tevens stationcalls en
+promo's. Veelal rond het 'Radionieuws' uitzending van reclame
+(STER), weerberichten, verkeersinformatie en
+overheidsvoorlichting (RVD).
+*
+06.50
+'Pyjamapret' (TELEAC/NOT). Kinderprogramma. Presentatie: Hans
+Kuiper.
+*
+OVER OP BAND WNR1241-II
+*
+07.05
+'Sportief' (NOS). Gymnastiekprogramma. Presentatie: Netty
+Vos.
+07.20
+'De tijd van je leven' (AVRO). Ouderenprogramma. Presentatie:
+Hans Zoet.
+08.05
+'Wereldnet' (NPS/WERELDOMROEP/VPRO). Live gesprekken met
+Nederlanders overal ter wereld. Presentatie: Fred Stroobants.
+09.02-12.00
+'Dingen die gebeuren' (Overkoepelende titel) (KRO).
+Presentatie: Mieke Lamers. Waarin om:
+09.05
+'Postbus 900'.
+09.12
+'Jong en oud'.
+10.02
+'Maatschappelijke kwesties'.
+10.05
+'De column'.
+10.30
+'Het portret'.
+*
+OVER OP BAND WRN1241-III
+*
+[Onjuiste tijdmelding]
+*
+11.00
+Vervolg van 'Dingen die gebeuren' (KRO). Presentatie: Mieke
+Lamers.
+11.02
+'Gezondheid'.
+11.05
+'Uit de praktijk van medisch publiciste Heleen Crul'.
+11.09
+'Het gesprek'.
+11.50
+'Postbus 900'.
+12.02
+'Debat op 5' (EO). Discussieprogramma. Presentatie:
+Hildebrand Bijleveld.
+13.05
+'De Radio 5-documentaire' (NPS). Documentaire. Samenstelling:
+Jos Lubsen.
+14.02
+'Montaigne' (KRO). Kunst- en cultuurprogramma. Presentatie:
+Louis Houët.
+*
+OVER OP BAND WNR1241-IV
+*
+15.00
+Vervolg van 'Montaigne' (KRO). Presentatie: Louis Houët.
+16.02
+'Glas in lood' (KRO/RKK). Christendom en cultuur.
+Presentatie: Arnold Smeets.
+17.05
+'Radio Uit' (NPS). Cultureel magazine. Presentatie: Machteld
+Kooij.
+17.50
+'Zendtijd voor politieke partijen' (PP): D66. Presentatie:
+[onbekend].
+18.02
+'Schriftgeleerden' (KRO/RKK). Gesprek met theologen en andere
+denkers over hun ideeën en idealen. Interviewer: Noud Smelt.
+18.25
+'Op verhaal komen' (KRO/RKK). Religieuze muziek op verzoek
+van luisteraars. Samenstelling: Gert Bremer.
+18.45
+'In de ruimte van de psalmen' (KRO/RKK). Bijbelse meditaties.
+Presentatie: Kees Waaijman.
+*
+OVER OP BAND WNR1241-V
+*
+19.00
+'Nieuws en actualiteiten in het Turks' (NPS). Eindredactie:
+Ahmet Azdural.
+19.45
+'Nieuws en actualiteiten in het Marokkaans en Berbers' (NPS).
+Eindredactie: Ali Lazrak.
+20.30
+'Nieuws en actualiteiten in het Chinees' (NPS). Eindredactie:
+Loi Che Rakhorst-Chan.
+21.02-22.00
+'Tot uw dienst' (Overkoepelende titel) (KRO/RKK). Informatie
+over liturgie en catechese. Presentatie: [onbekend]. Waarin
+om:
+21.02
+'Internationale route Pax Christi naar Ierland'
+21.30
+'Boekbespreking'.
+21.40
+'Ter overweging'.
+21.55
+'Scheepspraat'.
+22.02
+'De avonden' (VPRO). Cultureel magazine. Presentatie: Wim
+Noordhoek.
+*
+OVER OP BAND WNR1241-VI
+*
+[Onjuiste tijdmelding]
+*
+23.00
+Vervolg van 'De avonden' (VPRO). Presentatie: Wim Noordhoek.
+00.00
+*
+EINDE]]></beschrijving>
+      <annotatie><![CDATA[Dit item beslaat 6 cassettes: WNR1241 I-VI. Tijdcodes zijn
+overgenomen uit de radiogids. Van dit programma bestaat geen
+uitleenexemplaar. Via Klantenservice kan een kopie worden
+gemaakt.]]></annotatie>
+      <taakID>581783</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[documentaire]]></genre>
+          <genre><![CDATA[gymnastiekprogramma]]></genre>
+          <genre><![CDATA[nieuwsbulletin]]></genre>
+          <genre><![CDATA[promo]]></genre>
+          <genre><![CDATA[reclame]]></genre>
+          <genre><![CDATA[stationcall]]></genre>
+          <genre><![CDATA[verkeersinformatie]]></genre>
+          <genre><![CDATA[voorlichting]]></genre>
+          <genre><![CDATA[weerberichten]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Weken Nederlandse Radio]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

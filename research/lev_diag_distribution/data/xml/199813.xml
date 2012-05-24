@@ -1,0 +1,328 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/70780/71460/73701/199813">
+    <expressie>
+      <docid><![CDATA[175143]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[1220000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Huybregts, Marinus]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <opnameplaatsen>
+          <opnameplaats><![CDATA[Breda, Sacramentskerk]]></opnameplaats>
+        </opnameplaatsen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[zw/w]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>200299</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[05-04-1969]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[4163000]]></begintijd>
+        <eindtijd><![CDATA[5383000]]></eindtijd>
+        <tijdsduur><![CDATA[1220000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 20'20"]]></tijdsduur_annotatie>
+        <begintijdstip><![CDATA[82800000]]></begintijdstip>
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[05-04-1969]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten>
+          <net><![CDATA[Nederland 1]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[KRO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ RKK]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[4163000]]></beginopdrager>
+        <eindeopdrager><![CDATA[5383000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[3/3578]]></dragernummer>
+        <dragertype><![CDATA[bliknr.]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>497061</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[200299]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>314895</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[1579480]]></beginopdrager>
+        <eindeopdrager><![CDATA[2795000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD93685]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2507836</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[200299]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3747718</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[3/3578A1]]></dragernummer>
+        <dragertype><![CDATA[FILM]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie><![CDATA[v55280     niav]]></dragerannotatie>
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2805779</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[200299]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat><![CDATA[16 mm]]></formaat>
+        <herkomst>Filmscheiding</herkomst>
+        <geluidstype>sep mag</geluidstype>
+        <metrage />
+        <sortering />
+        <positieid>26570607</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[1579480]]></beginopdrager>
+        <eindeopdrager><![CDATA[2795000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[PAASWAKE_____-HRE00019AB4]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2747913</dragerid>
+        <DMGUID><![CDATA[2009040815161490800790450740014C2607C530000000540B00000D0F011660]]></DMGUID>
+        <SOF><![CDATA[1579000]]></SOF>
+        <publID><![CDATA[200299]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>7755256</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[1579480]]></beginopdrager>
+        <eindeopdrager><![CDATA[2795000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[PAASWAKE_____-HRE00019AB4.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2746481</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[200299]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>7742506</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[1579480]]></beginopdrager>
+        <eindeopdrager><![CDATA[2795000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[PAASWAKE_____-HRE00019AB4.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2746482</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[200299]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>7742507</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[3/3578B1]]></dragernummer>
+        <dragertype><![CDATA[PERFO]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie><![CDATA[niav]]></dragerannotatie>
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2805780</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[200299]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat><![CDATA[16 mm]]></formaat>
+        <herkomst>Filmscheiding</herkomst>
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>26570609</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[4163000]]></beginopdrager>
+        <eindeopdrager><![CDATA[5383000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V55280]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>312626</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[200299]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>315422</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Viering van de Paasnacht in de Sacramentskerk in Breda. Na
+het zingen van de hymne van de Paasnacht wordt de woorddienst
+gehouden, daarna de toediening van de doop en de dienst van
+de tafel. Hoofdcelebrant-predikant is pastoor J. Sträter.
+M.m.v. het Sacramentskoor o.l.v. Walther Cantrijn en het
+jongerenkoor o.l.v. Dymph Meuwese en organist Tijn van Eyk.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Film is telerecording.
+VHS is kopie zonder tijdcode van film.
+Tijdcode is tellertijd VHS-recorder.]]></annotatie>
+      <taakID>293058</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[kerkdienst]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen>
+          <naam><![CDATA[Pasen]]></naam>
+          <naam><![CDATA[Rooms-Katholieke Kerk]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

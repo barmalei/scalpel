@@ -1,0 +1,13 @@
+
+PROJECT {
+    @desc = "TAE test context"
+    
+    ARTIFACT(JAVA) {
+        @libs=['test', "lib", 'lib/junit']
+    }
+
+    COMMAND('compilejava',  SunJavaCompiler) { 
+        @destination = "test"
+        @options = "-Xlint:deprecation" 
+    }  
+}

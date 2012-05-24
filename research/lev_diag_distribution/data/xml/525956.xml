@@ -1,0 +1,326 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/525956">
+    <expressie>
+      <docid><![CDATA[56766]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[0]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Groen, Anneke]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Groenteman, Hanneke]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Jennekens, Frans]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Krieken, Hugo van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Mos, Willy]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Schmidt, Marijke]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <spreker>
+            <naam><![CDATA[Boorsma, Jan]]></naam>
+            <functie><![CDATA[onderwys]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Dessaur, C.I.]]></naam>
+            <functie><![CDATA[ex-docente, hoogleraar criminologie]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Jungbluth, Paul]]></naam>
+            <functie><![CDATA[onderwys]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Oerlemans,]]></naam>
+            <functie><![CDATA[kleuterleidster]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Schip, van 't]]></naam>
+            <functie><![CDATA[kleuterleidster]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Vught, van]]></naam>
+            <functie><![CDATA[kleuterleidster]]></functie>
+          </spreker>
+        </rollen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[30-01-1989]]></begindatum>
+            <einddatum />
+            <datumprecisie />
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie />
+          </opname>
+        </opnamen>
+        <recht>
+          <bron />
+          <rechten><![CDATA[Originele banden, lenen uitsluitend met toestemming van de
+rechthebbende.]]></rechten>
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>527099</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[0]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[30-01-1989]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA32693]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2373649</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[527099]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3323404</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA65212]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2373650</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[527099]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3323405</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA74152]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2373651</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[527099]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3323406</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA90349]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2373652</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[527099]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3323407</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA9851]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1290000</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[527099]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1869483</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Themauitzending over het onderwys. Hoe kan de kwaliteit
+verbeterd worden? En is dat mogelyk met behoud van gelyke
+kansen voor leerlingen uit elk milieu. Gesprekken hierover
+onder andere met Jan Boorsma en Paul Jungbluth,
+kleuterleidsters Van 't Schip en Oerlemans, mevrouw Scha en
+de heer Knoop, professor C.I.
+Dessaur en professor Van Vught. Verder reportages over de
+PABO (Pedagogische Academie), het byzonder onderwys, het
+voortgezet onderwys, de Erasmus Universiteit en het
+onderwysvoorrangsbeleid. Aan het eind van het programma
+discussies onder leiding van Hanneke Groenteman over het
+basis-,
+het voortgezet-, en het universitair en HBO-onderwys.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Bon: 75128
+Bijzonderheden: Programmagegevens op bon
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>657440</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[NADER TE BEPALEN]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[beroepsonderwijs]]></trefwoord>
+          <trefwoord><![CDATA[jeugd]]></trefwoord>
+          <trefwoord><![CDATA[onderwijs]]></trefwoord>
+          <trefwoord><![CDATA[studenten]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[Ryksuniversiteit te Rotterdam]]></vervallen_trefwoord>
+          <vervallen_trefwoord><![CDATA[pedagogie]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen>
+          <naam><![CDATA[PABO]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

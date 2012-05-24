@@ -1,0 +1,250 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/453448">
+    <expressie>
+      <docid><![CDATA[96584]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[215000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="N">
+            <tekst><![CDATA[EDDY STARTZ: 'WONDERS OF HOLLAND']]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Startz, Edward]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Startz, Edward]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[redactie]]></functie>
+            </functies>
+          </maker>
+          <producent>
+            <naam><![CDATA[Philips' Radio]]></naam>
+          </producent>
+        </rollen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[01-01-1939]]></begindatum>
+            <einddatum />
+            <datumprecisie><![CDATA[exacte datum onbekend]]></datumprecisie>
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie><![CDATA[(1939, exact jaar onbekend)]]></annotatie>
+          </opname>
+        </opnamen>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>454587</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[215000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 3'35"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[01-01-1939]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie />
+        <netten>
+          <net><![CDATA[PCJ]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NIET BEKEND]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA18900]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367864</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454587]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314341</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA3787]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367865</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454587]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314342</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA56354]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367866</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454587]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314343</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[220000]]></beginopdrager>
+        <eindeopdrager><![CDATA[435000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA0089]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1200740</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454587]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1651015</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Openingsfragment van programma van Eddy Startz van Philips'
+Radio gericht op Holland-promotie. Startz spreekt ter
+inleiding van een gesprek met een Engelstalige buitenlander.
+Hij somt op wat karakteristiek is voor Nederland en begint
+met 'b': bicycles, bottles, bells etc. Ter demonstratie laat
+hij het klokkenspel van een carillon (churchbells) horen. We
+horen het ' Wilhelmus' uitgevoerd op een carillon. Natuurlijk
+ontbreken de 'wooden shoes' ook niet in dit gesprek. [Het
+eigenlijke gesprek met de buitenlander ontbreekt.]]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[OudSFW: C31100/26-3074. De opname is onvolledig.
+Van deze opname bestaat  geen uitleenexemplaar.  Via
+Klantenservice kan een kopie worden gemaakt. Deze opname kan
+van wisselende geluidskwaliteit zijn.
+Zendgemachtigde is Philips' Radio.
+
+Bon: 61219
+Bijzonderheden: programmagegevens op bon
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>582339</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[amusement]]></genre>
+          <genre><![CDATA[propaganda]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[toerisme]]></trefwoord>
+          <trefwoord><![CDATA[volkscultuur]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA[Nederland]]></geografische_naam>
+        </geografische_namen>
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

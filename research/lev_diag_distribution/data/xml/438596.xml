@@ -1,0 +1,213 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/438596">
+    <expressie>
+      <docid><![CDATA[96572]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[0]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <spreker>
+            <naam><![CDATA[Boeijen, H. van]]></naam>
+            <functie><![CDATA[Minister van Binnenl. Zaken]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Dijk, J.J.C. van]]></naam>
+            <functie><![CDATA[Minister van Defensie]]></functie>
+          </spreker>
+          <producent>
+            <naam><![CDATA[Internationale Radio Dienst, Hilversum]]></naam>
+          </producent>
+        </rollen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[27-08-1938]]></begindatum>
+            <einddatum />
+            <datumprecisie />
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie />
+          </opname>
+        </opnamen>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>439738</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[0]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 8'42"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[27-08-1938]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[PHOHI]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA57847]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367852</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[439738]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314329</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA75809]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367853</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[439738]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314330</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA0077]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1191222</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[439738]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1615132</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Toespraken gericht tot de leden van de Bijzonder Vrijwillige
+Landstorm (BVL). Registratie van fragmenten uit twee
+ministeriële toespraken.
+Minister H. van Boeyen (Binnenlandse Zaken) licht de aard van
+de Landstormer toe: deze is geroepen om volk, vaderland en
+vorstin te dienen. Het motto van de Landstormers luidt: 'We
+willen dienen'. Ook de Oranjes hebben het volk gediend
+(fragment).
+Aankondiging van de tweede spreker.
+Minister J. van Dijk (Defensie) meldt in slot van toespraak
+dat deze bijeenkomst plaats vindt ter voorbereiding van de
+viering van het veertigjarig regeringsjubileum van koningin
+Wilhelmina. Tevens bestaat de BVL zelf  twintig jaar.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[OudSFW: C31088/26-3071, 26-3072. Van deze opname bestaat geen
+uitleenexemplaar. Via Klantenservice kan een kopie worden
+gemaakt. Deze opname bestaat uit ruw, ongemonteerd materiaal
+en kan van wisselende geluidskwaliteit zijn.
+
+Bon: 42686
+Bijzonderheden: Programmagegevens op bon
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>539413</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[gelegenheidsproductie]]></genre>
+          <genre><![CDATA[toespraak]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[jubilea]]></trefwoord>
+          <trefwoord><![CDATA[vrijwilligers]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[regeringsjubilea]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen>
+          <naam><![CDATA[Landstorm]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

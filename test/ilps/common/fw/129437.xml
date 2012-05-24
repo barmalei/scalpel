@@ -1,0 +1,305 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/55011/55671/57751/129437">
+    <expressie>
+      <docid><![CDATA[96927]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[2921000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Hees, Egbert van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Heuvel, Aad van den]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Zwerus, Peter]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>129906</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[29-03-1983]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[119000]]></begintijd>
+        <eindtijd><![CDATA[3040000]]></eindtijd>
+        <tijdsduur><![CDATA[2921000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 48'41"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[29-03-1983]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NOT]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ ABOO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ AVRO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[118520]]></beginopdrager>
+        <eindeopdrager><![CDATA[3038040]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD30209]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>354530</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[129906]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>252606</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[118520]]></beginopdrager>
+        <eindeopdrager><![CDATA[3038040]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[AFL2GROEPSVOR-HRE00009B43]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1361899</dragerid>
+        <DMGUID><![CDATA[2007080112254210800790450740014C2607C530000003236B00000D0F001582]]></DMGUID>
+        <SOF><![CDATA[118000]]></SOF>
+        <publID><![CDATA[129906]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2105678</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[118520]]></beginopdrager>
+        <eindeopdrager><![CDATA[3038040]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[AFL2GROEPSVOR-HRE00009B43.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1361347</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[129906]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2105111</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[118520]]></beginopdrager>
+        <eindeopdrager><![CDATA[3038040]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[AFL2GROEPSVOR-HRE00009B43.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1361348</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[129906]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2105112</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[119000]]></beginopdrager>
+        <eindeopdrager><![CDATA[3040000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V20445]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>354531</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[129906]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>253222</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Live-praatprogramma olv Peter Zwerus, waarin leerlingen uit
+het voortgezet onderwijs hun mening geven over een bepaald
+onderwerp en hierover met studiogasten discussieren. Vast
+onderdeel: een optreden van de popgroep Drukwerk. Deze
+aflevering: seksualiteit onder jongeren. Gastpresentator: Aad
+van den Heuvel.]]></samenvatting>
+      <beschrijving><![CDATA[Leerlingen van de Openbare Middenschool en
+Jenaplan-IVO-school P.F. van Overbeeke uit Utrecht
+discussiëren met de studiogasten over de volgende
+onderwerpen: de manier waarop jongeren met elkaar omgaan en
+welke rol seks daarbij speelt,
+met je ouders over seks praten en het verschil in de manier
+waarop meisjes en jongens over seks praten.
+STUDIOGASTEN: een jongen en een meisje van de Haagse
+Interactiegroep Homojongeren vertellen over hun manier om met
+homoseksuele jongeren in contact te komen en over de wijze
+waarop hun ouders reageerden op hun homoseksualiteit.
+SHOTS:
+03:57 verschillende foto's waaruit de leidende rol van de man
+blijkt tijdens het liefdesspel;
+27:59 vragen over seksualiteit en seksuele voorlichting aan
+marktbezoekers;
+SHOTS:
+16:58 toneelgroep Ars uit Hilversum speelt een sketch waarin
+het gevestigde man-vrouw-rollenpatroon wordt omgedraaid;
+31:27 Peter Zwerus zingt een liedje over seksualiteit en
+taboes;
+46:39 de popgroep Drukwerk met "Marianneke".]]></beschrijving>
+      <annotatie />
+      <taakID>214778</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[praatprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[homoseksualiteit]]></trefwoord>
+          <trefwoord><![CDATA[seksualiteit]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[jongeren]]></vervallen_trefwoord>
+          <vervallen_trefwoord><![CDATA[seks]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen>
+          <naam><![CDATA[Drukwerk]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Jongeren over (homo)seksualiteit.]]></samenvatting>
+      <beschrijving><![CDATA[Een thema van alle tijden: seksualiteit en jongeren. Leerlingen praten over de rol die seks speelt onder jongeren. Praat je wel eens met je ouders over seks? En is er verschil waarop meisjes en jongens over seks praten?
+
+Homoseksualiteit
+Een jongen en een meisje van de Interactiegroep Homojongeren vertellen hoe ze met homoseksuele jongeren in contact komen. Prangende eeuwige vraag: hoe reageerden je ouders op je homoseksualiteit?
+Drukwerk zingt ‘Marianneke’: “Er zijn meisjes die doen het met tegenzin, d'r zijn meisjes die vinden het fijn. Marianneke doet het met veel plezier oh, wat zal ik daar gelukkig mee zijn”.]]></beschrijving>
+      <annotatie />
+      <taakID>1135049</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas />
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

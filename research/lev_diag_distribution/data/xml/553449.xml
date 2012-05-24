@@ -1,0 +1,319 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/553449">
+    <expressie>
+      <docid><![CDATA[51869]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[6840000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Aalbers, Paul]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Aalbers, Paul]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Aalbers, Paul]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Büch, Boudewijn]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Galis, Cor]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[omroeper]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Hanken, Caroline]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Hanken, Caroline]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Nauta, Astrid]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Noordhoek, Wim]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Noordhoek, Wim]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Toorn, Willem van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[commentaar]]></functie>
+            </functies>
+          </maker>
+          <spreker>
+            <naam><![CDATA[Bakker, Bert (uitgever)]]></naam>
+            <functie><![CDATA[uitgever]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Büch, Boudewijn]]></naam>
+            <functie><![CDATA[schrijver, programmamaker]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Funke-Bordewijk, N.]]></naam>
+            <functie><![CDATA[dochter van schrijver F. Bordewijk]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Gennep, Rob van]]></naam>
+            <functie><![CDATA[uitgever]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Hofman, Wim]]></naam>
+            <functie><![CDATA[schrijver]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Scholten, H.]]></naam>
+            <functie><![CDATA[letterkundige]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Schwartz, Gary]]></naam>
+            <functie><![CDATA[uitgever]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Sontrop, Theo]]></naam>
+            <functie><![CDATA[uitgever]]></functie>
+          </spreker>
+        </rollen>
+        <taalgebruiken />
+        <opnamen />
+        <recht>
+          <bron><![CDATA[Archiefmateriaal: AVRO Gesprekken met F. Bordewijk]]></bron>
+          <rechten><![CDATA[Originele banden, lenen uitsluitend met toestemming van de
+rechthebbende.]]></rechten>
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>554588</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[09-10-1984]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[65160000]]></begintijd>
+        <eindtijd />
+        <tijdsduur><![CDATA[6840000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 114'00"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[09-10-1984]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten>
+          <net><![CDATA[Hilversum 1]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VPRO]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA108593]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2369568</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554588]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3316849</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA64111]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2369569</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554588]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3316850</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[65160000]]></beginopdrager>
+        <eindeopdrager><![CDATA[72000000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA3816]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1308294</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554588]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1932291</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Wekelijks literair magazine, met:
+1. Interview met schrijver en programmamaker Boudewijn Büch
+over hetgeen hij het komend seizoen van plan is te gaan doen
+in het boekenprogramma.
+Introductie van nieuwe rubriek: het 'Büch's literaire
+rariteitenkabinet'.
+2. Reportage over de Frankfurter Büchmesse, waarin interviews
+met uitgevers Rob van Gennep, Harko Keijzer, Bert Bakker,
+Theo Sontrop en Gary Schwartz.
+3. De Kinderboekenweek: reportage over het 'ABC-boek', waarin
+een interview  met Wim Hofman, schrijver van 'Aap en Beer'
+welk is bekroond met de 'Zilveren Griffel' 1984.
+4. Recensie van de dichtbundel 'Waaien op het dek' van
+schrijver Cees Sanders.
+5. Portret van de schrijver Bordewijk, die honderd jaar
+geleden werd geboren. Interviews met Bordewijks dochter Nick
+Funke en de letterkundige Harry Scholten. Met een
+archieffragment van een interview uit 1962 van literator Nol
+Gregoor met Bordewijk [55'00"].]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Programma niet afgeluisterd. Beschrijving gemaakt op basis
+van programmagegevens.
+Bandnummers NA-108593 en NA--64111.
+
+Bon: 6887
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>686306</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[literatuurprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[beurzen]]></trefwoord>
+          <trefwoord><![CDATA[boekhandel]]></trefwoord>
+          <trefwoord><![CDATA[jeugdliteratuur]]></trefwoord>
+          <trefwoord><![CDATA[literatuur]]></trefwoord>
+          <trefwoord><![CDATA[poëzie]]></trefwoord>
+          <trefwoord><![CDATA[uitgeverijen]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Bordewijk, F.]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Sanders, C.]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen>
+          <geografische_naam><![CDATA[Frankfurt]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[Frankfurter Buchmesse]]></naam>
+          <naam><![CDATA[Kinderboekenweek]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

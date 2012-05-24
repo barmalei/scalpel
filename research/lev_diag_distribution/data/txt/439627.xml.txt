@@ -1,0 +1,3 @@
+Tyd voor Tetske (als programma voorbeeld).Bon: 42345
+Bijzonderheden: Opname uit uitzending
+Reserveringen: Gereserveerd HA

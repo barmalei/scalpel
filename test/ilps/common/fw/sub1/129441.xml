@@ -1,0 +1,305 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/55011/55671/57751/129441">
+    <expressie>
+      <docid><![CDATA[96727]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[3097000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[DE SPIJKER OP Z'N KOP SHOW (4)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Hees, Egbert van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Zwerus, Peter]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>129910</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[01-02-1983]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[119000]]></begintijd>
+        <eindtijd><![CDATA[3216000]]></eindtijd>
+        <tijdsduur><![CDATA[3097000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 51'37"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[01-02-1983]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NOT]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ ABOO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ AVRO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[119280]]></beginopdrager>
+        <eindeopdrager><![CDATA[3215640]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD30082]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>354538</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[129910]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>637088</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119280]]></beginopdrager>
+        <eindeopdrager><![CDATA[3215640]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DESPIJKEROPZN-HRE00009B47]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1361975</dragerid>
+        <DMGUID><![CDATA[2007080113253020800790450740014C2607C530000003236B00000D0F001599]]></DMGUID>
+        <SOF><![CDATA[118000]]></SOF>
+        <publID><![CDATA[129910]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2105783</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119280]]></beginopdrager>
+        <eindeopdrager><![CDATA[3215640]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DESPIJKEROPZN-HRE00009B47.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1361367</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[129910]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2105131</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119280]]></beginopdrager>
+        <eindeopdrager><![CDATA[3215640]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DESPIJKEROPZN-HRE00009B47.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1361368</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[129910]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2105132</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[119000]]></beginopdrager>
+        <eindeopdrager><![CDATA[3216000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V20442]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>354539</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[129910]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>637713</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Live-praatprogramma olv Peter Zwerus, waarin leerlingen uit
+het voortgezet onderwijs hun mening geven over een bepaald
+onderwerp en hierover met studiogasten discussieren. Vast
+onderdeel: een optreden van de popgroep Drukwerk. 
+Deze aflevering over het gebruik van computers in het
+onderwijs. Gastpresentator: Joop Koopman.]]></samenvatting>
+      <beschrijving><![CDATA[Leerlingen van de Gemeentelijke Scholengemeenschap Zuid uit
+Dordrecht en de Ivo Middenschool Zuid-Veluwe uit Beek
+discussiëren met de studiogasten over de volgende onderwerpen:
+het nut en de noodzaak van computergebruik op scholen (volgens
+een enquête onder de leerlingen in de studio is 70% hiervan
+voorstander), de gevolgen voor de werkgelegenheid in het
+onderwijs en het effect van veelvuldig computergebruik op de
+gezondheid van de leerlingen. 
+STUDIOGASTEN:: 
+- Harry Pinksteren, psycholoog, die het gebruik van de
+programmeertaal LOGO aanbeveelt; 
+- Joop Ringelberg en Ed Hoenkamp, makers van LOGO; 
+- prof. Beekman, hoogleraar pedagogie aan de RU Utrecht, over
+het nut om in Nederland voor te lopen op andere landen vwb
+computergebruik in het onderwijs. 
+SHOTS: 
+07:30 animatiefilm, gemaakt door Geert Nijmolen, over het
+gebruik van hulpmiddelen in het onderwijs; 
+26:24 uitbreide demonstratie van de programmeertaal LOGO +
+cu's van informatie op beeldscherm. 
+OPTREDEN: 
+21:12 Drukwerk met "De instantmuzikant".]]></beschrijving>
+      <annotatie />
+      <taakID>214786</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[praatprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[animaties]]></trefwoord>
+          <trefwoord><![CDATA[computers]]></trefwoord>
+          <trefwoord><![CDATA[onderwijs]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[jongeren]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Koopman, Joop]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen>
+          <geografische_naam><![CDATA[Nederland]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[Drukwerk]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Over nut en noodzaak van computergebruik op school.]]></samenvatting>
+      <beschrijving><![CDATA[Leerlingen discussiëren over nut en noodzaak van computers op school. Ruim 70 procent is voorstander van computergebruik. Maar teveel achter de pc zitten kan gevolgen hebben voor de gezondheid van de leerlingen. Aardig is de demo van de programmeertaal LOGO. Drukwerk zingt ‘De instantmuzikant’.]]></beschrijving>
+      <annotatie />
+      <taakID>1135066</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas />
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

@@ -1,0 +1,206 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/67018/67678/69839/205038">
+    <expressie>
+      <docid><![CDATA[117049]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[1400000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[Kortsluiting (Vlaardingen)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Janga, Orlando]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[scenario]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Krapels, Hetty]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kroeske, Jan Douwe]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Walther, Hans]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Wolf, Joost de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <producent>
+            <naam><![CDATA[IDTV]]></naam>
+          </producent>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>205524</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[16-09-1995]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[70971000]]></begintijd>
+        <eindtijd><![CDATA[72371000]]></eindtijd>
+        <tijdsduur><![CDATA[1400000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 23'20"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[16-09-1995]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[70971000]]></beginopdrager>
+        <eindeopdrager><![CDATA[72371000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD5689]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>12743</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[205524]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>626783</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[70971000]]></beginopdrager>
+        <eindeopdrager><![CDATA[72371000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V59440]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>12745</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[205524]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>627265</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Serie televisiedrama's, gebaseerd op waargebeurde ongelukken,
+ingeleid en afgekondigd door Jan Douwe Kroeske.
+In deze aflevering zijn tijdens een haastklus in een
+graansilo zijn twee ploegen aan het werk, waarvan er één
+zwart werkt.
+Door onderlinge irritatie wordt er een fout gemaakt en
+verliest een man zijn beide benen. Met: Alina Kiers, Eric van
+Sauers, Erik Koningsberger, Vefa Öcal, Guus Dam, Ben
+Ramakers,
+Anita Barens.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[TITELANNOTATIE: Vlaardingen]]></annotatie>
+      <taakID>298921</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[televisiedrama]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[arbeidsongevallen]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Barends, Anita]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Dam, Guus]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Koningsberger, Erik]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Ramakers, Ben]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Sauers, Eric van]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Öcal, Vefa]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

@@ -1,0 +1,203 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/67018/67678/69839/196272">
+    <expressie>
+      <docid><![CDATA[73494]]></docid>
+      <afleveringsnummer><![CDATA[23]]></afleveringsnummer>
+      <deel />
+      <tijdsduur><![CDATA[1421000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[Afl. 23: Ken ik U niet ergens van ? (Leiden)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Doren, Ad van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kroeske, Jan Douwe]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Megen, Ruud van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[scenario]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Stips, Wouter]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Wolf, Joost de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[redactie]]></functie>
+            </functies>
+          </maker>
+          <producent>
+            <naam><![CDATA[Peekel/Stips Produkties]]></naam>
+          </producent>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>196758</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[14-12-1991]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[120000]]></begintijd>
+        <eindtijd><![CDATA[1541000]]></eindtijd>
+        <tijdsduur><![CDATA[1421000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 23'41"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[14-12-1991]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1541000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[AR32968]]></dragernummer>
+        <dragertype><![CDATA[BCN]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>489554</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[196758]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>231847</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1541000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V32968]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>489555</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[196758]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>230587</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Serie televisiedrama's, in opdracht van Veilig Verkeer Nederland,
+gebaseerd op waargebeurde (verkeers)ongelukken, ingeleid en
+afgekondigd door Jan Douwe Kroeske. 
+Rudi is verliefd en heeft Hanneke thuisgebracht. Heleen heeft
+net, na een incident op de fiets, besloten een auto te kopen.
+Rudi en Heleen botsen in een bocht frontaal op elkaar, waarbij
+Rudi een schedelbasisfractuur oploopt. Moraal: rij nooit
+zonder helm op een bromfiets (ook al is het een opgevoerde
+snorfiets). Met Ellen Peters, Raymi Sambo, Robert van Leeuwen,
+Sanne Stips, Tobia Jantzen, ea.]]></samenvatting>
+      <beschrijving />
+      <annotatie />
+      <taakID>289096</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[televisiedrama]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[verkeersongelukken]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA[Nederland]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[Veilig Verkeer Nederland]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

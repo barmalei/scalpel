@@ -1,0 +1,258 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/70780/71460/73701/209511">
+    <expressie>
+      <docid><![CDATA[162378]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[4545000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Haarman, Annemiek]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Versluis, Astrid]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <spreker>
+            <naam><![CDATA[Denneman, Peter]]></naam>
+            <functie />
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Verberne, Ben]]></naam>
+            <functie />
+          </spreker>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>209997</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[30-03-2002]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[82815000]]></begintijd>
+        <eindtijd><![CDATA[960000]]></eindtijd>
+        <tijdsduur><![CDATA[4545000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 75'45"]]></tijdsduur_annotatie>
+        <begintijdstip><![CDATA[82800000]]></begintijdstip>
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[30-03-2002]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur
+AANVULLING:
+Breedbeelduitzending (PALplus)]]></technische_annotatie>
+        <netten>
+          <net><![CDATA[Nederland 1]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[RKK]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[82814680]]></beginopdrager>
+        <eindeopdrager><![CDATA[87360240]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD61729]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>518668</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[209997]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>128778</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[82814680]]></beginopdrager>
+        <eindeopdrager><![CDATA[87360240]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[PAASWAKE_____-HRE0001C5FC]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2827364</dragerid>
+        <DMGUID><![CDATA[2009060505151700800790450740014C2607C530000005848B00000D0F004662]]></DMGUID>
+        <SOF><![CDATA[82814000]]></SOF>
+        <publID><![CDATA[209997]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>33426640</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[82814680]]></beginopdrager>
+        <eindeopdrager><![CDATA[87360240]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[PAASWAKE_____-HRE0001C5FC.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2827324</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[209997]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>33410562</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[82814680]]></beginopdrager>
+        <eindeopdrager><![CDATA[87360240]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[PAASWAKE_____-HRE0001C5FC.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2827325</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[209997]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>33410563</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[82815000]]></beginopdrager>
+        <eindeopdrager><![CDATA[960000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V88529]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>518669</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[209997]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>128777</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Eucharistieviering in het Cenakel in Soesterberg. Voorgangers
+zijn de omroeppastores Joke Litjens, Ben Verberne en Peter
+Denneman. Mmv Schola van 't Cenakel olv Herman Rouw en Marion
+Boshuizen (piano en orgel).]]></samenvatting>
+      <beschrijving />
+      <annotatie />
+      <taakID>303806</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[kerkdienst]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[eucharistievieringen]]></vervallen_trefwoord>
+          <vervallen_trefwoord><![CDATA[kerkdiensten]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen>
+          <naam><![CDATA[Pasen]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

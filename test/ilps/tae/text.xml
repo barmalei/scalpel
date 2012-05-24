@@ -1,0 +1,12 @@
+<root>
+	<text1>
+		This is test XML file
+	</text1>
+	
+	<text2>
+		<subtext2>
+			To test XML text
+		</subtext2>
+	</text2>
+		
+</root>

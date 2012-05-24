@@ -1,0 +1,554 @@
+<bridge>
+ <expressiepublicatiedistributieformaat>
+ </expressiepublicatiedistributieformaat>
+ <selectietijdsduur>
+ </selectietijdsduur>
+ <selectiepositiedmguid>
+ </selectiepositiedmguid>
+ <selectieniveauthemas>
+ </selectieniveauthemas>
+ <expressiepublicatieindicatie_live>
+ </expressiepublicatieindicatie_live>
+ <expressierechtrechten>
+ </expressierechtrechten>
+ <expressiepublicatieeindtijd>
+ </expressiepublicatieeindtijd>
+ <realisatiedeelcatalogi>
+  <deelcatalogus docid='/70710/71390'>
+   <![CDATA[Bewegend beeld/TV/Publieke omroep/Overige programma's]]>
+  </deelcatalogus>
+ </realisatiedeelcatalogi>
+ <expressieopnamebegindatum>
+ </expressieopnamebegindatum>
+ <expressieniveaunamen>
+ </expressieniveaunamen>
+ <expressiepublicatiebegindatum>
+  <begindatum docid='/70710/71390/73631/186361'>
+   <![CDATA[29-06-1991]]>
+  </begindatum>
+  <begindatum docid='/70710/71390/73631/186353'>
+   <![CDATA[30-06-1991]]>
+  </begindatum>
+ </expressiepublicatiebegindatum>
+ <selectietitels>
+ </selectietitels>
+ <selectieniveaunamen>
+ </selectieniveaunamen>
+ <expressiepublicatietijdsduur_annotatie>
+ </expressiepublicatietijdsduur_annotatie>
+ <selectiepositiebewaarplaats>
+ </selectiepositiebewaarplaats>
+ <selectiepositiedragernummer>
+ </selectiepositiedragernummer>
+ <expressietaalgebruiken>
+ </expressietaalgebruiken>
+ <expressiepositiedragertype>
+  <dragertype docid='/70710/71390/73631/186353'>
+   <![CDATA[DIGI-BETA]]>
+  </dragertype>
+  <dragertype docid='/70710/71390/73631/186353'>
+   <![CDATA[DIGI-BETA]]>
+  </dragertype>
+  <dragertype docid='/70710/71390/73631/186353'>
+   <![CDATA[VHS]]>
+  </dragertype>
+  <dragertype docid='/70710/71390/73631/186353'>
+   <![CDATA[VHS]]>
+  </dragertype>
+  <dragertype docid='/70710/71390/73631/186361'>
+   <![CDATA[DIGI-BETA]]>
+  </dragertype>
+  <dragertype docid='/70710/71390/73631/186361'>
+   <![CDATA[DIGI-BETA]]>
+  </dragertype>
+  <dragertype docid='/70710/71390/73631/186361'>
+   <![CDATA[VHS]]>
+  </dragertype>
+  <dragertype docid='/70710/71390/73631/186361'>
+   <![CDATA[VHS]]>
+  </dragertype>
+ </expressiepositiedragertype>
+ <expressiecontextkleur>
+ </expressiecontextkleur>
+ <expressiepublicatietijdsduur>
+  <tijdsduur docid='/70710/71390/73631/186353'>
+   <![CDATA[0]]>
+  </tijdsduur>
+  <tijdsduur docid='/70710/71390/73631/186361'>
+   <![CDATA[0]]>
+  </tijdsduur>
+ </expressiepublicatietijdsduur>
+ <selectiedocid>
+ </selectiedocid>
+ <realisatiedoelgroepen>
+ </realisatiedoelgroepen>
+ <expressiepublicatienetten>
+ </expressiepublicatienetten>
+ <realisatiesamenvatting>
+ </realisatiesamenvatting>
+ <expressieniveaugenres>
+  <genre docid='/70710/71390/73631/186353'>
+   <![CDATA[sportprogramma]]>
+  </genre>
+  <genre docid='/70710/71390/73631/186361'>
+   <![CDATA[sportprogramma]]>
+  </genre>
+ </expressieniveaugenres>
+ <expressieniveausamenvatting>
+  <samenvatting p='1' docid='/70710/71390/73631/186353'>
+   <![CDATA[Tweede deel van spring- en dressuurwedstrijden in Stadspark
+Presikhaaf te Arnhem. Met deelname van oa Franke Sloothaak,
+Nelson Pessoa, Nick Shelton, Hugo   Simon, Jos Lansink.
+Presentatie en commentaar Jack van der Voorn en Erik Wauters.]]>
+  </samenvatting>
+  <samenvatting p='1' docid='/70710/71390/73631/186361'>
+   <![CDATA[Eerste deel van spring- en dressuurwedstijden in Stadspark
+Presikhaaf te Arnhem. Met deelname van oa Franke Sloothaak,
+Nelson Pessoa, Nick Shelton, Hugo   Simon, Jos Lansink.
+Presentatie en commentaar Jack van der Voorn en Erik Wauters.]]>
+  </samenvatting>
+ </expressieniveausamenvatting>
+ <selectieieindtijd>
+ </selectieieindtijd>
+ <expressiepublicatieindicatie_herhaling>
+ </expressiepublicatieindicatie_herhaling>
+ <realisatietaakid>
+  <taakID docid='/70710/71390'>
+   <![CDATA[278045]]>
+  </taakID>
+ </realisatietaakid>
+ <expressierechtbron>
+ </expressierechtbron>
+ <expressiepositiedragerannotatie>
+ </expressiepositiedragerannotatie>
+ <selectierollen>
+ </selectierollen>
+ <expressiepublicatieannotatie_publicatie>
+ </expressiepublicatieannotatie_publicatie>
+ <expressiepositieherkomst>
+ </expressiepositieherkomst>
+ <realisatiedistributiekanaal>
+  <distributiekanaal docid='/70710/71390'>
+   <![CDATA[televisie]]>
+  </distributiekanaal>
+ </realisatiedistributiekanaal>
+ <selectieniveaubeschrijving>
+ </selectieniveaubeschrijving>
+ <selectiepositiedragersoort>
+ </selectiepositiedragersoort>
+ <expressiepositievolgnummer>
+ </expressiepositievolgnummer>
+ <expressiepositiepublid>
+  <publID docid='/70710/71390/73631/186353'>
+   <![CDATA[186826]]>
+  </publID>
+  <publID docid='/70710/71390/73631/186353'>
+   <![CDATA[186826]]>
+  </publID>
+  <publID docid='/70710/71390/73631/186353'>
+   <![CDATA[186826]]>
+  </publID>
+  <publID docid='/70710/71390/73631/186353'>
+   <![CDATA[186826]]>
+  </publID>
+  <publID docid='/70710/71390/73631/186361'>
+   <![CDATA[186834]]>
+  </publID>
+  <publID docid='/70710/71390/73631/186361'>
+   <![CDATA[186834]]>
+  </publID>
+  <publID docid='/70710/71390/73631/186361'>
+   <![CDATA[186834]]>
+  </publID>
+  <publID docid='/70710/71390/73631/186361'>
+   <![CDATA[186834]]>
+  </publID>
+ </expressiepositiepublid>
+ <expressiepublicatiebegintijd>
+ </expressiepublicatiebegintijd>
+ <werktaakid>
+  <taakID docid='/70710'>
+   <![CDATA[278044]]>
+  </taakID>
+ </werktaakid>
+ <selectieniveauannotatie>
+ </selectieniveauannotatie>
+ <selectieniveaupersoonsnamen>
+ </selectieniveaupersoonsnamen>
+ <expressiedocid>
+  <docid docid='/70710/71390/73631/186353'>
+   <![CDATA[134614]]>
+  </docid>
+  <docid docid='/70710/71390/73631/186361'>
+   <![CDATA[134604]]>
+  </docid>
+ </expressiedocid>
+ <selectiepositieeindeopdrager>
+ </selectiepositieeindeopdrager>
+ <expressieniveautrefwoorden>
+  <trefwoord docid='/70710/71390/73631/186353'>
+   <![CDATA[concours hippique]]>
+  </trefwoord>
+  <trefwoord docid='/70710/71390/73631/186353'>
+   <![CDATA[paardensport]]>
+  </trefwoord>
+  <trefwoord docid='/70710/71390/73631/186361'>
+   <![CDATA[concours hippique]]>
+  </trefwoord>
+  <trefwoord docid='/70710/71390/73631/186361'>
+   <![CDATA[paardensport]]>
+  </trefwoord>
+ </expressieniveautrefwoorden>
+ <realisatiebeschrijving>
+ </realisatiebeschrijving>
+ <reeksaantalafleveringen>
+  <aantalafleveringen docid='/70710/71390/73631'>
+   <![CDATA[0]]>
+  </aantalafleveringen>
+ </reeksaantalafleveringen>
+ <selectiepositiebeginopdrager>
+ </selectiepositiebeginopdrager>
+ <expressieniveaugeografische_namen>
+  <geografische_naam p='1' docid='/70710/71390/73631/186361'>
+   <![CDATA[Nederland]]>
+  </geografische_naam>
+  <geografische_naam p='1' docid='/70710/71390/73631/186353'>
+   <![CDATA[Nederland]]>
+  </geografische_naam>
+ </expressieniveaugeografische_namen>
+ <selectiepositiedragertype>
+ </selectiepositiedragertype>
+ <expressieopnameproductiejaar>
+ </expressieopnameproductiejaar>
+ <expressiebroncatalogus>
+  <broncatalogus docid='/70710/71390/73631/186353'>
+   <![CDATA[Televisie Programma (voorlopig)]]>
+  </broncatalogus>
+  <broncatalogus docid='/70710/71390/73631/186361'>
+   <![CDATA[Televisie Programma (voorlopig)]]>
+  </broncatalogus>
+ </expressiebroncatalogus>
+ <selectiepositieannotatie>
+ </selectiepositieannotatie>
+ <realisatiegenres>
+  <genre docid='/70710/71390'>
+   <![CDATA[sportprogramma]]>
+  </genre>
+ </realisatiegenres>
+ <expressiepublicatieid>
+  <id docid='/70710/71390/73631/186353'>
+   <![CDATA[186826]]>
+  </id>
+  <id docid='/70710/71390/73631/186361'>
+   <![CDATA[186834]]>
+  </id>
+ </expressiepublicatieid>
+ <selectiepositiepublid>
+ </selectiepositiepublid>
+ <expressiepositiedragernummer>
+  <dragernummer docid='/70710/71390/73631/186353'>
+   <![CDATA[TD27715]]>
+  </dragernummer>
+  <dragernummer docid='/70710/71390/73631/186353'>
+   <![CDATA[TD35632]]>
+  </dragernummer>
+  <dragernummer docid='/70710/71390/73631/186353'>
+   <![CDATA[V29280]]>
+  </dragernummer>
+  <dragernummer docid='/70710/71390/73631/186353'>
+   <![CDATA[V60619]]>
+  </dragernummer>
+  <dragernummer docid='/70710/71390/73631/186361'>
+   <![CDATA[TD27716]]>
+  </dragernummer>
+  <dragernummer docid='/70710/71390/73631/186361'>
+   <![CDATA[TD35651]]>
+  </dragernummer>
+  <dragernummer docid='/70710/71390/73631/186361'>
+   <![CDATA[V29271]]>
+  </dragernummer>
+  <dragernummer docid='/70710/71390/73631/186361'>
+   <![CDATA[V60618]]>
+  </dragernummer>
+ </expressiepositiedragernummer>
+ <selectieniveautrefwoorden>
+ </selectieniveautrefwoorden>
+ <selectieopnamen>
+ </selectieopnamen>
+ <selectiepositiesortering>
+ </selectiepositiesortering>
+ <expressieniveaupersoonsnamen>
+  <persoonsnaam p='1' docid='/70710/71390/73631/186361'>
+   <![CDATA[Lansink, Jos]]>
+  </persoonsnaam>
+  <persoonsnaam p='1' docid='/70710/71390/73631/186361'>
+   <![CDATA[Pessoa, Nelson]]>
+  </persoonsnaam>
+  <persoonsnaam p='1' docid='/70710/71390/73631/186361'>
+   <![CDATA[Shelton, Nick]]>
+  </persoonsnaam>
+  <persoonsnaam p='1' docid='/70710/71390/73631/186361'>
+   <![CDATA[Simon, Hugo]]>
+  </persoonsnaam>
+  <persoonsnaam p='1' docid='/70710/71390/73631/186361'>
+   <![CDATA[Sloothaak, Franke]]>
+  </persoonsnaam>
+  <persoonsnaam p='1' docid='/70710/71390/73631/186353'>
+   <![CDATA[Lansink, Jos]]>
+  </persoonsnaam>
+  <persoonsnaam p='1' docid='/70710/71390/73631/186353'>
+   <![CDATA[Pessoa, Nelson]]>
+  </persoonsnaam>
+  <persoonsnaam p='1' docid='/70710/71390/73631/186353'>
+   <![CDATA[Shelton, Nick]]>
+  </persoonsnaam>
+  <persoonsnaam p='1' docid='/70710/71390/73631/186353'>
+   <![CDATA[Simon, Hugo]]>
+  </persoonsnaam>
+  <persoonsnaam p='1' docid='/70710/71390/73631/186353'>
+   <![CDATA[Sloothaak, Franke]]>
+  </persoonsnaam>
+ </expressieniveaupersoonsnamen>
+ <expressietitel>
+  <tekst p='1' docid='/70710/71390/73631/186361'>
+   <![CDATA[Afl. 1]]>
+  </tekst>
+  <tekst p='1' docid='/70710/71390/73631/186353'>
+   <![CDATA[Afl. 2]]>
+  </tekst>
+ </expressietitel>
+ <expressietijdsduur>
+  <tijdsduur docid='/70710/71390/73631/186353'>
+   <![CDATA[0]]>
+  </tijdsduur>
+  <tijdsduur docid='/70710/71390/73631/186361'>
+   <![CDATA[0]]>
+  </tijdsduur>
+ </expressietijdsduur>
+ <expressieniveauthemas>
+  <thema docid='/70710/71390/73631/186353'>
+   <![CDATA[Tranche PRG goedgekeurd]]>
+  </thema>
+  <thema docid='/70710/71390/73631/186361'>
+   <![CDATA[Tranche PRG goedgekeurd]]>
+  </thema>
+ </expressieniveauthemas>
+ <expressiepublicatiesorteerdatum>
+  <sorteerdatum docid='/70710/71390/73631/186353'>
+   <![CDATA[30-06-1991]]>
+  </sorteerdatum>
+  <sorteerdatum docid='/70710/71390/73631/186361'>
+   <![CDATA[29-06-1991]]>
+  </sorteerdatum>
+ </expressiepublicatiesorteerdatum>
+ <expressiepublicatiezendgemachtigden>
+  <zendgemachtigde docid='/70710/71390/73631/186353'>
+   <![CDATA[AVRO]]>
+  </zendgemachtigde>
+  <zendgemachtigde docid='/70710/71390/73631/186361'>
+   <![CDATA[AVRO]]>
+  </zendgemachtigde>
+ </expressiepublicatiezendgemachtigden>
+ <selectiepositiepositieid>
+ </selectiepositiepositieid>
+ <expressiepublicatietitel>
+ </expressiepublicatietitel>
+ <selectietype>
+ </selectietype>
+ <expressiepublicatiedistributiekanaal>
+  <distributiekanaal docid='/70710/71390/73631/186353'>
+   <![CDATA[televisie]]>
+  </distributiekanaal>
+  <distributiekanaal docid='/70710/71390/73631/186361'>
+   <![CDATA[televisie]]>
+  </distributiekanaal>
+ </expressiepublicatiedistributiekanaal>
+ <expressiepositiearchiefstatus>
+ </expressiepositiearchiefstatus>
+ <expressiepublicatietechnische_annotatie>
+ </expressiepublicatietechnische_annotatie>
+ <expressiepositiepositieid>
+  <positieid docid='/70710/71390/73631/186353'>
+   <![CDATA[395837]]>
+  </positieid>
+  <positieid docid='/70710/71390/73631/186353'>
+   <![CDATA[396308]]>
+  </positieid>
+  <positieid docid='/70710/71390/73631/186353'>
+   <![CDATA[395836]]>
+  </positieid>
+  <positieid docid='/70710/71390/73631/186353'>
+   <![CDATA[395835]]>
+  </positieid>
+  <positieid docid='/70710/71390/73631/186361'>
+   <![CDATA[64632]]>
+  </positieid>
+  <positieid docid='/70710/71390/73631/186361'>
+   <![CDATA[65183]]>
+  </positieid>
+  <positieid docid='/70710/71390/73631/186361'>
+   <![CDATA[64631]]>
+  </positieid>
+  <positieid docid='/70710/71390/73631/186361'>
+   <![CDATA[64630]]>
+  </positieid>
+ </expressiepositiepositieid>
+ <expressieopnameannotatie>
+ </expressieopnameannotatie>
+ <expressieniveaubeschrijving>
+ </expressieniveaubeschrijving>
+ <realisatietitel>
+  <tekst p='1' docid='/70710/71390'>
+   <![CDATA[CHAMPION ARNHEM 1991]]>
+  </tekst>
+  <tekst p='1' docid='/70710/71390'>
+   <![CDATA[prg#CHAMPION ARNHEM 1991]]>
+  </tekst>
+ </realisatietitel>
+ <selectiebroncatalogus>
+ </selectiebroncatalogus>
+ <selectieniveaugeografische_namen>
+ </selectieniveaugeografische_namen>
+ <expressiepositiegeluidstype>
+ </expressiepositiegeluidstype>
+ <selectiepositiedragerid>
+ </selectiepositiedragerid>
+ <selectiebegintijd>
+ </selectiebegintijd>
+ <expressieniveauannotatie>
+  <annotatie docid='/70710/71390/73631/186353'>
+   <![CDATA[oud videotheeknummer 91/9694 + 91/4338
+VHS=zendlijn]]>
+  </annotatie>
+  <annotatie docid='/70710/71390/73631/186361'>
+   <![CDATA[Zendlijnregistratie AVAC/FBA
+VHS=identiek]]>
+  </annotatie>
+ </expressieniveauannotatie>
+ <expressiepositiesof>
+ </expressiepositiesof>
+ <selectiepositievolgnummer>
+ </selectiepositievolgnummer>
+ <expressiepositieannotatie>
+ </expressiepositieannotatie>
+ <realisatietrefwoorden>
+ </realisatietrefwoorden>
+ <expressiepublicatietype>
+  <type docid='/70710/71390/73631/186353'>
+   <![CDATA[uitzending]]>
+  </type>
+  <type docid='/70710/71390/73631/186361'>
+   <![CDATA[uitzending]]>
+  </type>
+ </expressiepublicatietype>
+ <expressiepositiebeginopdrager>
+ </expressiepositiebeginopdrager>
+ <expressiepublicatiesorteertype>
+  <sorteertype docid='/70710/71390/73631/186353'>
+   <![CDATA[1]]>
+  </sorteertype>
+  <sorteertype docid='/70710/71390/73631/186361'>
+   <![CDATA[1]]>
+  </sorteertype>
+ </expressiepublicatiesorteertype>
+ <expressieafleveringsnummer>
+  <afleveringsnummer docid='/70710/71390/73631/186361'>
+   <![CDATA[1]]>
+  </afleveringsnummer>
+  <afleveringsnummer docid='/70710/71390/73631/186353'>
+   <![CDATA[2]]>
+  </afleveringsnummer>
+ </expressieafleveringsnummer>
+ <expressiepositiebeginpositieopdrager>
+ </expressiepositiebeginpositieopdrager>
+ <expressieopnameplaatsen>
+ </expressieopnameplaatsen>
+ <werktitel>
+  <tekst p='1' docid='/70710'>
+   <![CDATA[CHAMPION ARNHEM 1991]]>
+  </tekst>
+  <tekst p='1' docid='/70710'>
+   <![CDATA[prg#CHAMPION ARNHEM 1991]]>
+  </tekst>
+ </werktitel>
+ <selectiepositiearchiefstatus>
+ </selectiepositiearchiefstatus>
+ <expressiepositieeindeopdrager>
+ </expressiepositieeindeopdrager>
+ <expressiepositiebewaarplaats>
+ </expressiepositiebewaarplaats>
+ <expressiepublicatiedatumprecisie>
+ </expressiepublicatiedatumprecisie>
+ <selectietijdsduur_annotatie>
+ </selectietijdsduur_annotatie>
+ <expressieniveautaakid>
+  <taakID docid='/70710/71390/73631/186353'>
+   <![CDATA[278043]]>
+  </taakID>
+  <taakID docid='/70710/71390/73631/186361'>
+   <![CDATA[278053]]>
+  </taakID>
+ </expressieniveautaakid>
+ <expressiepositiedmguid>
+ </expressiepositiedmguid>
+ <selectiepositiebeginpositieopdrager>
+ </selectiepositiebeginpositieopdrager>
+ <expressiepublicatieeinddatum>
+ </expressiepublicatieeinddatum>
+ <expressiepositiedragerid>
+  <dragerid docid='/70710/71390/73631/186353'>
+   <![CDATA[470584]]>
+  </dragerid>
+  <dragerid docid='/70710/71390/73631/186353'>
+   <![CDATA[470585]]>
+  </dragerid>
+  <dragerid docid='/70710/71390/73631/186353'>
+   <![CDATA[470586]]>
+  </dragerid>
+  <dragerid docid='/70710/71390/73631/186353'>
+   <![CDATA[470587]]>
+  </dragerid>
+  <dragerid docid='/70710/71390/73631/186361'>
+   <![CDATA[470602]]>
+  </dragerid>
+  <dragerid docid='/70710/71390/73631/186361'>
+   <![CDATA[470603]]>
+  </dragerid>
+  <dragerid docid='/70710/71390/73631/186361'>
+   <![CDATA[470604]]>
+  </dragerid>
+  <dragerid docid='/70710/71390/73631/186361'>
+   <![CDATA[470605]]>
+  </dragerid>
+ </expressiepositiedragerid>
+ <expressiepositiedragersoort>
+  <dragersoort docid='/70710/71390/73631/186353'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70710/71390/73631/186353'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70710/71390/73631/186353'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70710/71390/73631/186353'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70710/71390/73631/186361'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70710/71390/73631/186361'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70710/71390/73631/186361'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70710/71390/73631/186361'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+ </expressiepositiedragersoort>
+ <selectiepositiesof>
+ </selectiepositiesof>
+ <selectiepositiedragerannotatie>
+ </selectiepositiedragerannotatie>
+</bridge>

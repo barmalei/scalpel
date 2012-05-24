@@ -1,0 +1,229 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/67018/67678/69839/131932">
+    <expressie>
+      <docid><![CDATA[72062]]></docid>
+      <afleveringsnummer><![CDATA[1]]></afleveringsnummer>
+      <deel />
+      <tijdsduur><![CDATA[1473000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[afl.1: Suprise (Nederweert)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Doren, Ad van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Gosman, Henny]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kroeske, Jan Douwe]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Leupers, Marjo]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[redactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Stips, Wouter]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Wolf, Joost de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[redactie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+        <recht>
+          <bron><![CDATA[
+Producent: Peekel/Stips Produkties ism VARA]]></bron>
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>132417</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[05-10-1991]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[120000]]></begintijd>
+        <eindtijd><![CDATA[1593000]]></eindtijd>
+        <tijdsduur><![CDATA[1473000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 24'33"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[05-10-1991]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur
+Geluid: A2=uitzendspoor]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1593000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD7472]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>360364</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[132417]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>726816</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1593000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V31456]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>360365</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[132417]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>727376</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Serie gedramatiseerde verhalen naar aanleiding van waar
+gebeurde verkeersongelukken, gepresenteerd door Jan Douwe
+Kroeske.]]></samenvatting>
+      <beschrijving><![CDATA[00:02:00 - 00:02:41 
+Leader 
+00:02:41 - 00:05:14 
+Jan Douwe Kroeske met een voorbeeld van een ongeluk door te
+harde muziek in de auto. 
+- Gesprekje hierover met chauffeur van een ambulance 
+- Ambulance met sirene (buiten en vanuit de cabine) 34". 
+- politieagent met gedupeerden van een auto-ongeluk 27". 
+00:05:14 - 00:25:56 
+SUPRISE 
+Reconstructie van een ongeval dat plaats had in Nederweert
+veroorzaakt door onoplettendheid en onzorgvuldig rijgedrag,
+geschreven door Ajé Boschhuizen. 
+Rolverdeling: Cecil - Yvonne van der Hurk, Alfred - Robert de
+la Haye, Luuk - Filip Peeters, Jaap - Edward Koldewijn, Heleen
+- Elle van Rijn, Jaap's vader - Hugo Metsers, moeder - Karin
+van Verschaeren ea. 
+00:25:56 - 00:26:33 
+Aftiteling]]></beschrijving>
+      <annotatie><![CDATA[oud videotheeknummer: 01/21371 ; VHS=zendlijn
+Papieren: persbericht.]]></annotatie>
+      <taakID>218078</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[docudrama]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[ambulances]]></trefwoord>
+          <trefwoord><![CDATA[leaders]]></trefwoord>
+          <trefwoord><![CDATA[politieagenten]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[verkeersongelukken]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA[Nederland]]></geografische_naam>
+        </geografische_namen>
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

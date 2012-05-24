@@ -1,0 +1,253 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/453444">
+    <expressie>
+      <docid><![CDATA[96642]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[141000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="N">
+            <tekst><![CDATA[MOBILISATIE AMSTERDAM EN OMGEVING]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Wybrands Marcussen, L.G.]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Wybrands Marcussen, L.G.]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <opnameplaatsen>
+          <opnameplaats><![CDATA[Amsterdam, Centraal Station]]></opnameplaats>
+        </opnameplaatsen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[23-10-1939]]></begindatum>
+            <einddatum />
+            <datumprecisie />
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie />
+          </opname>
+        </opnamen>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>454583</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[141000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 2'21"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[23-10-1939]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie><![CDATA[Samplefrequentie: 44.1 kHz; Tijdcode in AES/EBU]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[PHOHI]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[4471000]]></beginopdrager>
+        <eindeopdrager><![CDATA[4612000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA0095]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1200736</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454583]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager><![CDATA[11]]></beginpositieopdrager>
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1651007</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA32188]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367871</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454583]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314348</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA62561]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367872</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454583]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314349</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA74721]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367873</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454583]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314350</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Een gesprek met een officier over de centrale mobilisatie te
+Amsterdam is onderdeel van een oorspronkelijk langere
+reportage over het verloop van de mobilisatie van de troepen
+in Amsterdam en omgeving.
+Gesproken wordt met de dienstdoend luitenant op het Centraal
+Station te Amsterdam. Deze deelt mee dat de mobilisatie van
+de troepen volgens de regels verloopt. Twee officieren zijn
+belast met het doorverwijzen van de opgeroepenen. Het
+tramvervoer te Amsterdam is voor de opgeroepen militairen
+gratis. Alle binnenlandse treinvervoer is ingezet voor het
+mobiliseren van de troepen. Te Amsterdam mogen alleen de
+militairen opgeroepen voor Amsterdam het station verlaten. De
+geïnterviewde regelt de centrale mobilisatie voor Amsterdam
+en omgeving.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[OudSFW: C31105B/26-3075/D2097.
+Gegeven titel ontleend aan etiket op plaat.
+Opname is fragment nr. 8 uit oorspronkelijk langere
+reportage. Zie voor andere delen van zelfde reportage:
+HAD14716, track 9. In die fragmenten heet de dienstdoend
+luitenant 'Jongstra'.
+
+Bon: 67345
+Bijzonderheden: Walter van de Kamp
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>582327</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[actualiteiten]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[krijgsmacht]]></trefwoord>
+          <trefwoord><![CDATA[mobilisatie]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen>
+          <naam><![CDATA[Tweede Wereldoorlog]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

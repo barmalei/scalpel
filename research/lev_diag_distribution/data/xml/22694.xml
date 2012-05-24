@@ -1,0 +1,257 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/22694">
+    <expressie>
+      <docid><![CDATA[53508]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[3283000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="N">
+            <tekst><![CDATA[Met het Oog op Morgen]]></tekst>
+            <taal />
+            <type><![CDATA[Titel]]></type>
+            <bron><![CDATA[Avail TITEL]]></bron>
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Bosboom, Wim]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Joustra, Wio]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[21-12-1988]]></begindatum>
+            <einddatum />
+            <datumprecisie />
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie />
+          </opname>
+        </opnamen>
+        <recht>
+          <bron />
+          <rechten><![CDATA[Originele banden, lenen uitsluitend met toestemming van de
+rechthebbende.]]></rechten>
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>22694</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[0]]></begintijd>
+        <eindtijd><![CDATA[3283000]]></eindtijd>
+        <tijdsduur><![CDATA[3283000]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[21-12-1988]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NOS]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA173667]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2373104</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[22694]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3322342</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[0]]></beginopdrager>
+        <eindeopdrager><![CDATA[0]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[VA949]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Fonotheek B&G]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>69755</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[22694]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>679456</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[0]]></beginopdrager>
+        <eindeopdrager><![CDATA[0]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[444C47554944006B6F19A123AA48002C020E4E030103000BE1A8C0B307000000]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie><![CDATA[ ]]></dragerannotatie>
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>69754</dragerid>
+        <DMGUID><![CDATA[444C47554944006B6F19A123AA48002C020E4E030103000BE1A8C0B307000000]]></DMGUID>
+        <SOF />
+        <publID><![CDATA[22694]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>679457</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[0]]></beginopdrager>
+        <eindeopdrager><![CDATA[3283000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[MPG1L2]]></dragernummer>
+        <dragertype><![CDATA[ONBEKEND]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>63934</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[22694]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>669318</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Wio Joustra bericht over het neergestorte Panam vliegtuig by
+het Schotse Lockerbie.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Bon: 50346
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>43828</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[actualiteiten]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas />
+        <trefwoorden>
+          <trefwoord><![CDATA[luchtvaart]]></trefwoord>
+          <trefwoord><![CDATA[rampen]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA[Lockerbie]]></geografische_naam>
+        </geografische_namen>
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[PanAm-vliegtuig neergestort in Lockerbie.]]></samenvatting>
+      <beschrijving><![CDATA[Bij het Schotse plaatsje Lockerbie is een Boeing 747 van de Amerikaanse vliegmaatschappij PanAm neergestort. Alle inzittenden zijn omgekomen en ook in Lockerbie zelf zijn doden gevallen. Verslaggever Wio Joustra probeert de situatie ter plekke te schetsen. Veel is nog onbekend over de ramp met het vliegtuig.
+]]></beschrijving>
+      <annotatie />
+      <taakID>43829</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas>
+          <thema><![CDATA[Oog op de wereld nieuws / radio / 1980-1989]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

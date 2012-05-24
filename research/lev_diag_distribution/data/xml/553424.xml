@@ -1,0 +1,242 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/553424">
+    <expressie>
+      <docid><![CDATA[56335]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[3480000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Galis, Cor]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[omroeper]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Meijer, Ischa]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Meijer, Ischa]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Meijer, Ischa]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Meijer, Ischa]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[samenstelling]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Smit, Leonie]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <spreker>
+            <naam><![CDATA[Bloemen, Karin]]></naam>
+            <functie><![CDATA[actrice]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Carrion, Ulises]]></naam>
+            <functie><![CDATA[schrijver, kunstenaar]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Cremer, Jan]]></naam>
+            <functie><![CDATA[schrijver, schilder]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Uyl, Liesbeth den]]></naam>
+            <functie><![CDATA[hoofdbestuurslid Rooie Vrouwen]]></functie>
+          </spreker>
+        </rollen>
+        <opnameplaatsen>
+          <opnameplaats><![CDATA[Hilversum, VPRO-studio]]></opnameplaats>
+        </opnameplaatsen>
+        <taalgebruiken />
+        <opnamen />
+        <recht>
+          <bron />
+          <rechten><![CDATA[Originele banden, lenen uitsluitend met toestemming van de
+rechthebbende.]]></rechten>
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>554563</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[29-07-1985]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[3480000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 58'00"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[29-07-1985]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten>
+          <net><![CDATA[Hilversum 1]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VPRO]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA138758]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2373239</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554563]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3322499</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[57720000]]></beginopdrager>
+        <eindeopdrager><![CDATA[61200000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA9579]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1308273</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554563]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1932241</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Live praatprogramma, met:
+1. een interview met schrijver  en schilder Jan Cremer over
+de rockopera 'Ik Jan Cremer' en over de techniek van het
+schrijven [15'00"];
+2. telefonisch interview met hoofdbestuurslid van de Rooie
+Vrouwen(PvdA) Liesbeth Den Uyl, over de VN-Vrouwenconferentie
+in Nairobi, Kenia [5'00"];
+3. interview met de Mexicaanse schrijver en beeldend
+kunstenaar Ulises Carrion over Mexico, letterkunde,
+filosofie, het schrijven van korte verhalen en over de
+fysieke beleving van het maken van een boek over videokunst
+[15'00"].
+Afgewisseld met de rubriek 'Teveel kak op een te klein potje:
+Carla van der Meer over de pijn van het zijn', met actrice
+Karin Bloemen.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Programma niet afgeluisterd. Beschrijving gemaakt op basis
+van programmagegevens.
+Bandnummer: NA-138758.
+
+Bon: 8570
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>686281</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[praatprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[beeldende kunsten]]></trefwoord>
+          <trefwoord><![CDATA[conferenties]]></trefwoord>
+          <trefwoord><![CDATA[emancipatie]]></trefwoord>
+          <trefwoord><![CDATA[literatuur]]></trefwoord>
+          <trefwoord><![CDATA[schrijven]]></trefwoord>
+          <trefwoord><![CDATA[schrijvers]]></trefwoord>
+          <trefwoord><![CDATA[videokunst]]></trefwoord>
+          <trefwoord><![CDATA[vrouwen]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA[Kenia]]></geografische_naam>
+          <geografische_naam><![CDATA[Mexico]]></geografische_naam>
+          <geografische_naam><![CDATA[Nairobi]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[PvdA]]></naam>
+          <naam><![CDATA[Rooie Vrouwen]]></naam>
+          <naam><![CDATA[VN]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

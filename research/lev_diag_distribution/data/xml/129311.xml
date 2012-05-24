@@ -1,0 +1,197 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/55011/55671/57751/129311">
+    <expressie>
+      <docid><![CDATA[84397]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[52981000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[DE SPIJKER OP Z'N KOP SHOW (2)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Brood, Connie]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Hees, Egbert van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Zwerus, Peter]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Zwerus, Wim]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>129780</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[06-11-1984]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[0]]></begintijd>
+        <eindtijd><![CDATA[52981000]]></eindtijd>
+        <tijdsduur><![CDATA[52981000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 42'33"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[06-11-1984]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NOT]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[0]]></beginopdrager>
+        <eindeopdrager><![CDATA[52981000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD30222]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>354260</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[129780]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>81651</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[0]]></beginopdrager>
+        <eindeopdrager><![CDATA[52981000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V48785]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>354261</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[129780]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>82256</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Praatprogramma, gepresenteerd door Peter Zwerus, waarin
+jongeren hun mening over een bepaald onderwerp geven. Deze
+aflevering: dienstplicht. Tijdens het gehele programma
+rechtsonder in beeld uitleg in gebarentaal voor doven en
+slechthorenden.]]></samenvatting>
+      <beschrijving><![CDATA[Gespreksonderwerpen zijn oa: militaire diensttijd, militaire
+dienstplicht, wel of geen dienstplicht voor vrouwen, vrouwen
+in gevechtsfuncties, waarbij commentaar wordt gegeven door
+een vrouwelijke luitenant-kolonel bij de landmacht en een
+vrouwelijke officier van administratie bij de marine, is er
+wel een leger nodig in Nederland, dienst weigeren,
+totaalweigeraars en de consequenties daarvan.
+Tijdens de uitzending wordt twee maal overgeschakeld naar
+scholengemeenschap De Schothorst in Amersfoort waar enkele
+scholieren hun mening geven.]]></beschrijving>
+      <annotatie><![CDATA[TC verspringt na beginleader van 00:00:31 naar 14:00:59]]></annotatie>
+      <taakID>214603</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[praatprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[dienstplicht]]></trefwoord>
+          <trefwoord><![CDATA[dienstweigeraars]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[jongeren]]></vervallen_trefwoord>
+          <vervallen_trefwoord><![CDATA[totaalweigeraars]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

@@ -1,0 +1,27 @@
+
+
+PROJECT {
+	@desc = 'TAE'
+	@ver  = '1.3.0'	
+
+    ARTIFACT(PYTHON) {
+        @libs = ['lib']
+    }
+
+    ARTIFACT(JAVA) {
+        @libs=['lib', 'lib/lingpipe/lib', 'lib/lingpipe/models',
+                      'lib/stanford/ner/stanford-ner.jar', 'lib/stanford/pos/stanford-pos.jar',
+                      'lib/stanford/ner/classifiers', 'lib/stanford/pos/models',
+                      'lib/lbj', 'lib/lbj/bin', 'lib/lbj/Config', 'lib/lbj/Data']
+    }
+    
+    COMMAND('runjava', FileSet) { 
+        CLASS(RunJavaCode) {
+            @options = "-mx3G"
+        } 
+    }
+    
+    SET('*.zip', MetaGeneratedFileSet) {
+        CLASS(ZipFile)
+    }
+}

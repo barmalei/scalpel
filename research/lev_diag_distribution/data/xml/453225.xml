@@ -1,0 +1,494 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/100311/101131/104532/453225">
+    <expressie>
+      <docid><![CDATA[74]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[0]]></tijdsduur>
+      <broncatalogus><![CDATA[Weken Nederlandse Radio]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Azdural, Ahmet]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Brands, Wim]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Deventer, Marius van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Hulsen, Petra van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Lazrak, Ali]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Lier, Adeline van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Noordhoek, Wim]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Oving, Harm]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Rademaker, Nelleke]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Rakhorst-Chan, Loi Che]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Scholten, Yvonne]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Simek, Martin]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Simon, Freek]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Stoel, Henny]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Vos, Netty]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Weezel, Max van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Wellink, Yvonne]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <opnamen />
+        <recht>
+          <bron><![CDATA[Zender: Radio 5]]></bron>
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>454364</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[03-10-1996]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[0]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 1030'00"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[03-10-1996]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Tijdcode in ABS
+AANVULLING:
+Samplefrequentie: 32 kHz.]]></technische_annotatie>
+        <netten>
+          <net><![CDATA[Radio 5]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NCRV]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[NMO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[NOS]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[NOT]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[NPS]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[PP]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[RVD]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[RVU]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[STER]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[TELEAC]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[TROS]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[VPRO]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[WNR962-I]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1200633</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454364]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1650601</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[2]]></volgnummer>
+        <dragernummer><![CDATA[WNR962-II]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2516083</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454364]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3785650</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[3]]></volgnummer>
+        <dragernummer><![CDATA[WNR962-III]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2516084</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454364]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3785651</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[4]]></volgnummer>
+        <dragernummer><![CDATA[WNR962-IV]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2516085</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454364]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3785652</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[5]]></volgnummer>
+        <dragernummer><![CDATA[WNR962-V]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2516086</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454364]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3785653</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[6]]></volgnummer>
+        <dragernummer><![CDATA[WNR962-VI]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2516087</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454364]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3785654</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Zendlijnregistratie van week 40-1996. Integrale opname van
+Radio 5 donderdag 3 oktober 06.50 uur tot 00.00 uur.]]></samenvatting>
+      <beschrijving><![CDATA[Bevat tevens tunes, stationcalls, jingles en promo's. Rond
+het Nieuws (NOS) veelal uitzending van reclame (STER),
+weerberichten, verkeersinformatie en overheidsvoorlichting
+(RVD).
+*
+'Nieuws' (NOS): Elk heel uur t/m 18.00, 22.00 & 23.55 uur.
+*
+06.50
+'Pyjamapret (TELEAC/NOT). Kinderprogramma. Presentatie:
+(onbekend).
+*
+OVER OP BAND WNR962-II
+*
+07.05
+'NOS-Sportief' (NOS). Ochtendgymnastiek. Presentatie: Netty
+Vos.
+07.30
+'Aktua' (TROS). Actualiteitenprogramma. Presentatie: Marius
+van Deventer en Yvonne Wellink.
+09.02
+'Perspectief' (TROS). Freek Simon in gesprek met iemand die
+een eigen visie heeft over (de toekomst van) het mens zijn.
+Presentatie: Freek Simon.
+10.02
+'Start' (NPS). Talent in de jaren negentig. Presentatie:
+(onbekend).
+10.30
+'Wat een taal' (NPS). Programma over taal in al haar
+aspecten. Presentatie: Hennie Stoel.
+*
+OVER OP BAND WNR962-III
+*
+11.02
+'Een leven lang' (NPS). Portretten van wetenschappers of
+kunstenaars op leeftijd: Jan de Hartog. Presentatie: Petra
+van Hulsen.
+12.02
+'Weldenkende mensen' (NPS). Debat. Presentatie: Max van
+Weezel.
+13.08
+'Bijlage' (NPS). Documentaire: 'De verkrachter is spoorloos'.
+Over het politieonderzoek naar de Utrechtse verkrachter.
+Presentatie: Yvonne Scholten.
+14.02
+'Kleur bekennen' (RVU). Martin Simek voert een niet alledaags
+gesprek met het Vrekken-echtpaar. Presentatie: Martin Simek.
+*
+OVER OP BAND WNR962-IV
+*
+15.02
+'De wereld zingt Gods lof' (NCRV). Gewijde muziek en
+felicitaties. Presentatie: (onbekend).
+16.02
+'Faros' (TELEAC/NOT). Cultureel-wetenschappelijk magazine.
+Presentatie: Harm Oving en Nelleke Rademaker.
+17.05
+'Radio UIT' (NPS). Culturele actualiteiten rubriek. Met o.a.
+aandacht voor toneelschrijfster Suzanne van Lohuizen,
+beeldend kunstenaar Frans de Wit en dichter Robert Anker.
+Presentatie: Adeline van Lier.
+17.50
+'Uitzending politieke partijen' (PP). CD.
+18.08
+'Informatie in het Nederlands' (NMO). Programma voor
+buitenlanders.
+18.30
+'Religieus programma in het Turks' (NMO). Programma voor deze
+bevolkingsgroep.
+*
+OVER OP BAND WNR962-V
+*
+19.00
+'Nieuws in het Turks' (NPS). Nieuws voor buitenlanders.
+19.45
+'Nieuws in het Marokkaans en Berbers' (NPS). Nieuws voor
+buitenlanders.
+20.30
+'Nieuws in het Chinees' (NPS). Nieuws voor buitenlanders.
+21.00
+'Telescoop' (TELEAC/NOT). Programma over computers, nieuwe
+media, communicatie en ruimtevaart. Presentatie: (onbekend).
+22.02
+'De avonden' (VPRO). Doordeweekse late-show. Met om 22.04
+'Het uitzicht' en om 22.10 'Een gesprek' onder leiding van
+Sarah Verroen. Presentatie: Wim Noordhoek en Wim Brands.
+*
+OVER OP BAND WNR962-VI
+*
+23.00
+Vervolg 'De avonden' (VPRO). Met om 23.00 uur 'De wijde blik'
+van radiokunstenaar Mat Wijn, 23.10 'Portret van Fetisch
+Park' en om 23.45 'De mannen van de radio'. Presentatie: Wim
+Noordhoek en Wim Brands.
+00.00
+'Volkslied'.
+*
+EINDE]]></beschrijving>
+      <annotatie><![CDATA[Dit item beslaat 6 cassettes: WNR962 I-VI.
+Tijdcodes in het beschrijvingsveld zijn overgenomen uit de
+radiogids. Van dit programma bestaat geen uitleenexemplaar.
+Via klantenservice kan een kopie worden gemaakt.]]></annotatie>
+      <taakID>581780</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[actualiteiten]]></genre>
+          <genre><![CDATA[documentaire]]></genre>
+          <genre><![CDATA[gymnastiekprogramma]]></genre>
+          <genre><![CDATA[jingle]]></genre>
+          <genre><![CDATA[nieuwsbulletin]]></genre>
+          <genre><![CDATA[reclame]]></genre>
+          <genre><![CDATA[stationcall]]></genre>
+          <genre><![CDATA[tune]]></genre>
+          <genre><![CDATA[verkeersinformatie]]></genre>
+          <genre><![CDATA[volkslied]]></genre>
+          <genre><![CDATA[weerberichten]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Weken Nederlandse Radio]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

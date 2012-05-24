@@ -1,0 +1,801 @@
+<bridge>
+ <expressiepublicatiedistributieformaat>
+ </expressiepublicatiedistributieformaat>
+ <selectietijdsduur>
+ </selectietijdsduur>
+ <selectiepositiedmguid>
+ </selectiepositiedmguid>
+ <selectieniveauthemas>
+ </selectieniveauthemas>
+ <expressiepublicatieindicatie_live>
+ </expressiepublicatieindicatie_live>
+ <expressierechtrechten>
+ </expressierechtrechten>
+ <expressiepublicatieeindtijd>
+ </expressiepublicatieeindtijd>
+ <realisatiedeelcatalogi>
+  <deelcatalogus docid='/70700/71380'>
+   <![CDATA[Bewegend beeld/TV/Publieke omroep/Overige programma's]]>
+  </deelcatalogus>
+ </realisatiedeelcatalogi>
+ <expressieopnamebegindatum>
+ </expressieopnamebegindatum>
+ <expressieniveaunamen>
+ </expressieniveaunamen>
+ <expressiepublicatiebegindatum>
+  <begindatum docid='/70700/71380/73621/186584'>
+   <![CDATA[11-08-1991]]>
+  </begindatum>
+  <begindatum docid='/70700/71380/73621/186562'>
+   <![CDATA[04-08-1991]]>
+  </begindatum>
+  <begindatum docid='/70700/71380/73621/186242'>
+   <![CDATA[28-07-1991]]>
+  </begindatum>
+  <begindatum docid='/70700/71380/73621/186275'>
+   <![CDATA[21-07-1991]]>
+  </begindatum>
+  <begindatum docid='/70700/71380/73621/186306'>
+   <![CDATA[14-07-1991]]>
+  </begindatum>
+  <begindatum docid='/70700/71380/73621/186773'>
+   <![CDATA[18-08-1991]]>
+  </begindatum>
+ </expressiepublicatiebegindatum>
+ <selectietitels>
+ </selectietitels>
+ <selectieniveaunamen>
+ </selectieniveaunamen>
+ <expressiepublicatietijdsduur_annotatie>
+ </expressiepublicatietijdsduur_annotatie>
+ <selectiepositiebewaarplaats>
+ </selectiepositiebewaarplaats>
+ <selectiepositiedragernummer>
+ </selectiepositiedragernummer>
+ <expressietaalgebruiken>
+ </expressietaalgebruiken>
+ <expressiepositiedragertype>
+  <dragertype docid='/70700/71380/73621/186562'>
+   <![CDATA[DIGI-BETA]]>
+  </dragertype>
+  <dragertype docid='/70700/71380/73621/186562'>
+   <![CDATA[VHS]]>
+  </dragertype>
+  <dragertype docid='/70700/71380/73621/186242'>
+   <![CDATA[DIGI-BETA]]>
+  </dragertype>
+  <dragertype docid='/70700/71380/73621/186242'>
+   <![CDATA[VHS]]>
+  </dragertype>
+  <dragertype docid='/70700/71380/73621/186275'>
+   <![CDATA[DIGI-BETA]]>
+  </dragertype>
+  <dragertype docid='/70700/71380/73621/186275'>
+   <![CDATA[VHS]]>
+  </dragertype>
+  <dragertype docid='/70700/71380/73621/186306'>
+   <![CDATA[DIGI-BETA]]>
+  </dragertype>
+  <dragertype docid='/70700/71380/73621/186306'>
+   <![CDATA[VHS]]>
+  </dragertype>
+  <dragertype docid='/70700/71380/73621/186584'>
+   <![CDATA[DIGI-BETA]]>
+  </dragertype>
+  <dragertype docid='/70700/71380/73621/186584'>
+   <![CDATA[VHS]]>
+  </dragertype>
+  <dragertype docid='/70700/71380/73621/186773'>
+   <![CDATA[DIGI-BETA]]>
+  </dragertype>
+  <dragertype docid='/70700/71380/73621/186773'>
+   <![CDATA[VHS]]>
+  </dragertype>
+ </expressiepositiedragertype>
+ <expressiecontextkleur>
+ </expressiecontextkleur>
+ <expressiepublicatietijdsduur>
+  <tijdsduur docid='/70700/71380/73621/186562'>
+   <![CDATA[0]]>
+  </tijdsduur>
+  <tijdsduur docid='/70700/71380/73621/186242'>
+   <![CDATA[0]]>
+  </tijdsduur>
+  <tijdsduur docid='/70700/71380/73621/186275'>
+   <![CDATA[0]]>
+  </tijdsduur>
+  <tijdsduur docid='/70700/71380/73621/186306'>
+   <![CDATA[0]]>
+  </tijdsduur>
+  <tijdsduur docid='/70700/71380/73621/186584'>
+   <![CDATA[0]]>
+  </tijdsduur>
+  <tijdsduur docid='/70700/71380/73621/186773'>
+   <![CDATA[0]]>
+  </tijdsduur>
+ </expressiepublicatietijdsduur>
+ <selectiedocid>
+ </selectiedocid>
+ <realisatiedoelgroepen>
+  <doelgroep docid='/70700/71380'>
+   <![CDATA[kinderen]]>
+  </doelgroep>
+ </realisatiedoelgroepen>
+ <expressiepublicatienetten>
+ </expressiepublicatienetten>
+ <realisatiesamenvatting>
+ </realisatiesamenvatting>
+ <expressieniveaugenres>
+  <genre docid='/70700/71380/73621/186562'>
+   <![CDATA[NADER TE BEPALEN]]>
+  </genre>
+  <genre docid='/70700/71380/73621/186242'>
+   <![CDATA[NADER TE BEPALEN]]>
+  </genre>
+  <genre docid='/70700/71380/73621/186275'>
+   <![CDATA[NADER TE BEPALEN]]>
+  </genre>
+  <genre docid='/70700/71380/73621/186306'>
+   <![CDATA[NADER TE BEPALEN]]>
+  </genre>
+  <genre docid='/70700/71380/73621/186584'>
+   <![CDATA[NADER TE BEPALEN]]>
+  </genre>
+  <genre docid='/70700/71380/73621/186773'>
+   <![CDATA[NADER TE BEPALEN]]>
+  </genre>
+ </expressieniveaugenres>
+ <expressieniveausamenvatting>
+  <samenvatting p='1' docid='/70700/71380/73621/186562'>
+   <![CDATA[Meester Bleekbeen zit in zijn lokaal met de deur op slot.
+Waarom? Is hij wel meester? En wat komt die postbode daar doen
+met de wereldbol in haar tas?]]>
+  </samenvatting>
+  <samenvatting p='1' docid='/70700/71380/73621/186242'>
+   <![CDATA[Meester Bleekbeen zit in zijn lokaal met de deur op slot.
+Waarom? Is hij wel meester? En wat komt Meester Bleekbeen die postbode Meester Bleekbeen daar doen
+met de wereldbol in haar tas?]]>
+  </samenvatting>
+  <samenvatting p='1' docid='/70700/71380/73621/186275'>
+   <![CDATA[Meester Bleekbeen zit in zijn lokaal met de deur op slot.
+Waarom? Is hij wel meester? En wat komt die postbode daar doen
+met de wereldbol in haar tas?]]>
+  </samenvatting>
+  <samenvatting p='1' docid='/70700/71380/73621/186306'>
+   <![CDATA[Meester Bleekbeen zit in zijn lokaal met de deur op slot.
+Waarom? Is hij wel meester? En wat komt die postbode daar doen
+met de wereldbol in haar tas?]]>
+  </samenvatting>
+  <samenvatting p='1' docid='/70700/71380/73621/186584'>
+   <![CDATA[Meester Bleekbeen zit in zijn lokaal met de deur op slot.
+Waarom? Is hij wel meester? En wat komt die postbode daar doen
+met de wereldbol in haar tas?]]>
+  </samenvatting>
+  <samenvatting p='1' docid='/70700/71380/73621/186773'>
+   <![CDATA[Meester Bleekbeen zit in zijn lokaal met de deur op slot.
+Waarom? Is hij wel meester? En wat komt die postbode daar doen
+met de wereldbol in haar tas?]]>
+  </samenvatting>
+ </expressieniveausamenvatting>
+ <selectieieindtijd>
+ </selectieieindtijd>
+ <expressiepublicatieindicatie_herhaling>
+ </expressiepublicatieindicatie_herhaling>
+ <realisatietaakid>
+  <taakID docid='/70700/71380'>
+   <![CDATA[277914]]>
+  </taakID>
+ </realisatietaakid>
+ <expressierechtbron>
+ </expressierechtbron>
+ <expressiepositiedragerannotatie>
+ </expressiepositiedragerannotatie>
+ <selectierollen>
+ </selectierollen>
+ <expressiepublicatieannotatie_publicatie>
+ </expressiepublicatieannotatie_publicatie>
+ <expressiepositieherkomst>
+ </expressiepositieherkomst>
+ <realisatiedistributiekanaal>
+  <distributiekanaal docid='/70700/71380'>
+   <![CDATA[televisie]]>
+  </distributiekanaal>
+ </realisatiedistributiekanaal>
+ <selectieniveaubeschrijving>
+ </selectieniveaubeschrijving>
+ <selectiepositiedragersoort>
+ </selectiepositiedragersoort>
+ <expressiepositievolgnummer>
+ </expressiepositievolgnummer>
+ <expressiepositiepublid>
+  <publID docid='/70700/71380/73621/186562'>
+   <![CDATA[187048]]>
+  </publID>
+  <publID docid='/70700/71380/73621/186562'>
+   <![CDATA[187048]]>
+  </publID>
+  <publID docid='/70700/71380/73621/186242'>
+   <![CDATA[186715]]>
+  </publID>
+  <publID docid='/70700/71380/73621/186242'>
+   <![CDATA[186715]]>
+  </publID>
+  <publID docid='/70700/71380/73621/186275'>
+   <![CDATA[186748]]>
+  </publID>
+  <publID docid='/70700/71380/73621/186275'>
+   <![CDATA[186748]]>
+  </publID>
+  <publID docid='/70700/71380/73621/186306'>
+   <![CDATA[186779]]>
+  </publID>
+  <publID docid='/70700/71380/73621/186306'>
+   <![CDATA[186779]]>
+  </publID>
+  <publID docid='/70700/71380/73621/186584'>
+   <![CDATA[187070]]>
+  </publID>
+  <publID docid='/70700/71380/73621/186584'>
+   <![CDATA[187070]]>
+  </publID>
+  <publID docid='/70700/71380/73621/186773'>
+   <![CDATA[187259]]>
+  </publID>
+  <publID docid='/70700/71380/73621/186773'>
+   <![CDATA[187259]]>
+  </publID>
+ </expressiepositiepublid>
+ <expressiepublicatiebegintijd>
+ </expressiepublicatiebegintijd>
+ <werktaakid>
+  <taakID docid='/70700'>
+   <![CDATA[277913]]>
+  </taakID>
+ </werktaakid>
+ <selectieniveauannotatie>
+ </selectieniveauannotatie>
+ <selectieniveaupersoonsnamen>
+ </selectieniveaupersoonsnamen>
+ <expressiedocid>
+  <docid docid='/70700/71380/73621/186562'>
+   <![CDATA[135223]]>
+  </docid>
+  <docid docid='/70700/71380/73621/186242'>
+   <![CDATA[134962]]>
+  </docid>
+  <docid docid='/70700/71380/73621/186275'>
+   <![CDATA[134924]]>
+  </docid>
+  <docid docid='/70700/71380/73621/186306'>
+   <![CDATA[134761]]>
+  </docid>
+  <docid docid='/70700/71380/73621/186584'>
+   <![CDATA[135080]]>
+  </docid>
+  <docid docid='/70700/71380/73621/186773'>
+   <![CDATA[135547]]>
+  </docid>
+ </expressiedocid>
+ <selectiepositieeindeopdrager>
+ </selectiepositieeindeopdrager>
+ <expressieniveautrefwoorden>
+ </expressieniveautrefwoorden>
+ <realisatiebeschrijving>
+ </realisatiebeschrijving>
+ <reeksaantalafleveringen>
+  <aantalafleveringen docid='/70700/71380/73621'>
+   <![CDATA[0]]>
+  </aantalafleveringen>
+ </reeksaantalafleveringen>
+ <selectiepositiebeginopdrager>
+ </selectiepositiebeginopdrager>
+ <expressieniveaugeografische_namen>
+ </expressieniveaugeografische_namen>
+ <selectiepositiedragertype>
+ </selectiepositiedragertype>
+ <expressieopnameproductiejaar>
+ </expressieopnameproductiejaar>
+ <expressiebroncatalogus>
+  <broncatalogus docid='/70700/71380/73621/186562'>
+   <![CDATA[Televisie Programma (voorlopig)]]>
+  </broncatalogus>
+  <broncatalogus docid='/70700/71380/73621/186242'>
+   <![CDATA[Televisie Programma (voorlopig)]]>
+  </broncatalogus>
+  <broncatalogus docid='/70700/71380/73621/186275'>
+   <![CDATA[Televisie Programma (voorlopig)]]>
+  </broncatalogus>
+  <broncatalogus docid='/70700/71380/73621/186306'>
+   <![CDATA[Televisie Programma (voorlopig)]]>
+  </broncatalogus>
+  <broncatalogus docid='/70700/71380/73621/186584'>
+   <![CDATA[Televisie Programma (voorlopig)]]>
+  </broncatalogus>
+  <broncatalogus docid='/70700/71380/73621/186773'>
+   <![CDATA[Televisie Programma (voorlopig)]]>
+  </broncatalogus>
+ </expressiebroncatalogus>
+ <selectiepositieannotatie>
+ </selectiepositieannotatie>
+ <realisatiegenres>
+  <genre docid='/70700/71380'>
+   <![CDATA[NADER TE BEPALEN]]>
+  </genre>
+ </realisatiegenres>
+ <expressiepublicatieid>
+  <id docid='/70700/71380/73621/186562'>
+   <![CDATA[187048]]>
+  </id>
+  <id docid='/70700/71380/73621/186242'>
+   <![CDATA[186715]]>
+  </id>
+  <id docid='/70700/71380/73621/186275'>
+   <![CDATA[186748]]>
+  </id>
+  <id docid='/70700/71380/73621/186306'>
+   <![CDATA[186779]]>
+  </id>
+  <id docid='/70700/71380/73621/186584'>
+   <![CDATA[187070]]>
+  </id>
+  <id docid='/70700/71380/73621/186773'>
+   <![CDATA[187259]]>
+  </id>
+ </expressiepublicatieid>
+ <selectiepositiepublid>
+ </selectiepositiepublid>
+ <expressiepositiedragernummer>
+  <dragernummer docid='/70700/71380/73621/186562'>
+   <![CDATA[TD42097]]>
+  </dragernummer>
+  <dragernummer docid='/70700/71380/73621/186562'>
+   <![CDATA[V29962]]>
+  </dragernummer>
+  <dragernummer docid='/70700/71380/73621/186242'>
+   <![CDATA[TD42096]]>
+  </dragernummer>
+  <dragernummer docid='/70700/71380/73621/186242'>
+   <![CDATA[V29816]]>
+  </dragernummer>
+  <dragernummer docid='/70700/71380/73621/186275'>
+   <![CDATA[TD42202]]>
+  </dragernummer>
+  <dragernummer docid='/70700/71380/73621/186275'>
+   <![CDATA[V29705]]>
+  </dragernummer>
+  <dragernummer docid='/70700/71380/73621/186306'>
+   <![CDATA[TD43080]]>
+  </dragernummer>
+  <dragernummer docid='/70700/71380/73621/186306'>
+   <![CDATA[V29533]]>
+  </dragernummer>
+  <dragernummer docid='/70700/71380/73621/186584'>
+   <![CDATA[TD42258]]>
+  </dragernummer>
+  <dragernummer docid='/70700/71380/73621/186584'>
+   <![CDATA[V30093]]>
+  </dragernummer>
+  <dragernummer docid='/70700/71380/73621/186773'>
+   <![CDATA[TD42032]]>
+  </dragernummer>
+  <dragernummer docid='/70700/71380/73621/186773'>
+   <![CDATA[V30200]]>
+  </dragernummer>
+ </expressiepositiedragernummer>
+ <selectieniveautrefwoorden>
+ </selectieniveautrefwoorden>
+ <selectieopnamen>
+ </selectieopnamen>
+ <selectiepositiesortering>
+ </selectiepositiesortering>
+ <expressieniveaupersoonsnamen>
+ </expressieniveaupersoonsnamen>
+ <expressietitel>
+  <tekst p='1' docid='/70700/71380/73621/186773'>
+   <![CDATA[Afl. 6 (slot): Eigen houtje]]>
+  </tekst>
+  <tekst p='1' docid='/70700/71380/73621/186584'>
+   <![CDATA[Afl. 5: Apestreek]]>
+  </tekst>
+  <tekst p='1' docid='/70700/71380/73621/186242'>
+   <![CDATA[Afl. 3: Sterrenbeest]]>
+  </tekst>
+  <tekst p='1' docid='/70700/71380/73621/186562'>
+   <![CDATA[Afl. 4: Zonnebad]]>
+  </tekst>
+  <tekst p='1' docid='/70700/71380/73621/186275'>
+   <![CDATA[Afl. 2: Krachtpatsen]]>
+  </tekst>
+  <tekst p='1' docid='/70700/71380/73621/186306'>
+   <![CDATA[Afl. 1: Rondje aarde]]>
+  </tekst>
+ </expressietitel>
+ <expressietijdsduur>
+  <tijdsduur docid='/70700/71380/73621/186562'>
+   <![CDATA[0]]>
+  </tijdsduur>
+  <tijdsduur docid='/70700/71380/73621/186242'>
+   <![CDATA[0]]>
+  </tijdsduur>
+  <tijdsduur docid='/70700/71380/73621/186275'>
+   <![CDATA[0]]>
+  </tijdsduur>
+  <tijdsduur docid='/70700/71380/73621/186306'>
+   <![CDATA[0]]>
+  </tijdsduur>
+  <tijdsduur docid='/70700/71380/73621/186584'>
+   <![CDATA[0]]>
+  </tijdsduur>
+  <tijdsduur docid='/70700/71380/73621/186773'>
+   <![CDATA[0]]>
+  </tijdsduur>
+ </expressietijdsduur>
+ <expressieniveauthemas>
+  <thema docid='/70700/71380/73621/186562'>
+   <![CDATA[Tranche PRG goedgekeurd]]>
+  </thema>
+  <thema docid='/70700/71380/73621/186242'>
+   <![CDATA[Tranche PRG goedgekeurd]]>
+  </thema>
+  <thema docid='/70700/71380/73621/186275'>
+   <![CDATA[Tranche PRG goedgekeurd]]>
+  </thema>
+  <thema docid='/70700/71380/73621/186306'>
+   <![CDATA[Tranche PRG goedgekeurd]]>
+  </thema>
+  <thema docid='/70700/71380/73621/186584'>
+   <![CDATA[Tranche PRG goedgekeurd]]>
+  </thema>
+  <thema docid='/70700/71380/73621/186773'>
+   <![CDATA[Tranche PRG goedgekeurd]]>
+  </thema>
+ </expressieniveauthemas>
+ <expressiepublicatiesorteerdatum>
+  <sorteerdatum docid='/70700/71380/73621/186562'>
+   <![CDATA[04-08-1991]]>
+  </sorteerdatum>
+  <sorteerdatum docid='/70700/71380/73621/186242'>
+   <![CDATA[28-07-1991]]>
+  </sorteerdatum>
+  <sorteerdatum docid='/70700/71380/73621/186275'>
+   <![CDATA[21-07-1991]]>
+  </sorteerdatum>
+  <sorteerdatum docid='/70700/71380/73621/186306'>
+   <![CDATA[14-07-1991]]>
+  </sorteerdatum>
+  <sorteerdatum docid='/70700/71380/73621/186584'>
+   <![CDATA[11-08-1991]]>
+  </sorteerdatum>
+  <sorteerdatum docid='/70700/71380/73621/186773'>
+   <![CDATA[18-08-1991]]>
+  </sorteerdatum>
+ </expressiepublicatiesorteerdatum>
+ <expressiepublicatiezendgemachtigden>
+  <zendgemachtigde docid='/70700/71380/73621/186562'>
+   <![CDATA[VPRO]]>
+  </zendgemachtigde>
+  <zendgemachtigde docid='/70700/71380/73621/186242'>
+   <![CDATA[VPRO]]>
+  </zendgemachtigde>
+  <zendgemachtigde docid='/70700/71380/73621/186275'>
+   <![CDATA[VPRO]]>
+  </zendgemachtigde>
+  <zendgemachtigde docid='/70700/71380/73621/186306'>
+   <![CDATA[VPRO]]>
+  </zendgemachtigde>
+  <zendgemachtigde docid='/70700/71380/73621/186584'>
+   <![CDATA[VPRO]]>
+  </zendgemachtigde>
+  <zendgemachtigde docid='/70700/71380/73621/186773'>
+   <![CDATA[VPRO]]>
+  </zendgemachtigde>
+ </expressiepublicatiezendgemachtigden>
+ <selectiepositiepositieid>
+ </selectiepositiepositieid>
+ <expressiepublicatietitel>
+ </expressiepublicatietitel>
+ <selectietype>
+ </selectietype>
+ <expressiepublicatiedistributiekanaal>
+  <distributiekanaal docid='/70700/71380/73621/186562'>
+   <![CDATA[televisie]]>
+  </distributiekanaal>
+  <distributiekanaal docid='/70700/71380/73621/186242'>
+   <![CDATA[televisie]]>
+  </distributiekanaal>
+  <distributiekanaal docid='/70700/71380/73621/186275'>
+   <![CDATA[televisie]]>
+  </distributiekanaal>
+  <distributiekanaal docid='/70700/71380/73621/186306'>
+   <![CDATA[televisie]]>
+  </distributiekanaal>
+  <distributiekanaal docid='/70700/71380/73621/186584'>
+   <![CDATA[televisie]]>
+  </distributiekanaal>
+  <distributiekanaal docid='/70700/71380/73621/186773'>
+   <![CDATA[televisie]]>
+  </distributiekanaal>
+ </expressiepublicatiedistributiekanaal>
+ <expressiepositiearchiefstatus>
+ </expressiepositiearchiefstatus>
+ <expressiepublicatietechnische_annotatie>
+ </expressiepublicatietechnische_annotatie>
+ <expressiepositiepositieid>
+  <positieid docid='/70700/71380/73621/186562'>
+   <![CDATA[14879]]>
+  </positieid>
+  <positieid docid='/70700/71380/73621/186562'>
+   <![CDATA[15507]]>
+  </positieid>
+  <positieid docid='/70700/71380/73621/186242'>
+   <![CDATA[690786]]>
+  </positieid>
+  <positieid docid='/70700/71380/73621/186242'>
+   <![CDATA[691298]]>
+  </positieid>
+  <positieid docid='/70700/71380/73621/186275'>
+   <![CDATA[408007]]>
+  </positieid>
+  <positieid docid='/70700/71380/73621/186275'>
+   <![CDATA[408006]]>
+  </positieid>
+  <positieid docid='/70700/71380/73621/186306'>
+   <![CDATA[380110]]>
+  </positieid>
+  <positieid docid='/70700/71380/73621/186306'>
+   <![CDATA[380622]]>
+  </positieid>
+  <positieid docid='/70700/71380/73621/186584'>
+   <![CDATA[722930]]>
+  </positieid>
+  <positieid docid='/70700/71380/73621/186584'>
+   <![CDATA[723422]]>
+  </positieid>
+  <positieid docid='/70700/71380/73621/186773'>
+   <![CDATA[475703]]>
+  </positieid>
+  <positieid docid='/70700/71380/73621/186773'>
+   <![CDATA[475702]]>
+  </positieid>
+ </expressiepositiepositieid>
+ <expressieopnameannotatie>
+ </expressieopnameannotatie>
+ <expressieniveaubeschrijving>
+ </expressieniveaubeschrijving>
+ <realisatietitel>
+  <tekst p='1' docid='/70700/71380'>
+   <![CDATA[MEESTER BLEEKBEEN]]>
+  </tekst>
+  <tekst p='1' docid='/70700/71380'>
+   <![CDATA[prg#MEESTER BLEEKBEEN]]>
+  </tekst>
+ </realisatietitel>
+ <selectiebroncatalogus>
+ </selectiebroncatalogus>
+ <selectieniveaugeografische_namen>
+ </selectieniveaugeografische_namen>
+ <expressiepositiegeluidstype>
+ </expressiepositiegeluidstype>
+ <selectiepositiedragerid>
+ </selectiepositiedragerid>
+ <selectiebegintijd>
+ </selectiebegintijd>
+ <expressieniveauannotatie>
+  <annotatie docid='/70700/71380/73621/186562'>
+   <![CDATA[oud videotheeknummer 32/17604; VHS=zendlijn]]>
+  </annotatie>
+  <annotatie docid='/70700/71380/73621/186242'>
+   <![CDATA[oud videotheeknummer 32/17432; VHS=zendlijn]]>
+  </annotatie>
+  <annotatie docid='/70700/71380/73621/186275'>
+   <![CDATA[oud videotheeknummer 17/10470; VHS=zendlijn]]>
+  </annotatie>
+  <annotatie docid='/70700/71380/73621/186306'>
+   <![CDATA[oud videotheeknummer 16/8621; VHS=zendlijn]]>
+  </annotatie>
+  <annotatie docid='/70700/71380/73621/186584'>
+   <![CDATA[oud videotheeknummer 16/07489; VHS=zendlijn]]>
+  </annotatie>
+  <annotatie docid='/70700/71380/73621/186773'>
+   <![CDATA[oud videotheeknummer 32/11488; VHS=zendlijn]]>
+  </annotatie>
+ </expressieniveauannotatie>
+ <expressiepositiesof>
+ </expressiepositiesof>
+ <selectiepositievolgnummer>
+ </selectiepositievolgnummer>
+ <expressiepositieannotatie>
+ </expressiepositieannotatie>
+ <realisatietrefwoorden>
+ </realisatietrefwoorden>
+ <expressiepublicatietype>
+  <type docid='/70700/71380/73621/186562'>
+   <![CDATA[uitzending]]>
+  </type>
+  <type docid='/70700/71380/73621/186242'>
+   <![CDATA[uitzending]]>
+  </type>
+  <type docid='/70700/71380/73621/186275'>
+   <![CDATA[uitzending]]>
+  </type>
+  <type docid='/70700/71380/73621/186306'>
+   <![CDATA[uitzending]]>
+  </type>
+  <type docid='/70700/71380/73621/186584'>
+   <![CDATA[uitzending]]>
+  </type>
+  <type docid='/70700/71380/73621/186773'>
+   <![CDATA[uitzending]]>
+  </type>
+ </expressiepublicatietype>
+ <expressiepositiebeginopdrager>
+ </expressiepositiebeginopdrager>
+ <expressiepublicatiesorteertype>
+  <sorteertype docid='/70700/71380/73621/186562'>
+   <![CDATA[1]]>
+  </sorteertype>
+  <sorteertype docid='/70700/71380/73621/186242'>
+   <![CDATA[1]]>
+  </sorteertype>
+  <sorteertype docid='/70700/71380/73621/186275'>
+   <![CDATA[1]]>
+  </sorteertype>
+  <sorteertype docid='/70700/71380/73621/186306'>
+   <![CDATA[1]]>
+  </sorteertype>
+  <sorteertype docid='/70700/71380/73621/186584'>
+   <![CDATA[1]]>
+  </sorteertype>
+  <sorteertype docid='/70700/71380/73621/186773'>
+   <![CDATA[1]]>
+  </sorteertype>
+ </expressiepublicatiesorteertype>
+ <expressieafleveringsnummer>
+  <afleveringsnummer docid='/70700/71380/73621/186584'>
+   <![CDATA[5]]>
+  </afleveringsnummer>
+  <afleveringsnummer docid='/70700/71380/73621/186242'>
+   <![CDATA[3]]>
+  </afleveringsnummer>
+  <afleveringsnummer docid='/70700/71380/73621/186562'>
+   <![CDATA[4]]>
+  </afleveringsnummer>
+  <afleveringsnummer docid='/70700/71380/73621/186773'>
+   <![CDATA[6]]>
+  </afleveringsnummer>
+  <afleveringsnummer docid='/70700/71380/73621/186275'>
+   <![CDATA[2]]>
+  </afleveringsnummer>
+  <afleveringsnummer docid='/70700/71380/73621/186306'>
+   <![CDATA[1]]>
+  </afleveringsnummer>
+ </expressieafleveringsnummer>
+ <expressiepositiebeginpositieopdrager>
+ </expressiepositiebeginpositieopdrager>
+ <expressieopnameplaatsen>
+ </expressieopnameplaatsen>
+ <werktitel>
+  <tekst p='1' docid='/70700'>
+   <![CDATA[MEESTER BLEEKBEEN]]>
+  </tekst>
+  <tekst p='1' docid='/70700'>
+   <![CDATA[prg#MEESTER BLEEKBEEN]]>
+  </tekst>
+ </werktitel>
+ <selectiepositiearchiefstatus>
+ </selectiepositiearchiefstatus>
+ <expressiepositieeindeopdrager>
+ </expressiepositieeindeopdrager>
+ <expressiepositiebewaarplaats>
+ </expressiepositiebewaarplaats>
+ <expressiepublicatiedatumprecisie>
+ </expressiepublicatiedatumprecisie>
+ <selectietijdsduur_annotatie>
+ </selectietijdsduur_annotatie>
+ <expressieniveautaakid>
+  <taakID docid='/70700/71380/73621/186562'>
+   <![CDATA[278261]]>
+  </taakID>
+  <taakID docid='/70700/71380/73621/186242'>
+   <![CDATA[277912]]>
+  </taakID>
+  <taakID docid='/70700/71380/73621/186275'>
+   <![CDATA[277957]]>
+  </taakID>
+  <taakID docid='/70700/71380/73621/186306'>
+   <![CDATA[277996]]>
+  </taakID>
+  <taakID docid='/70700/71380/73621/186584'>
+   <![CDATA[278287]]>
+  </taakID>
+  <taakID docid='/70700/71380/73621/186773'>
+   <![CDATA[278484]]>
+  </taakID>
+ </expressieniveautaakid>
+ <expressiepositiedmguid>
+ </expressiepositiedmguid>
+ <selectiepositiebeginpositieopdrager>
+ </selectiepositiebeginpositieopdrager>
+ <expressiepublicatieeinddatum>
+ </expressiepublicatieeinddatum>
+ <expressiepositiedragerid>
+  <dragerid docid='/70700/71380/73621/186562'>
+   <![CDATA[471005]]>
+  </dragerid>
+  <dragerid docid='/70700/71380/73621/186562'>
+   <![CDATA[471006]]>
+  </dragerid>
+  <dragerid docid='/70700/71380/73621/186242'>
+   <![CDATA[470358]]>
+  </dragerid>
+  <dragerid docid='/70700/71380/73621/186242'>
+   <![CDATA[470359]]>
+  </dragerid>
+  <dragerid docid='/70700/71380/73621/186275'>
+   <![CDATA[470429]]>
+  </dragerid>
+  <dragerid docid='/70700/71380/73621/186275'>
+   <![CDATA[470430]]>
+  </dragerid>
+  <dragerid docid='/70700/71380/73621/186306'>
+   <![CDATA[470495]]>
+  </dragerid>
+  <dragerid docid='/70700/71380/73621/186306'>
+   <![CDATA[470496]]>
+  </dragerid>
+  <dragerid docid='/70700/71380/73621/186584'>
+   <![CDATA[471049]]>
+  </dragerid>
+  <dragerid docid='/70700/71380/73621/186584'>
+   <![CDATA[471050]]>
+  </dragerid>
+  <dragerid docid='/70700/71380/73621/186773'>
+   <![CDATA[471440]]>
+  </dragerid>
+  <dragerid docid='/70700/71380/73621/186773'>
+   <![CDATA[471441]]>
+  </dragerid>
+ </expressiepositiedragerid>
+ <expressiepositiedragersoort>
+  <dragersoort docid='/70700/71380/73621/186562'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70700/71380/73621/186562'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70700/71380/73621/186242'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70700/71380/73621/186242'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70700/71380/73621/186275'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70700/71380/73621/186275'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70700/71380/73621/186306'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70700/71380/73621/186306'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70700/71380/73621/186584'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70700/71380/73621/186584'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70700/71380/73621/186773'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+  <dragersoort docid='/70700/71380/73621/186773'>
+   <![CDATA[Programma]]>
+  </dragersoort>
+ </expressiepositiedragersoort>
+ <selectiepositiesof>
+ </selectiepositiesof>
+ <selectiepositiedragerannotatie>
+ </selectiepositiedragerannotatie>
+</bridge>

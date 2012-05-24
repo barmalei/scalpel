@@ -1,0 +1,319 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/10051">
+    <expressie>
+      <docid><![CDATA[62169]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[3704600]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst />
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Ende, Joop van den]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kaesen, Robert]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <uitvoerende>
+            <naam><![CDATA[Duin, André van]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Dusschoten, Frans van]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Jones, Donald]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Marina, Imca]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Robert Kaesen Dancers]]></naam>
+            <functie />
+          </uitvoerende>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>10051</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum><![CDATA[27-01-1975]]></begindatum>
+        <einddatum />
+        <datumprecisie><![CDATA[exacte datum]]></datumprecisie>
+        <begintijd><![CDATA[120000]]></begintijd>
+        <eindtijd><![CDATA[3824000]]></eindtijd>
+        <tijdsduur><![CDATA[3704600]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[27-01-1975]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[TROS]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119200]]></beginopdrager>
+        <eindeopdrager><![CDATA[3823840]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD12695]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>10212</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[10051]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>781553</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119200]]></beginopdrager>
+        <eindeopdrager><![CDATA[3823840]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TDU12695]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus><![CDATA[uitleenkopie]]></archiefstatus>
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>10213</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[10051]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>781552</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119200]]></beginopdrager>
+        <eindeopdrager><![CDATA[3823840]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[_____________-HRE000025B9]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie><![CDATA[ BG_1054.mpg]]></dragerannotatie>
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>10211</dragerid>
+        <DMGUID><![CDATA[444C4755494400B4134BE61D392700E7C9224C030103000BE1A8C01701000000]]></DMGUID>
+        <SOF><![CDATA[119040]]></SOF>
+        <publID><![CDATA[10051]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>781555</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119200]]></beginopdrager>
+        <eindeopdrager><![CDATA[3823840]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[BG_1054.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>10214</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[10051]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>781551</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119200]]></beginopdrager>
+        <eindeopdrager><![CDATA[3823840]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[_____________-HRE000025B9.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>119547</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[10051]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>789904</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119200]]></beginopdrager>
+        <eindeopdrager><![CDATA[3823840]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V10133]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>10215</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[10051]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>781554</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Revue met André van Duin opgenomen in schouwburg Orpheus in
+Apeldoorn, met medewerking van Frans van Dusschoten, Corry
+van Gorp, Donald Jones, Imca Marina   en de Robert Kaesen
+Dancers.
+Tussen de sketches en optredens door, klappend publiek.
+61'44".]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Kopie 4-kopsband 90/1088]]></annotatie>
+      <taakID>10137</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[showprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas />
+        <trefwoorden>
+          <trefwoord><![CDATA[popmuziek]]></trefwoord>
+          <trefwoord><![CDATA[showballet]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Alcoholcontrole voor baby.]]></samenvatting>
+      <beschrijving><![CDATA[Frans ligt ziek in bed. André, gekleed in een matrozenpakje, speelt zijn zoon. Omdat het tweetal niet goed te verstaan is, vraagt iemand uit het publiek of ze harder willen praten De acteurs beginnen vervolgens helemaal van voren af aan. Later in het programma worden André (verkleed als banaan) en Corrie met hun baby aangehouden voor een alcoholcontrole. André rijmt op alles wat de agent zegt. Ze moeten in een pijpje blazen. En ja, de baby ook.]]></beschrijving>
+      <annotatie />
+      <taakID>10138</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas>
+          <thema><![CDATA[Sterrenshow / Hoogtepunten / Televisie]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

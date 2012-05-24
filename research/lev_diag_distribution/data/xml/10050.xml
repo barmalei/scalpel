@@ -1,0 +1,310 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/10050">
+    <expressie>
+      <docid><![CDATA[62193]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[3430000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst />
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Ende, Joop van den]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kaesen, Robert]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <uitvoerende>
+            <naam><![CDATA[Cramer, Ben]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Duin, André van]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Dusschoten, Frans van]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Gorp, Corrie van]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Jones, Donald]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Marina, Imca]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Orsouw, Coen van (jr.)]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Robert Kaesen Dancers]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Tefsen, Carry]]></naam>
+            <functie />
+          </uitvoerende>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>10050</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum><![CDATA[23-08-1975]]></begindatum>
+        <einddatum />
+        <datumprecisie><![CDATA[exacte datum]]></datumprecisie>
+        <begintijd><![CDATA[120000]]></begintijd>
+        <eindtijd><![CDATA[3549000]]></eindtijd>
+        <tijdsduur><![CDATA[3430000]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[23-08-1975]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[TROS]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119640]]></beginopdrager>
+        <eindeopdrager><![CDATA[3549680]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD28391]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>10208</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[10050]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>182</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119640]]></beginopdrager>
+        <eindeopdrager><![CDATA[3549680]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[_____________-HRE000028ED]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie><![CDATA[ BG_1045.mpg]]></dragerannotatie>
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>10207</dragerid>
+        <DMGUID><![CDATA[444C4755494400B4134BE61D392700E7C9224C030103000BE1A8C01201000000]]></DMGUID>
+        <SOF><![CDATA[119440]]></SOF>
+        <publID><![CDATA[10050]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>180</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119640]]></beginopdrager>
+        <eindeopdrager><![CDATA[3549680]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[BG_1045.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>10209</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[10050]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>183</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119640]]></beginopdrager>
+        <eindeopdrager><![CDATA[3549680]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[_____________-HRE000028ED.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>121044</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[10050]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>179</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119640]]></beginopdrager>
+        <eindeopdrager><![CDATA[3549680]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V11891]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>10210</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[10050]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>181</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Showprogramma met hoogtepunten uit de laatste drie "Dag dag
+heerlijke lach"- shows van André van Duin met medewerking van
+Corrie van Gorp, Frans van Dusschoten, Donald Jones, Imca
+Marina, Ben Cramer, Carry Tefsen en The Robert Kaesen Dancers
+en het Revue Orkest van Coen van Orsouw jr.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[KOPIE 4KOPSBAND AR877
+Aan het eind van het programma van tc 00:59:09 tot 01:00:29
+gaat het geluid nog even door ivm aftiteling.]]></annotatie>
+      <taakID>10135</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[show]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas />
+        <trefwoorden>
+          <trefwoord><![CDATA[humor]]></trefwoord>
+          <trefwoord><![CDATA[popmuziek]]></trefwoord>
+          <trefwoord><![CDATA[showballet]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Een lastige klant.]]></samenvatting>
+      <beschrijving><![CDATA[Sketch met André, Frans en Corrie in een televisiezaak. Frans is de verkoper, André de lastige klant die schadevergoeding eist.]]></beschrijving>
+      <annotatie />
+      <taakID>10136</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas>
+          <thema><![CDATA[Sterrenshow / Hoogtepunten / Televisie]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

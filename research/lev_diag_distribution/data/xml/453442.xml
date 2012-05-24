@@ -1,0 +1,253 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/453442">
+    <expressie>
+      <docid><![CDATA[96644]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[904000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="N">
+            <tekst><![CDATA[WEKELIJKS PRAATJE UIT NEW YORK VOOR NEDERLANDSE LUISTERAARS
+IN HET BUITENLAND]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <producent>
+            <naam><![CDATA[Philips' Radio]]></naam>
+          </producent>
+        </rollen>
+        <opnameplaatsen>
+          <opnameplaats><![CDATA[New York]]></opnameplaats>
+        </opnameplaatsen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[10-06-1938]]></begindatum>
+            <einddatum />
+            <datumprecisie />
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie />
+          </opname>
+        </opnamen>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>454581</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[904000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 15'04"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[10-06-1938]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie><![CDATA[Geluidskwaliteit slecht]]></technische_annotatie>
+        <netten>
+          <net><![CDATA[PCJ]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NIET BEKEND]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA35486]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367874</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454581]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314351</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA53367]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367875</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454581]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314352</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA53918]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367876</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454581]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314353</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[1606000]]></beginopdrager>
+        <eindeopdrager><![CDATA[2510000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA0097]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1200734</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454581]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1651003</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Wekelijks praatje van Mr. Mockelbock [spelling onzeker]
+vanuit New York, bestemd voor de Nederlandse luisteraars in
+het buitenland. Zijn onderwerpen vat hij samen als 'American
+News'. Dit bevat een mengsel van folklore en actualiteiten.
+Hij bespreekt onder meer: de Amerikaanse gebruiken, het weer,
+kidnappingen van kinderen, maatregelen om de stad New York
+schoon te houden, de overmaat aan regeringspubliciteit,
+spionage door Duitse Nazi's, de ontvangst van
+PCJ-uitzendingen, de entree van het passagiersschip 'De
+Nieuw-Amsterdam' en persroddel over Prinses, en toekomstig
+'keizerin', Beatrix. Vermeld wordt dat genoemde
+PCJ-uitzendingen eerst zijn uitgezonden naar [Oost-]Indië en
+daarna via een andere golflengte naar West-Indië en New York,
+alwaar ze enthousiast worden ontvangen.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[OudSFW: C31107/26-3075.
+Van deze opname bestaat  geen uitleenexemplaar. Via
+Klantenservice kan een kopie worden gemaakt. Deze opname
+bestaat uit ruw, ongemonteerd materiaal en kan van wisselende
+geluidskwaliteit zijn.
+Naam spreker is: Mockelbock, ook aangetroffen als: Mockelbach
+
+Bon: 69850
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>582321</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[actualiteiten]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[toerisme]]></trefwoord>
+          <trefwoord><![CDATA[volkscultuur]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Beatrix]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen>
+          <geografische_naam><![CDATA[Nederlands-Indië]]></geografische_naam>
+          <geografische_naam><![CDATA[Nederlandse Antillen]]></geografische_naam>
+          <geografische_naam><![CDATA[New York]]></geografische_naam>
+          <geografische_naam><![CDATA[Suriname]]></geografische_naam>
+          <geografische_naam><![CDATA[VS]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[Nieuw Amsterdam]]></naam>
+          <naam><![CDATA[Wereldomroep]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

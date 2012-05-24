@@ -1,0 +1,483 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/100316/101136/104537/453230">
+    <expressie>
+      <docid><![CDATA[734]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[0]]></tijdsduur>
+      <broncatalogus><![CDATA[Weken Nederlandse Radio]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Bloemink, Frits]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Boom, Hans van den]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Drimmelen, Gert van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Engelen, Vincent van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Haffmans, Hans]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Hautvast, Riet]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[samenstelling]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Hoytema, Aukelien van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Jagt, Audrey van der]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kaart, Caroline]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kieft, Roland]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Nieuwkerk, Aad van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Poel, Piet Hein van de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Renesse, Jacco van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Rijck, Maria de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Stokkermans, Joop]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[samenstelling]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Vingerhoeds, Vera]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Vingerhoeds, Vera]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[samenstelling]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Wielaert, Marc]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[samenstelling]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <opnamen />
+        <recht>
+          <bron><![CDATA[Zender: Radio 4]]></bron>
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>454369</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[04-10-1998]]></begindatum>
+        <einddatum><![CDATA[05-10-1998]]></einddatum>
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[0]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 1440'00"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[04-10-1998]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Tijdcode in ABS
+AANVULLING:
+Samplefrequentie: 32 kHz]]></technische_annotatie>
+        <netten>
+          <net><![CDATA[Radio 4]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[AVRO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[KRO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[NCRV]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[NOS]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[NPS]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[RADIO 4]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[RVD]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[STER]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[TROS]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[VPRO]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[WNR1238-I]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1200638</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454369]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1650611</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[2]]></volgnummer>
+        <dragernummer><![CDATA[WNR1238-II]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2539592</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454369]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3838783</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[3]]></volgnummer>
+        <dragernummer><![CDATA[WNR1238-III]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2539593</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454369]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3838784</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[4]]></volgnummer>
+        <dragernummer><![CDATA[WNR1238-IV]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2539594</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454369]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3838785</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[5]]></volgnummer>
+        <dragernummer><![CDATA[WNR1238-V]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2539595</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454369]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3838786</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[6]]></volgnummer>
+        <dragernummer><![CDATA[WNR1238-VI]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2539596</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454369]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3838787</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Zendlijnregistratie van week 40-1998. Integrale opname van
+Radio 4 zondag 4 oktober 1998 03.00 uur tot maandag 5 oktober
+1998 03.00 uur.]]></samenvatting>
+      <beschrijving><![CDATA['Radionieuws' (NOS): 07.00, 09.00, 10.00, 12.30, 14.00,
+18.00, 20.00, 00.00 en 01.00 uur. Bevat tevens tunes,
+stationcalls, jingles en promo's. Veelal rond het
+'Radionieuws' uitzending van reclame (STER), weerberichten,
+verkeersinformatie en overheidsvoorlichting (RVD).
+*
+03.00
+'Euroclassic Notturno' (RADIO 4). Klassiek nachtprogramma met
+eigen opnamen van Europese omroepen. Presentatie: Hans
+Haffmans.
+*
+OVER OP BAND WNR1238-II
+*
+07.02
+'Vroeg op 4' (NCRV). Dagelijks ochtendmagazine. Presentatie:
+Gert van Drimmelen.
+08.30
+'De kleine kaart' (VPRO). Kindermuziekprogramma. Presentatie:
+Aad van Nieuwkerk.
+09.04
+'Laudate' (KRO). Gewijde muziek. Presentatie: Frits Bloemink.
+10.04
+'Caroline' (AVRO). Populair-klassieke muziek op CD.
+Samenstelling: Joop Stokkermans. Presentatie: Caroline Kaart.
+*
+OVER OP BAND WNR1238-III
+*
+11.00
+'Ochtendconcert' (RADIO 4). Symfonisch repertoire.
+Presentatie: Hans van den Boom.
+12.32
+'Jonge mensen' (AVRO). Opnamen van jonge uitvoerende
+kunstenaars. Presentatie: Aad van Nieuwkerk.
+13.00
+'Klassiekenzo' (AVRO). Muziekmagazine voor jongeren over
+klassieke muziek en aanverwante zaken. Presentatie: Roland
+Kieft.
+14.04
+'Middagconcert' (RADIO 4). Symfonisch repertoire.
+Presentatie: Aad van Nieuwkerk.
+*
+OVER OP BAND WNR1238-IV
+*
+15.00
+Vervolg 'Middagconcert' (RADIO 4). Presentatie: Aad van
+Nieuwkerk.
+15.40
+'NPS Thema' (NPS). Muziek rond de historische figuur Faust.
+Samenstelling: Marc Wielaert. Presentatie: Piet Hein van de
+Poel.
+16.30
+'Diskotabel' (NPS). Een panel bespreekt recent verschenen
+CD's. Presentatie: Vincent van Engelen.
+18.04
+'Fiori musicali' (AVRO). Muziek uit Middeleeuwen, Renaissance
+en vroeg-Barok. Presentatie: Audrey van der Jagt.
+*
+OVER OP BAND WNR1238-V
+*
+19.00
+'Jacco's keus' (AVRO). Opera- en operettefragmenten.
+Presentatie: Jacco van Renesse.
+20.02
+'Muziek interaktief' (TROS). Een muzikaal wensprogramma met
+verzoeken van luisteraars uit het populair-klassieke
+repertoire. Presentatie: Aukelien van Hoytema.
+*
+OVER OP BAND WNR1238-VI
+*
+23.00
+'VPRO Jazz op 4' (VPRO). Jazzprogramma. Samenstelling en
+presentatie: Vera Vingerhoeds.
+00.02
+'Vincent na middernacht' (NPS). Nachtprogramma.
+Samenstelling: Riet Hautvast. Presentatie: Vincent van
+Engelen.
+01.05
+'Euroclassic Notturno' (RADIO 4). Klassiek nachtprogramma met
+eigen opnamen van Europese omroepen. Presentatie: Maria de
+Rijck.
+03.00
+*
+EINDE]]></beschrijving>
+      <annotatie><![CDATA[Dit item beslaat 6 cassettes: WNR1238 I-VI. Tijdcodes zijn
+overgenomen uit de radiogids. Van dit programma bestaat geen
+uitleenexemplaar. Via Klantenservice kan een kopie worden
+gemaakt.]]></annotatie>
+      <taakID>581795</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[muziekuitvoering ernstig]]></genre>
+          <genre><![CDATA[muziekuitvoering licht]]></genre>
+          <genre><![CDATA[nieuwsbulletin]]></genre>
+          <genre><![CDATA[promo]]></genre>
+          <genre><![CDATA[reclame]]></genre>
+          <genre><![CDATA[stationcall]]></genre>
+          <genre><![CDATA[voorlichting]]></genre>
+          <genre><![CDATA[weerberichten]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Weken Nederlandse Radio]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

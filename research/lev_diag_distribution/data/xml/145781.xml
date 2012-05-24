@@ -1,0 +1,298 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/55011/55671/57751/145781">
+    <expressie>
+      <docid><![CDATA[83389]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[2448000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[DE SPIJKER OP Z'N KOP SHOW (3)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Brood, Connie]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Hees, Egbert van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Zwerus, Peter]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Zwerus, Wim]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>146267</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[04-12-1984]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[50420000]]></begintijd>
+        <eindtijd><![CDATA[52868000]]></eindtijd>
+        <tijdsduur><![CDATA[2448000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 40'48"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[04-12-1984]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NOT]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[50419960]]></beginopdrager>
+        <eindeopdrager><![CDATA[52869040]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD30223]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>392225</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[146267]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>236072</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[50419960]]></beginopdrager>
+        <eindeopdrager><![CDATA[52869040]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DESPIJKEROPZN-HRE0000925C]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1334018</dragerid>
+        <DMGUID><![CDATA[2007061814282510800790450740014C2607C530000003696B00000D0F000287]]></DMGUID>
+        <SOF><![CDATA[50419000]]></SOF>
+        <publID><![CDATA[146267]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2071667</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[50419960]]></beginopdrager>
+        <eindeopdrager><![CDATA[52869040]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DESPIJKEROPZN-HRE0000925C.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1333974</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[146267]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2071632</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[50419960]]></beginopdrager>
+        <eindeopdrager><![CDATA[52869040]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DESPIJKEROPZN-HRE0000925C.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1333975</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[146267]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2071633</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[50420000]]></beginopdrager>
+        <eindeopdrager><![CDATA[52868000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V48786]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>392226</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[146267]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>235446</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Praatprogramma waarin, olv Peter Zwerus, vnl jongeren hun
+mening over een bepaald onderwerp geven. Deze aflevering:
+balen van school. Tijdens het gehele programma rechtsonder in
+beeld uitleg in gebarentaal voor doven en slechthorenden.]]></samenvatting>
+      <beschrijving><![CDATA[Onderwerpen van gesprek zijn: de stelling dat balen van
+school de schuld is van de school, waarop door twee leraren
+en een leider van een opvangcentrum voor spijbelaars
+commentaar wordt gegeven, en de stelling dat balen van school
+de schuld van de leerling is.
+Verder komen aan de orde: baaldagen; het opvangcentrum voor
+spijbelaars in Haarlem; het afschaffen van de leerplicht,
+waarop door een leerplichtambtenaar commentaar wordt gegeven.]]></beschrijving>
+      <annotatie />
+      <taakID>233991</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[praatprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[leerplicht]]></trefwoord>
+          <trefwoord><![CDATA[scholen]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[jongeren]]></vervallen_trefwoord>
+          <vervallen_trefwoord><![CDATA[spijbelen]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Balen van school: de schuld van de school of de leerling?]]></samenvatting>
+      <beschrijving><![CDATA[Wie baalt er wel eens niet van school? Iedereen toch! Maar aan wie ligt dat nou: aan de school of aan de leerling? Twee leraren en een leider van een opvangcentrum voor spijbelaars geven commentaar.
+
+Baaldag
+Een idee zou zijn om baaldagen in te voeren; een soort strippenkaart, waarop je per jaar een aantal dagen mag verzuimen.
+Een visueel nieuwtje is de doventolk, die rechtsonder in beeld de gehele uitzending in gebarentaal weergeeft.]]></beschrijving>
+      <annotatie />
+      <taakID>1135067</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas />
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

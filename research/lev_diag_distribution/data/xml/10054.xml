@@ -1,0 +1,295 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/10054">
+    <expressie>
+      <docid><![CDATA[86205]]></docid>
+      <afleveringsnummer><![CDATA[3]]></afleveringsnummer>
+      <deel />
+      <tijdsduur><![CDATA[3312960]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst />
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Ende, Joop van den (+ samenstelling)]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <uitvoerende>
+            <naam><![CDATA[Duin, André van]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Dusschoten, Frans van]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Gorp, Corrie van]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Jones, Donald]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Orsouw, Coen van (jr.)]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Robert Kaesen Dancers]]></naam>
+            <functie />
+          </uitvoerende>
+          <uitvoerende>
+            <naam><![CDATA[Vink, Conny]]></naam>
+            <functie />
+          </uitvoerende>
+          <producent>
+            <naam><![CDATA[Joop van den Ende Theaterprodukties bv]]></naam>
+          </producent>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>10054</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum><![CDATA[02-12-1974]]></begindatum>
+        <einddatum />
+        <datumprecisie><![CDATA[exacte datum]]></datumprecisie>
+        <begintijd><![CDATA[120000]]></begintijd>
+        <eindtijd><![CDATA[3425000]]></eindtijd>
+        <tijdsduur><![CDATA[3312960]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[02-12-1974]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[TROS]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[122000]]></beginopdrager>
+        <eindeopdrager><![CDATA[3435000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD12690]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>10227</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[10054]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>670066</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[122000]]></beginopdrager>
+        <eindeopdrager><![CDATA[3435000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[_____________-HRE000025B6]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie><![CDATA[ BG_1075.mpg]]></dragerannotatie>
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>10226</dragerid>
+        <DMGUID><![CDATA[444C4755494400B4134BE61D392700E7C9224C030103000BE1A8C02401000000]]></DMGUID>
+        <SOF><![CDATA[121840]]></SOF>
+        <publID><![CDATA[10054]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>670067</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[122000]]></beginopdrager>
+        <eindeopdrager><![CDATA[3435000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[BG_1075.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>10228</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[10054]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>670065</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[122000]]></beginopdrager>
+        <eindeopdrager><![CDATA[3435000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[_____________-HRE000025B6.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>119549</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[10054]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>670064</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[122000]]></beginopdrager>
+        <eindeopdrager><![CDATA[3435000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V10051]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>10229</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[10054]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>678093</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Showprogramma van André van Duin, vanuit De Speeldoos in
+Zaandam, met sketches,   muziek en dans. Mmv Frans van
+Dusschoten, Corrie van Gorp, Donald Jones, Conny Vink en The
+Robert Kaesen Dancers. Muzikale leiding: Coen van Orsouw jr.]]></samenvatting>
+      <beschrijving />
+      <annotatie />
+      <taakID>10143</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[show]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas />
+        <trefwoorden>
+          <trefwoord><![CDATA[humor]]></trefwoord>
+          <trefwoord><![CDATA[popmuziek]]></trefwoord>
+          <trefwoord><![CDATA[showballet]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Trouwen met de buurvrouw.]]></samenvatting>
+      <beschrijving><![CDATA[Het openingslied wordt gezongen door het hele gezelschap. In een sketch komt Van Duin bij de Burgerlijke Stand. Hij wil trouwen met zijn buurvrouw.]]></beschrijving>
+      <annotatie />
+      <taakID>10144</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas>
+          <thema><![CDATA[Sterrenshow / Hoogtepunten / Televisie]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

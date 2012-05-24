@@ -1,0 +1,250 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/67018/67678/69839/205022">
+    <expressie>
+      <docid><![CDATA[102804]]></docid>
+      <afleveringsnummer><![CDATA[9]]></afleveringsnummer>
+      <deel />
+      <tijdsduur><![CDATA[1497000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[Afl. 9: Slikken (Bruinisse)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Apeldoorn, Ger]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[scenario]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Brenninkmeijer, Stephan]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Edens, Harm]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[scenario]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Krapels, Hetty]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kroeske, Jan Douwe]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Wolf, Joost de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <producent>
+            <naam><![CDATA[Winter, Harry de; Smit, Anton]]></naam>
+          </producent>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+        <recht>
+          <bron />
+          <rechten><![CDATA[VARA/IDTV]]></rechten>
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>205508</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[12-11-1994]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[70971000]]></begintijd>
+        <eindtijd><![CDATA[72468000]]></eindtijd>
+        <tijdsduur><![CDATA[1497000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 24'57"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[12-11-1994]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[70971000]]></beginopdrager>
+        <eindeopdrager><![CDATA[72468000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[AR21016]]></dragernummer>
+        <dragertype><![CDATA[BCN]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>11173</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[205508]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>635943</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[70971000]]></beginopdrager>
+        <eindeopdrager><![CDATA[72468000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD69058]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>11174</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[205508]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>636431</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[70971000]]></beginopdrager>
+        <eindeopdrager><![CDATA[72468000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V55565]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>11176</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[205508]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>635942</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Serie televisiedrama's, in opdracht van Veilig Verkeer
+Nederland,
+gebaseerd op waargebeurde (verkeers)ongelukken, ingeleid en
+afgekondigd door Jan Douwe Kroeske.
+In deze aflevering: een boer vergeet een waarschuwingsbord
+neer te zetten om automobilisten te waarschuwen voor de
+modder op de weg, afkomstig van de banden van zijn tractor.
+Een busje met twee artiesten raakt in een slip doordat de
+bestuurder te hard door de slikken, achtergebleven modder op
+de weg, rijdt.
+Het busje slaat over de kop en de artiesten raken zwaar
+gewond.
+Mmv Joep Sertons, Hidde Maas, Trudy Labij, Victor Reiner,
+René Eljon en Ernst Wondergem.]]></samenvatting>
+      <beschrijving />
+      <annotatie />
+      <taakID>298903</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[televisiedrama]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[verkeersongelukken]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Eljon, René]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Labij, Trudy]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Maas, Hidde]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Sertons, Joep]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen>
+          <geografische_naam><![CDATA[Nederland]]></geografische_naam>
+        </geografische_namen>
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

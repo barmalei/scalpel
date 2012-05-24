@@ -1,0 +1,8 @@
+
+PROJECT {
+    @desc = "TAE lingpipe context"
+    
+    ARTIFACT(JAVA) {
+        @libs=['lib', 'lib/lingpipe/lib', 'lib/lingpipe/models' ]
+    }
+}

@@ -1,0 +1,438 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/67018/67678/69839/204244">
+    <expressie>
+      <docid><![CDATA[143003]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[1462000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[Beelden liegen niet (Hillegom)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Bentveld, Menno]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Brenninkmeijer, Stephan]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Galen, Alex van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[scenario]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kievit, Robert]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Niens, Hanneke]]></naam>
+            <toelichting><![CDATA[uitvoerend producent;]]></toelichting>
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Smit, Anton]]></naam>
+            <toelichting><![CDATA[producent;]]></toelichting>
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Winter, Harry de]]></naam>
+            <toelichting><![CDATA[producent;]]></toelichting>
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <producent>
+            <naam><![CDATA[IDtv ism de VARA]]></naam>
+          </producent>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>204730</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[08-09-1998]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[70028000]]></begintijd>
+        <eindtijd><![CDATA[71490000]]></eindtijd>
+        <tijdsduur><![CDATA[1462000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 24'22"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[08-09-1998]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+      <publicatie>
+        <id>589506</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum><![CDATA[11-07-2007]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[53545000]]></begintijd>
+        <eindtijd><![CDATA[55011320]]></eindtijd>
+        <tijdsduur><![CDATA[1462000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 24'22"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie><![CDATA[Stereo]]></annotatie_publicatie>
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat><![CDATA[Standaard: 4:3]]></distributieformaat>
+        <gelegenheid />
+        <indicatie_herhaling><![CDATA[1]]></indicatie_herhaling>
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[11-07-2007]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten>
+          <net><![CDATA[Nederland 2]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[70028000]]></beginopdrager>
+        <eindeopdrager><![CDATA[71490000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD32355]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>97958</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[204730]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>664577</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119640]]></beginopdrager>
+        <eindeopdrager><![CDATA[1581080]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[D034/18544]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Videotheek]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Titelkopie]]></dragersoort>
+        <dragerid>1841360</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[204730]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2739604</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1586320]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[HILLEGOM_BEEL-VAR001O84JV]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1349981</dragerid>
+        <DMGUID><![CDATA[2007071115523820800790450740014C2607C530000000180B00000D0F000821]]></DMGUID>
+        <SOF><![CDATA[115000]]></SOF>
+        <publID><![CDATA[589506]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype>Stereo</geluidstype>
+        <metrage />
+        <sortering />
+        <positieid>2089223</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119640]]></beginopdrager>
+        <eindeopdrager><![CDATA[1581080]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[BEELDENLIEGEN-HRE0000D290]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Titelkopie]]></dragersoort>
+        <dragerid>1866835</dragerid>
+        <DMGUID><![CDATA[2008022513290340800790450740014C2607C530000005168B00000D0F010100]]></DMGUID>
+        <SOF><![CDATA[115000]]></SOF>
+        <publID><![CDATA[204730]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2757324</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1586320]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[HILLEGOM_BEEL-VAR001O84JV.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1349982</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[589506]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype>Stereo</geluidstype>
+        <metrage />
+        <sortering />
+        <positieid>2089224</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119640]]></beginopdrager>
+        <eindeopdrager><![CDATA[1581080]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[BEELDENLIEGEN-HRE0000D290.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Titelkopie]]></dragersoort>
+        <dragerid>1865337</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[204730]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2756162</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1586320]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[HILLEGOM_BEEL-VAR001O84JV.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1349983</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[589506]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype>Stereo</geluidstype>
+        <metrage />
+        <sortering />
+        <positieid>2089225</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119640]]></beginopdrager>
+        <eindeopdrager><![CDATA[1581080]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[BEELDENLIEGEN-HRE0000D290.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Titelkopie]]></dragersoort>
+        <dragerid>1865338</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[204730]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2756163</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[70028000]]></beginopdrager>
+        <eindeopdrager><![CDATA[71490000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V71235]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>97960</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[204730]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>664576</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Serie op waargebeurde verkeersongelukken gebaseerde televisiedrama's. Verteller: Menno Bentveld. 
+In deze aflevering staat de arts Rob van Staveren (Howard Dodemont) centraal. Zijn vader Daan van Staveren (Jaap Maarleveld) denkt regelmatig dat hij een hartaanval heeft, wat bij zijn zoon tot grote irritatie leidt. Ondertussen proberen twee concurrerende televisieploegen opnames te maken van een
+gearresteerde crimineel. De achtervolging die hierbij ontstaat, leidt tot een verkeersongeluk waarbij Daan van Staveren een whiplash oploopt.
+Voor overige acteurs zie persoonsnamenveld muv: Anneke Sloet van Oldruitenborgh, Raymond Lorié en Maria Brenninkmeijer-Pas.]]></samenvatting>
+      <beschrijving />
+      <annotatie />
+      <taakID>298087</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[televisiedrama]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[verkeersongelukken]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Dodemont, Howard]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Faassen, Hella]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Maarleveld, Jaap]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Rigter, Frank]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen>
+          <geografische_naam><![CDATA[Hillegom]]></geografische_naam>
+          <geografische_naam><![CDATA[Nederland]]></geografische_naam>
+        </geografische_namen>
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

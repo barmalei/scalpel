@@ -1,0 +1,318 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/68707/69387/71588/170678">
+    <expressie>
+      <docid><![CDATA[173443]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[2170000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[REM (6)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Linde, Wibo van de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Linde, Wibo van de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Roeland, Harmen]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Roeland, Harmen]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <spreker>
+            <naam><![CDATA[Hertsenberg, Antoinette]]></naam>
+            <functie />
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Vries, Peter R. de]]></naam>
+            <functie />
+          </spreker>
+        </rollen>
+        <opnameplaatsen>
+          <opnameplaats><![CDATA[Noordzee, REM-eiland]]></opnameplaats>
+        </opnameplaatsen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+        <recht>
+          <bron><![CDATA[Archiefmateriaal: NOS (afscheid Singh Varma); TROS
+('Jongbloed & Joosten').]]></bron>
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>171151</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[04-04-2004]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[85070000]]></begintijd>
+        <eindtijd><![CDATA[840000]]></eindtijd>
+        <tijdsduur><![CDATA[2170000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 36'10"]]></tijdsduur_annotatie>
+        <begintijdstip><![CDATA[85020000]]></begintijdstip>
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[04-04-2004]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten>
+          <net><![CDATA[Nederland 2]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[TROS]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[85070760]]></beginopdrager>
+        <eindeopdrager><![CDATA[87239800]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD74717]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>437687</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[171151]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>88246</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[85070760]]></beginopdrager>
+        <eindeopdrager><![CDATA[87239800]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[REM6_________-HRE0001463A]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2548132</dragerid>
+        <DMGUID><![CDATA[2008122405451620800790450740014C2607C530000006348B00000D0F007510]]></DMGUID>
+        <SOF><![CDATA[85069000]]></SOF>
+        <publID><![CDATA[171151]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3850380</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[85070760]]></beginopdrager>
+        <eindeopdrager><![CDATA[87239800]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[REM6_________-HRE0001463A.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2548060</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[171151]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3850300</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[85070760]]></beginopdrager>
+        <eindeopdrager><![CDATA[87239800]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[REM6_________-HRE0001463A.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2548061</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[171151]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3850301</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[85070000]]></beginopdrager>
+        <eindeopdrager><![CDATA[840000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V98817]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>437688</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[171151]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>88245</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Achtdelige serie praatprogramma's, gepresenteerd door Wibo
+van de Linde en Harmen Roeland, vanaf het REM-eiland voor de
+kust van Noordwijk waar de TROS ooit is begonnen. Er wordt
+teruggekeken op veertig jaar TROS-historie met gasten en
+gesproken over hun aandeel in vroegere en hedendaagse
+TROS-programma's en over hun huidige carrière. Daarnaast
+wordt een aantal actuele thema's besproken die betrekking
+hebben op hun specialisatie. In deze aflevering:
+tv-presentatrice Antoinette Hertsenberg en
+misdaadverslaggever Peter R. de Vries.]]></samenvatting>
+      <beschrijving><![CDATA[Aan de orde komen: De Vries' en Hertsenbergs aandeel in
+vroegere en hedendaagse TROS-programma's en hun huidige
+carrière; onthullingen in programma's gepresenteerd door
+Hertsenberg: Tara Singh Varma, die loog over haar terminale
+ziekte, en de zaak LegioLease; De Vries en Hertsenberg die in
+hun werk gesteund worden door een uitgebreid team; het
+Nederlandse rechtssysteem; het opsporen en aantonen van
+maatschappelijke misstanden en fouten van bijvoorbeeld
+justitie; de vraag of De Vries de politiek in zou willen; de
+huidige politiek; de bureaucratie; psychiatrische patiënten
+die als daklozen over straat zwerven; de verharding in de
+Nederlandse maatschappij; de onderbetaling van mensen in de
+zorg en het onderwijs.
+ARCHIEFMATERIAAL: diverse van De Vries en Hertsenberg;
+afscheid Singh Varma van de Tweede Kamer (2001);
+berichtgeving over de zaak LegioLease; De Vries in 'Jongbloed
+& Joosten'; Hertsenberg in de Dominicaanse Republiek bij een
+aids-project; berichtgeving over de moord op Corina Bolhaar
+en haar twee kinderen in Amsterdam.]]></beschrijving>
+      <annotatie><![CDATA[Het programma wordt in de gids aangekondigd als 'Studio REM'.]]></annotatie>
+      <taakID>260800</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[praatprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[bureaucratie]]></trefwoord>
+          <trefwoord><![CDATA[criminaliteit]]></trefwoord>
+          <trefwoord><![CDATA[journalistiek]]></trefwoord>
+          <trefwoord><![CDATA[oplichting]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Oedayraj Singh Varma, Tara]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen>
+          <geografische_naam><![CDATA[Nederland]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[REM-eiland]]></naam>
+          <naam><![CDATA[TROS]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

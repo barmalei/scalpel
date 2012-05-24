@@ -1,0 +1,336 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/55011/55671/57751/139721">
+    <expressie>
+      <docid><![CDATA[96156]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[3009000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[DE SPIJKER OP Z'N KOP SHOW (5)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Hees, Egbert van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Zwerus, Peter]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+        <recht>
+          <bron><![CDATA[Dupe: NOS]]></bron>
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>140207</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[01-03-1983]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[139000]]></begintijd>
+        <eindtijd><![CDATA[3148000]]></eindtijd>
+        <tijdsduur><![CDATA[3009000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 50'09" (DIGI-BETA); 3'27" (FILM)]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[01-03-1983]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Film: A1
+Materiaal: Kleur
+Geluid: A1]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NOT]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ ABOO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ AVRO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[139000]]></beginopdrager>
+        <eindeopdrager><![CDATA[3148000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[M74028]]></dragernummer>
+        <dragertype><![CDATA[bliknr.]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>377014</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[140207]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>365522</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[139080]]></beginopdrager>
+        <eindeopdrager><![CDATA[3147600]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD30221]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>377015</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[140207]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>366095</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[139080]]></beginopdrager>
+        <eindeopdrager><![CDATA[3147600]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DESPIJKEROPZN-HRE00009B55]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1362236</dragerid>
+        <DMGUID><![CDATA[2007080115411380800790450740014C2607C530000003236B00000D0F001669]]></DMGUID>
+        <SOF><![CDATA[138000]]></SOF>
+        <publID><![CDATA[140207]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2106218</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[139080]]></beginopdrager>
+        <eindeopdrager><![CDATA[3147600]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DESPIJKEROPZN-HRE00009B55.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1361870</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[140207]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2105662</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[139080]]></beginopdrager>
+        <eindeopdrager><![CDATA[3147600]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DESPIJKEROPZN-HRE00009B55.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1361871</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[140207]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2105663</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[139000]]></beginopdrager>
+        <eindeopdrager><![CDATA[3148000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V20444]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>377016</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[140207]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>365521</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Live-praatprogramma olv Peter Zwerus, waarin leerlingen uit
+het voortgezet onderwijs hun mening geven over een bepaald
+onderwerp en hierover met studiogasten discussieren. Deze
+aflevering: rollenpatronen in de maatschappij.
+Gastpresentatrice: Ageeth Scherphuis.]]></samenvatting>
+      <beschrijving><![CDATA[Leerlingen van de Technische School uit Weesp en de School
+voor IHNO en LHNO Dubbelsteijn uit Dordrecht discussiëren met
+de studiogasten over de volgende onderwerpen: keuzevrijheid
+voor meisjes om een opleiding te volgen die zij zelf willen en
+de rol van de schooldekaan hierin; het rolpatroon bij mannen
+en vrouwen; keuze van leervakken en de wijze van acceptatie
+van vrouwen in zogenaamde mannenberoepen. 
+STUDIOGASTEN: 
+- Ans Bakker, voorzitter van de stichting Marie Wordt Wijzer; 
+- Leo Sanders, voorzitter van de Vereniging voor
+Schooldekanen; 
+- Laura Sillekens, kraandrijfster bij Hoogovens. 
+SHOTS: 
+05:32 animatie over rolpatroon bij een tweeling vanaf het
+moment van de geboorte (FILMINLAS); 
+DUPE: fragment vrouwenprogramma "Ot, en hoe zit 't nou met
+Sien?", waarin een echtpaar de rollen omgedraaid heeft. 
+OPTREDEN: 
+30:32 Sjamot, cabaretgroep van onderwijzend personeel, over de
+keuze van het vakkenpaket.]]></beschrijving>
+      <annotatie><![CDATA[Filminlas aanwezig.]]></annotatie>
+      <taakID>227098</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[praatprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[animaties]]></trefwoord>
+          <trefwoord><![CDATA[onderwijs]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[jongeren]]></vervallen_trefwoord>
+          <vervallen_trefwoord><![CDATA[rolpatronen]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Scherphuis, Ageeth]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Mannen en voruwen: rolpatronen in de maatschappij.]]></samenvatting>
+      <beschrijving><![CDATA[Rolpatronen in de maatschappij: leerlingen van een technische en een Huishoudschool discussiëren met de studiogasten over keuzevrijheid voor meisjes om een opleiding te volgen die zij zelf willen. De schooldecaan kan hierin een belangrijke rol spelen.
+
+Kraandrijfster
+Veelal kiezen meisjes voor behoudende vakkenpakketten. Maar dat kan toch anders? Een vrouw in een typisch mannenberoep weet daar alles van: als kraandrijver bij Hoogovens vertelt ze over de acceptatie door haar mannelijke collega’s.]]></beschrijving>
+      <annotatie />
+      <taakID>1135068</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas />
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

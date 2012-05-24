@@ -1,0 +1,316 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/55011/55671/57751/137526">
+    <expressie>
+      <docid><![CDATA[96152]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[3186000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[DE SPIJKER OP Z'N KOP SHOW (9)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Daalmeijer, Joop]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Hees, Egbert van]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Zwerus, Peter]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>138012</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[02-11-1982]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[120000]]></begintijd>
+        <eindtijd><![CDATA[3306000]]></eindtijd>
+        <tijdsduur><![CDATA[3186000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 53'06"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[02-11-1982]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NOT]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ ABOO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ AVRO]]></zendgemachtigde>
+          <zendgemachtigde><![CDATA[ VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[123560]]></beginopdrager>
+        <eindeopdrager><![CDATA[3305840]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD30197]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>372440</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[138012]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>496982</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[123560]]></beginopdrager>
+        <eindeopdrager><![CDATA[3305840]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DESPIJKEROPZN-HRE000099A9]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1356261</dragerid>
+        <DMGUID><![CDATA[2007072020433970800790450740014C2607C530000003236B00000D0F000541]]></DMGUID>
+        <SOF><![CDATA[119000]]></SOF>
+        <publID><![CDATA[138012]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2099132</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[123560]]></beginopdrager>
+        <eindeopdrager><![CDATA[3305840]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DESPIJKEROPZN-HRE000099A9.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1356242</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[138012]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2099113</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[123560]]></beginopdrager>
+        <eindeopdrager><![CDATA[3305840]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DESPIJKEROPZN-HRE000099A9.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1356243</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[138012]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2099114</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[3306000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V20416]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>372441</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[138012]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>496981</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Live-praatprogramma olv Peter Zwerus, waarin leerlingen uit
+het voortgezet onderwijs hun mening geven over een bepaald
+onderwerp en hierover met studiogasten discussieren. Vast
+onderdeel: een optreden van de popgroep Drukwerk. 
+Deze aflevering over kernbewapening. Gastpresentator: Joop
+Daalmeijer.]]></samenvatting>
+      <beschrijving><![CDATA[Leerlingen van het Rijnlandlyceum uit Wassenaar en het
+Praediniusgymnasium uit Groningen discussiëren met de
+studiogasten over de volgende onderwerpen: kernbewapening, de
+dreiging die uitgaat van plaatsing van SS20 raketten in de
+USSR en kruisraketten in centraal Europa, de gevolgen van het
+Nederlandse lidmaatschap van de NAVO, de gevolgen van een
+kernaanval op Nederland en het voorkomen ervan. 
+STUDIOGASTEN: 
+- W.J.E. Verheggen, arts en voorzitter van de Nederlandse
+Vereniging van Medische Polemologie, die het doel van de
+vereniging uitlegt en adhv een kaart van Nederland een
+voorbeeld probeert te geven van de gevolgen van een kernaanval
+op Nederland; 
+- G.C. Berkhof, brigade-generaal en kernwapenspecialist van
+defensie, oa over het machtsevenwicht; 
+- Mient Jan Faber, secretaris IKV, over de wereldwijde
+groeiende protesten tegen kernbewapening en over samenwerking
+van het IKV met de anti-militaristische actiegroep Onkruit. 
+INTERVIEW (eerder opgenomen) met een Nederlander die tijdens
+de val van de atoombom op Nagasaki in Japan als
+krijgsgevangene in een mijngang werkzaam was. 
+OPTREDEN: 
+30:09 Drukwerk met "Als de sirenes loeien".]]></beschrijving>
+      <annotatie />
+      <taakID>224622</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[praatprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[anti-kernbewapening]]></vervallen_trefwoord>
+          <vervallen_trefwoord><![CDATA[jongeren]]></vervallen_trefwoord>
+          <vervallen_trefwoord><![CDATA[kernbewapening]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Berkhof, G.C.]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Faber, Mient Jan]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Verheggen, W.J.E.]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen>
+          <geografische_naam><![CDATA[Nederland]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[Drukwerk]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Kernbewapening: wel of geen kruisraketten in Nederland?]]></samenvatting>
+      <beschrijving><![CDATA[Leerlingen uit Wassenaar en Groningen discussiëren met studiogasten over kernbewapening. De Sovjetunie heeft SS20-raketten opgesteld. Daar moet het Westen wel iets tegenover zetten. Of toch niet? Wat zijn de gevolgen van wel of geen plaatsing van raketten op vaderlandse bodem voor het lidmaatschap van de NAVO?
+
+Sirenes
+Sterker: hoe overleeft Nederland een kernaanval? Generaal Berkhof geeft als kernwapenspecialist zijn visie op het machtsevenwicht tussen Oost en West. En Mient Jan Faber van het IKV ziet wereldwijd groeiende protesten tegen kernbewapening. Drukwerk zingt het toepasselijke ‘Als de sirenes loeien’.]]></beschrijving>
+      <annotatie />
+      <taakID>1135069</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas />
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

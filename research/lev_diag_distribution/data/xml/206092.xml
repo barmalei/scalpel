@@ -1,0 +1,320 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/67018/67678/69839/206092">
+    <expressie>
+      <docid><![CDATA[117050]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[1422000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[Oude liefde (Zoetermeer)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Grimbergen, Bart]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[scenario]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Kroeske, Jan Douwe]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Walther, Hans]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Wijering, Ben]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[scenario]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Wolf, Joost de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <producent>
+            <naam><![CDATA[IDTV]]></naam>
+          </producent>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>206578</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[25-11-1995]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[71977000]]></begintijd>
+        <eindtijd><![CDATA[73399000]]></eindtijd>
+        <tijdsduur><![CDATA[1422000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 24'42"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[25-11-1995]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[71977000]]></beginopdrager>
+        <eindeopdrager><![CDATA[73399000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[TD8421]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>420088</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[206578]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>533233</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119280]]></beginopdrager>
+        <eindeopdrager><![CDATA[1555720]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[D034/3291]]></dragernummer>
+        <dragertype><![CDATA[DIGI-BETA]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Videotheek]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Titelkopie]]></dragersoort>
+        <dragerid>1841355</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[206578]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2739599</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119280]]></beginopdrager>
+        <eindeopdrager><![CDATA[1555720]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[OUDELIEFDEZOE-HRE0000D413]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Titelkopie]]></dragersoort>
+        <dragerid>1888446</dragerid>
+        <DMGUID><![CDATA[2008031215514290800790450740014C2607C530000005448B00000D0F000560]]></DMGUID>
+        <SOF><![CDATA[115000]]></SOF>
+        <publID><![CDATA[206578]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2779744</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119280]]></beginopdrager>
+        <eindeopdrager><![CDATA[1555720]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[OUDELIEFDEZOE-HRE0000D413.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Titelkopie]]></dragersoort>
+        <dragerid>1888276</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[206578]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2779650</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[119280]]></beginopdrager>
+        <eindeopdrager><![CDATA[1555720]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[OUDELIEFDEZOE-HRE0000D413.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Titelkopie]]></dragersoort>
+        <dragerid>1888277</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[206578]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>2779651</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[71977000]]></beginopdrager>
+        <eindeopdrager><![CDATA[73399000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V60433]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>420089</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[206578]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>532793</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Serie televisiedrama's gebaseerd op waargebeurde ongelukken,
+ingeleid en afgekondigd door Jan Douwe Kroeske.
+In deze aflevering ontmoet een jonge ambitieuze man, die net
+een nieuwe baan heeft gekregen, in een café zijn oude
+vriendin. Samen maken ze er een gezellige avond van, maar na
+een gesprekje krijgt hij spijt en stapt hij dronken in zijn
+auto. Ondertussen is een wat oudere echtpaar, dat door
+omstandigheden in tijdnood verkeert, op weg naar hun
+cruiseschip. Bij een stoplicht rijdt de dronken man het
+echtpaar van achteren aan.
+Acteurs: Reinout Bussemakers, Carolina Mout, Will van Selst,
+Marlies van Alcmaer, Kees Coolen, Erik de Vries, Martin
+Schwab en Martin van Tulder.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[TITELANNOTATIE: Zoetermeer]]></annotatie>
+      <taakID>300017</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[televisiedrama]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[alcohol]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[verkeersongelukken]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Alcmaer, Marlies van]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Bussemaker, Reinout]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Coolen, Kees]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Mout, Carolina]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Schwab, Martin]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Selst, Will van]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Vries, Erik de]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

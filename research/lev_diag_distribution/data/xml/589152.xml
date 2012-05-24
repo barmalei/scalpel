@@ -1,0 +1,300 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/67018/67678/69839/589152">
+    <expressie>
+      <docid />
+      <afleveringsnummer><![CDATA[9]]></afleveringsnummer>
+      <deel />
+      <tijdsduur><![CDATA[1430240]]></tijdsduur>
+      <broncatalogus />
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[Renkum - Het verjaarscadeau]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Walther, Hans]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[Regie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Pavias, Helen]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[Scenario]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Bentveld, Menno]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[Presentatie]]></functie>
+            </functies>
+          </maker>
+          <cast>
+            <naam><![CDATA[Boele, Hein]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Joris, Jop]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Passchier, Lex]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Pouwels, Pieternel]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Somers, Hans]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Pavias, Helen]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+        </rollen>
+        <taalgebruiken>
+          <taalgebruik>
+            <taal><![CDATA[Nederlands]]></taal>
+            <gebruik><![CDATA[uitgangstaal]]></gebruik>
+          </taalgebruik>
+        </taalgebruiken>
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[Kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen>
+          <opname>
+            <begindatum />
+            <einddatum />
+            <datumprecisie />
+            <productiejaar><![CDATA[1996]]></productiejaar>
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie />
+          </opname>
+        </opnamen>
+        <recht>
+          <bron />
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>590462</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum><![CDATA[30-10-1997]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[1430240]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling><![CDATA[0]]></indicatie_herhaling>
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[30-10-1997]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+      <publicatie>
+        <id>590461</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum><![CDATA[13-07-2007]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[68417000]]></begintijd>
+        <eindtijd><![CDATA[69847240]]></eindtijd>
+        <tijdsduur><![CDATA[1430240]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie><![CDATA[Stereo]]></annotatie_publicatie>
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat><![CDATA[4:3]]></distributieformaat>
+        <gelegenheid />
+        <indicatie_herhaling><![CDATA[1]]></indicatie_herhaling>
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[13-07-2007]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten>
+          <net><![CDATA[Nederland 3]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1550240]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[RENKUM_HET_VE-VAR001O84LA]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1351388</dragerid>
+        <DMGUID><![CDATA[2007071319572340800790450740014C2607C530000000180B00000D0F001130]]></DMGUID>
+        <SOF><![CDATA[115000]]></SOF>
+        <publID><![CDATA[590461]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype>Stereo</geluidstype>
+        <metrage />
+        <sortering />
+        <positieid>2091215</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1550240]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[RENKUM_HET_VE-VAR001O84LA.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1351389</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[590461]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype>Stereo</geluidstype>
+        <metrage />
+        <sortering />
+        <positieid>2091216</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[120000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1550240]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[RENKUM_HET_VE-VAR001O84LA.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1351390</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[590461]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype>Stereo</geluidstype>
+        <metrage />
+        <sortering />
+        <positieid>2091217</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Deze aflevering, gepresenteerd door Menno Bentveld: een brommerongeluk. Maarten wordt bijna zestien en wil graag een brommer, net zoals zijn vriend Jeroen. Als hij eindelijk zijn brommer heeft, scheurt hij samen met Jeroen over de weg om indruk te maken op meisjes. Daarbij knalt Jeroen op een auto.  
+]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Programma niet bekeken. Beschrijving gemaakt op basis van programmagegevens.]]></annotatie>
+      <taakID>723212</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas />
+        <trefwoorden>
+          <trefwoord><![CDATA[bromfietsen]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Gevaarlijk rijden op brommers. ]]></samenvatting>
+      <beschrijving><![CDATA[Maarten is bijna jarig en wil graag een brommer. Zijn vriend Jeroen heeft er al één en maakt daarmee indruk op de meisjes. Jeroen zal Maarten wel even laten zien hoe je zo hard mogelijk op een brommer moet scheuren. ]]></beschrijving>
+      <annotatie />
+      <taakID>1057107</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas />
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

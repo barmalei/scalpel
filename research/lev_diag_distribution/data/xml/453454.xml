@@ -1,0 +1,216 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/453454">
+    <expressie>
+      <docid><![CDATA[96575]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[749000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="N">
+            <tekst><![CDATA[REPORTAGE OVER OESTERTEELT IN YERSEKE]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen />
+        <opnameplaatsen>
+          <opnameplaats><![CDATA[Yerseke]]></opnameplaats>
+        </opnameplaatsen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[01-01-1930]]></begindatum>
+            <einddatum />
+            <datumprecisie />
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie><![CDATA[(jaren '30, exact jaar onbekend)]]></annotatie>
+          </opname>
+        </opnamen>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>454593</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[749000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 12'29"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[01-01-1930]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[PHOHI]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA183742]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367855</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454593]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314332</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA183748]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367856</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454593]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314333</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[1348000]]></beginopdrager>
+        <eindeopdrager><![CDATA[2097000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA0080]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1200746</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454593]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1651027</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Acht fragmenten van een reportage over de oester- en
+mosselvangst in Yerseke.
+De verslaggever legt uit hoe de mosselen en oesters gekweekt
+worden.
+Interviews met enkele oesterkwekers bij hun percelen aan de
+Oosterschelde. Door beleid van de regering, uitgevoerd door
+de Visserscentrale, zijn meerdere particuliere vissers
+werkeloos geworden. De vissers van Yerseke leven uitsluitend
+van oesterteelt en mosselvangst en hopen op steun van de
+regering.
+Korte gesprekken volgen met enkele vissers in de haven van
+Yerseke [opname breekt af].]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[OudSFW: C31091/26-3072.
+Opname gemaakt  tussen 1936-1939.
+Probleem is waarschijnlijk dat de regering wel steun geeft
+aan vissers op andere vissoorten, maar niet aan degenen die
+vissen op oesters en mosselen(?).
+Van deze opname bestaat  geen uitleenexemplaar. Via
+Klantenservice kan een kopie worden gemaakt. Deze opname
+bestaat uit ruw, ongemonteerd materiaal en kan van wisselende
+geluidskwaliteit zijn.
+
+Bon: 17281
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>582357</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[actuele informatie]]></genre>
+          <genre><![CDATA[reportage]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[visserij]]></trefwoord>
+          <trefwoord><![CDATA[werkgelegenheid]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA[Nederland]]></geografische_naam>
+          <geografische_naam><![CDATA[Oosterschelde]]></geografische_naam>
+          <geografische_naam><![CDATA[Yerseke]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[Ministerie van Landbouw en Visserij]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

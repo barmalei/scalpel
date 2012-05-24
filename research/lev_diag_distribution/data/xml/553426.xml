@@ -1,0 +1,258 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/553426">
+    <expressie>
+      <docid><![CDATA[56328]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[3420000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Galis, Cor]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[omroeper]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Meijer, Ischa]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Meijer, Ischa]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Meijer, Ischa]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Meijer, Ischa]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[samenstelling]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Smit, Leonie]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <spreker>
+            <naam><![CDATA[Bloemen, Karin]]></naam>
+            <functie><![CDATA[actrice]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Govers, Frank]]></naam>
+            <functie><![CDATA[modeontwerper]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Jansen, Jan]]></naam>
+            <functie><![CDATA[vormgever]]></functie>
+          </spreker>
+        </rollen>
+        <taalgebruiken />
+        <opnamen />
+        <recht>
+          <bron />
+          <rechten><![CDATA[Originele banden, lenen uitsluitend met toestemming van de
+rechthebbende.]]></rechten>
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>554565</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[23-09-1985]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[57780000]]></begintijd>
+        <eindtijd />
+        <tijdsduur><![CDATA[3420000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 57'00"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[23-09-1985]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten>
+          <net><![CDATA[Hilversum 1]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VPRO]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NB62188]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2373226</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554565]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3322486</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NB64096]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2373227</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554565]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3322487</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[57780000]]></beginopdrager>
+        <eindeopdrager><![CDATA[61200000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA9572]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1308275</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554565]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1932245</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Live praatprogramma, met:
+1 een interview met schoenontwerper Jan Jansen over de prijs
+die Jansen heeft gewonnen voor zijn ontwerpen, over de schoen
+in het algemeen en over de komende tentoonstelling met
+Jansen's werk [15'00"];
+2. interview met modeontwerper Frank Govers, over
+schoenontwerper Jan Jansen, over mode in het algemeen, over
+zijn eigen werk en over Amsterdam [25'00"];
+3 interview met uitgever Collins, een Amerikaan die in
+Nederland onbekende buitenlandse schrijvers uitgeeft. Hij
+spreekt over zijn werk, zijn jeugd in Amerika en over
+Amsterdam [15'00"].
+4. Gedichten voorgedragen door actrice Karin Bloemen [3'00"].]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Programma niet afgeluisterd. Beschrijving gemaakt op basis
+van programmagegevens.
+Bandnummers: NB--64096, NB--62188.
+
+Bon: 9090
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>686283</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[praatprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[kleding]]></trefwoord>
+          <trefwoord><![CDATA[mode]]></trefwoord>
+          <trefwoord><![CDATA[modeontwerpers]]></trefwoord>
+          <trefwoord><![CDATA[poëzie]]></trefwoord>
+          <trefwoord><![CDATA[schoeisel]]></trefwoord>
+          <trefwoord><![CDATA[tentoonstellingen]]></trefwoord>
+          <trefwoord><![CDATA[uitgeverijen]]></trefwoord>
+          <trefwoord><![CDATA[voordrachtskunst]]></trefwoord>
+          <trefwoord><![CDATA[vormgeving]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Jansen, Jan]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen>
+          <geografische_naam><![CDATA[Amsterdam]]></geografische_naam>
+          <geografische_naam><![CDATA[VS]]></geografische_naam>
+        </geografische_namen>
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

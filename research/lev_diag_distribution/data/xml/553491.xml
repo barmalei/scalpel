@@ -1,0 +1,288 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/553491">
+    <expressie>
+      <docid><![CDATA[51237]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[7080000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Aalbers, Paul]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Aalbers, Paul]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Büch, Boudewijn]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Büch, Boudewijn]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Fransen, Ad]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Fransen, Ad]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Goede, Anton de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Nauta, Astrid]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <spreker>
+            <naam><![CDATA[Jongstra, Atte]]></naam>
+            <functie><![CDATA[schrijver]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Timmer, Charles B.]]></naam>
+            <functie><![CDATA[schrijver]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Veerkamp, Joost]]></naam>
+            <functie><![CDATA[beeldend kunstenaar]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Verhoef, Rien]]></naam>
+            <functie><![CDATA[vertaler]]></functie>
+          </spreker>
+        </rollen>
+        <taalgebruiken />
+        <opnamen />
+        <recht>
+          <bron />
+          <rechten><![CDATA[Originele banden, lenen uitsluitend met toestemming van de
+rechthebbende.]]></rechten>
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>554630</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[10-12-1985]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[68520000]]></begintijd>
+        <eindtijd />
+        <tijdsduur><![CDATA[7080000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 118'00"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[10-12-1985]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten>
+          <net><![CDATA[Radio 1]]></net>
+          <net><![CDATA[ Radio 2]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VPRO]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA118742]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2368695</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554630]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3315474</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NB33810]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2368696</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554630]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3315475</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[68520000]]></beginopdrager>
+        <eindeopdrager><![CDATA[75600000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA2573]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1308335</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554630]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1932375</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Wekelijks literair magazine met:
+1. Rubriek 'Het Boekennieuws', met interviews met:
+- drukker Peter Yvon de Vries van uitgeverij 'De Afstand'
+over de 'Kleine Uitgeversbeurs' die de daaropvolgende zondag 
+in Paradiso in Amsterdam zal worden gehouden;
+- Charles B. Timmer over zijn bundel 'Russische notities';
+- vertaler Rien Verhoef over David Leavitt en zijn
+verhalenbundel 'Family Dancing';
+- beeldend kunstenaar Joost Veerkamp over het in boekvorm
+verschenen 'Tringstein' dat Gerrit Komrij voor 'Vrij
+Nederland' schreef. In het boek ontbreekt Komrij: er zijn bij
+de tekeningen van Veerkamp gedichten van Hugo Claus
+opgenomen;
+- voorzitter H. Gottmer van het bestuur van de CPNB, over de
+problemen die zijn ontstaan met de directeur van de CPNB, de
+heer Gijs Brandsma.
+2. Reportage over het dorp Redu in de Ardennen. In dit heel
+kleine dorp dat ligt aan de N48 tussen Namen en Neufchateau
+zijn veel boekhandels gevestigd. Interview met één van de
+boekhandelaren.
+3. Het tweede uur Boeken is gewijd aan 125 jaar
+Multatuli-verering. Ad Fransen ging op stap met Atte
+Jongstra, auteur van het boek 'De Multitulianen' (uitg. Joost
+Nijssen, Amsterdam). Zij bezochten het geboortehuis van
+Multatuli in Amsterdam en spraken met de beheerster Mevrouw
+Gottmer, voorzitter van de CPNB over 125 jaar
+Multatuli-verering.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Programma niet afgeluisterd. Beschrijving gemaakt op basis
+van programmagegevens.
+Bandnummers NA-118742 en NB--33810.
+
+Bon: 9658
+Bijzonderheden: Registratie uit uitzending
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>686348</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[literatuurprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[boekhandel]]></trefwoord>
+          <trefwoord><![CDATA[literatuur]]></trefwoord>
+          <trefwoord><![CDATA[uitgeverijen]]></trefwoord>
+          <trefwoord><![CDATA[vertalers]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Claus, Hugo]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Komrij, Gerrit]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Leavitt, D.]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Multatuli]]></persoonsnaam>
+          <persoonsnaam><![CDATA[Nijsen, Joost]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

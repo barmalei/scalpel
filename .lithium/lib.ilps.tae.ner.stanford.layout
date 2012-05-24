@@ -1,0 +1,9 @@
+
+PROJECT {
+    @desc = "TAE stanford context"
+    
+    ARTIFACT(JAVA) {
+        @libs=['lib', 'lib/stanford/ner/stanford-ner.jar', 'lib/stanford/pos/stanford-pos.jar',
+                      'lib/stanford/ner/classifiers', 'lib/stanford/pos/models' ]
+    }
+}

@@ -1,0 +1,224 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/453465">
+    <expressie>
+      <docid><![CDATA[96550]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[1095000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <spreker>
+            <naam><![CDATA[Haar, Jaap ter]]></naam>
+            <functie><![CDATA[voorzitter Nationaal Comité van Oranjeverenigingen]]></functie>
+          </spreker>
+        </rollen>
+        <opnameplaatsen>
+          <opnameplaats><![CDATA[Amsterdam, theater Bellevue]]></opnameplaats>
+        </opnameplaatsen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[29-03-1939]]></begindatum>
+            <einddatum />
+            <datumprecisie />
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie />
+          </opname>
+        </opnamen>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>454604</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[1095000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 18'15"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[29-03-1939]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie><![CDATA[Geluidskwaliteit matig]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[PHOHI]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA148533]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367842</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454604]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314318</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NB52490]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367843</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454604]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314319</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[2022000]]></beginopdrager>
+        <eindeopdrager><![CDATA[3117000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA0059]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1200757</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454604]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1651049</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Fragmenten van reportage van bijeenkomst om dank te brengen
+aan medewerkers van het nationaal huldebetoon 1938 voor
+koningin Wilhelmina georganiseerd ter gelegenheid van het
+veertigjarig regeringsjubileum.
+De aanwezigen in theater Bellevue te Amsterdam zingen het
+Wilhelmus onder leiding van een koordirigent.
+De voorzitter van het Nationaal Comité van
+Oranjeverenigingen, Jan ter Haar, bedankt de deelnemers aan
+de historische optocht georganiseerd voor de viering (1938).
+De deelnemers leverden vele prestaties. Een prijs wordt
+uitgereikt aan het echtpaar Bruinsma dat Gijsbreght en
+Badeloch uitbeeldde. Leden van de Gooise Vereniging 'Oost en
+West' krijgen lof voor hun presentatie van de overzeese
+gewesten. De beloning van alle aanwezigen is een oorkonde,
+bekostigd door bestuurslid en sponsor, H.J. van Nestelrooij.
+De voorzitter van het comité Ruitersport Amsterdam herinnert
+aan de bijdragen tot de viering. De inspanningen  van de
+leden varieerden die dag van het torsen van ijzeren harnassen
+tot het dragen van nauwe corsetten. Ook de paarden valt dank
+ten deel.
+De aanwezigen zingen tot slot  tezamen nationale liederen op
+aanwijzing van een dirigent met o.a. de teksten 'Ons dierbaar
+Nederland' en 'Ons Holland zal niet vallen'.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[OudSFW: C31070/26-3068.
+Mogelijk is de koordirigent: Fred Roeske.
+Deze opname is onvolledig.  Van deze opname bestaat  geen
+uitleenexemplaar. Via Klantenservice kan een kopie worden
+gemaakt.
+Deze opname bestaat uit ruw, ongemonteerd materiaal en kan
+van wisselende geluidskwaliteit zijn.
+
+Bon: 99225
+Bijzonderheden: Discussie over het hoorspel
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>582390</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[actuele informatie]]></genre>
+          <genre><![CDATA[reportage]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[oranjeverenigingen]]></vervallen_trefwoord>
+          <vervallen_trefwoord><![CDATA[regeringsjubilea]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Wilhelmina]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen>
+          <geografische_naam><![CDATA[Nederland]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[Koninklijk Huis]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

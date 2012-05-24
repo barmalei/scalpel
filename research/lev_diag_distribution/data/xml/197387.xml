@@ -1,0 +1,182 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/67018/67678/69839/197387">
+    <expressie>
+      <docid><![CDATA[73210]]></docid>
+      <afleveringsnummer><![CDATA[9]]></afleveringsnummer>
+      <deel />
+      <tijdsduur><![CDATA[1473000]]></tijdsduur>
+      <broncatalogus><![CDATA[Televisie Programma]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[Afl. 9: Verkeerd ingeschat (Schagen)]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Kroeske, Jan Douwe]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Stips, Wouter (+ samenstelling)]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[regie]]></functie>
+            </functies>
+          </maker>
+          <producent>
+            <naam><![CDATA[Peekel/Stips Produkties]]></naam>
+          </producent>
+        </rollen>
+        <taalgebruiken />
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>197873</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[30-11-1991]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[123000]]></begintijd>
+        <eindtijd><![CDATA[1596000]]></eindtijd>
+        <tijdsduur><![CDATA[1473000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 24'33"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[30-11-1991]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie><![CDATA[Materiaal: Kleur]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[123000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1596000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[AR32670]]></dragernummer>
+        <dragertype><![CDATA[BCN]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>491860</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[197873]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>576210</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[123000]]></beginopdrager>
+        <eindeopdrager><![CDATA[1596000]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[V32670]]></dragernummer>
+        <dragertype><![CDATA[VHS]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>491861</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[197873]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>576698</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Serie televisiedrama's, in opdracht van Veilig Verkeer Nederland,
+gebaseerd op waargebeurde (verkeers)ongelukken, ingeleid en
+afgekondigd door Jan Douwe Kroeske. 
+Deze aflevering: Een ongeluk in Schagen. Robert en Ilse hebben
+een kledingzaak. Zij krijgen bezoek van een oom en tante uit
+Texas. Dit bezoek brengt nare herinneringen uit het verleden
+naar boven en leidt tot spanningen tussen Robert en Ilse.
+Tijdens een uitstapje krijgen zij door overstekende loslopende
+honden een ongeluk. 
+Rolverdeling: Elise - Marieke van de Pol, Robert - Tjerk
+Riselada, Fred - Bernard Droog, Diane - Truus Dekker, klanten
+- Maggie Meijer en Barbara Barendrecht ea.]]></samenvatting>
+      <beschrijving />
+      <annotatie />
+      <taakID>290365</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[televisiedrama]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Televisie Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche PRG goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden />
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[verkeersongelukken]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA[Nederland]]></geografische_naam>
+        </geografische_namen>
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

@@ -1,0 +1,257 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/67018/67678/69839/587746">
+    <expressie>
+      <docid />
+      <afleveringsnummer><![CDATA[8]]></afleveringsnummer>
+      <deel />
+      <tijdsduur><![CDATA[1487080]]></tijdsduur>
+      <broncatalogus />
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="Y">
+            <tekst><![CDATA[Dedemsvaart - Bang]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Bentveld, Menno]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <cast>
+            <naam><![CDATA[Royaards, Jules]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+          <cast>
+            <naam><![CDATA[Steen, Maeve van der]]></naam>
+            <karakter />
+            <toelichting />
+          </cast>
+        </rollen>
+        <taalgebruiken>
+          <taalgebruik>
+            <taal><![CDATA[Nederlands]]></taal>
+            <gebruik><![CDATA[uitgangstaal]]></gebruik>
+          </taalgebruik>
+        </taalgebruiken>
+        <context>
+          <onderscheiding />
+          <gelegenheid />
+          <kleur><![CDATA[Kleur]]></kleur>
+          <indicatie_stom />
+          <contekst />
+        </context>
+        <opnamen />
+        <recht>
+          <bron />
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>589075</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum><![CDATA[23-10-1997]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[1487080]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling><![CDATA[0]]></indicatie_herhaling>
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[23-10-1997]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+      <publicatie>
+        <id>589074</id>
+        <titel />
+        <type><![CDATA[Uitzending]]></type>
+        <begindatum><![CDATA[10-07-2007]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[68362000]]></begintijd>
+        <eindtijd><![CDATA[69849080]]></eindtijd>
+        <tijdsduur><![CDATA[1487080]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie><![CDATA[Stereo]]></annotatie_publicatie>
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[televisie]]></distributiekanaal>
+        <distributieformaat><![CDATA[4:3]]></distributieformaat>
+        <gelegenheid />
+        <indicatie_herhaling><![CDATA[1]]></indicatie_herhaling>
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[10-07-2007]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten>
+          <net><![CDATA[Nederland 3]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VARA]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[124360]]></beginopdrager>
+        <eindeopdrager><![CDATA[1611440]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DEDEMSVAART_B-VAR001O84LB]]></dragernummer>
+        <dragertype><![CDATA[media archive]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1349414</dragerid>
+        <DMGUID><![CDATA[2007071019542760800790450740014C2607C530000000180B00000D0F000720]]></DMGUID>
+        <SOF><![CDATA[119400]]></SOF>
+        <publID><![CDATA[589074]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype>Stereo</geluidstype>
+        <metrage />
+        <sortering />
+        <positieid>2088602</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[124360]]></beginopdrager>
+        <eindeopdrager><![CDATA[1611440]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DEDEMSVAART_B-VAR001O84LB.mpg]]></dragernummer>
+        <dragertype><![CDATA[MPG1]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1349415</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[589074]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype>Stereo</geluidstype>
+        <metrage />
+        <sortering />
+        <positieid>2088603</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[124360]]></beginopdrager>
+        <eindeopdrager><![CDATA[1611440]]></eindeopdrager>
+        <volgnummer />
+        <dragernummer><![CDATA[DEDEMSVAART_B-VAR001O84LB.mxf]]></dragernummer>
+        <dragertype><![CDATA[MXF]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats><![CDATA[Digitaal Archief]]></bewaarplaats>
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1349416</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[589074]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype>Stereo</geluidstype>
+        <metrage />
+        <sortering />
+        <positieid>2088604</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Deze aflevering, gepresenteerd door Menno Bentveld: een bijtende politiehond. De moeder van Frans is overleden. Hij is daardoor erg van slag, durft niet meer naar buiten en aanbidt haar Madonnabeeld. Zijn vader heeft genoeg van zijn gedrag en geeft hem een politiehond te leen die hij kan uitlaten. Als Frans de hond niet mag houden, besluit zijn buurvrouw hem te helpen. Ze regelt een andere politiehond voor hem, maar die blijkt erg agressief. Frans loopt lelijke beetwonden op.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Programma niet bekeken. Beschrijving gemaakt op basis van programmagegevens.
+]]></annotatie>
+      <taakID>721743</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas />
+        <trefwoorden>
+          <trefwoord><![CDATA[Mariaverering]]></trefwoord>
+          <trefwoord><![CDATA[ongevallen]]></trefwoord>
+          <trefwoord><![CDATA[rouw]]></trefwoord>
+          <trefwoord><![CDATA[speurhonden]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+    <Niveau intentieID="2" taalID="1">
+      <samenvatting><![CDATA[Bang om naar buiten te gaan. ]]></samenvatting>
+      <beschrijving><![CDATA[Frans junior is van slag sinds zijn moeder is overleden. Hij durft niet meer naar buiten en aanbidt een Madonnabeeld als was het zijn moeder zelf. Frans senior is het gedrag van zijn zoon zat. Hij bedenkt een manier om zijn zoon weer naar buiten te krijgen.  ]]></beschrijving>
+      <annotatie />
+      <taakID>1057106</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres />
+        <doelgroepen />
+        <themas />
+        <trefwoorden />
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen />
+        <namen />
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

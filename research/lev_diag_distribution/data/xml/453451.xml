@@ -1,0 +1,214 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/453451">
+    <expressie>
+      <docid><![CDATA[96581]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[546000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels>
+          <titel hoofdtitel="N">
+            <tekst><![CDATA[REPORTAGE VERTREK KINDEREN PER VLIEGTUIG NAAR INDIË]]></tekst>
+            <taal />
+            <type />
+            <bron />
+          </titel>
+        </titels>
+        <rollen>
+          <maker>
+            <naam><![CDATA[Wybrands Marcussen, L.G.]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Wybrands Marcussen, L.G.]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <producent>
+            <naam><![CDATA[PHOHI]]></naam>
+          </producent>
+        </rollen>
+        <opnameplaatsen>
+          <opnameplaats><![CDATA[Amsterdam, Centraal Station]]></opnameplaats>
+        </opnameplaatsen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[01-01-1939]]></begindatum>
+            <einddatum />
+            <datumprecisie><![CDATA[exacte datum onbekend]]></datumprecisie>
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie><![CDATA[(1939, exacte datum onbekend)]]></annotatie>
+          </opname>
+        </opnamen>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>454590</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[546000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 9'06"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[01-01-1939]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie><![CDATA[Samplefrequentie: 44.1 kHz; Tijdcode in AES/EBU]]></technische_annotatie>
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[PHOHI]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie><![CDATA[False]]></annotatie>
+        <beginopdrager><![CDATA[3096000]]></beginopdrager>
+        <eindeopdrager><![CDATA[3642000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA0086]]></dragernummer>
+        <dragertype><![CDATA[DAT cassette]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1200743</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454590]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager><![CDATA[7]]></beginpositieopdrager>
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1651021</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA137673]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2367861</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[454590]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3314338</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Reportage over het  vertrek van [school-]jeugd naar Indië
+vanaf het Centraal Station te Amsterdam.
+De heer Stoppelaar van de KLM deelt mee dat de internationale
+spanningen reden zijn voor dit voortijdige vertrek. Omdat de
+vlucht overboekt was, zal een tweede begeleide reis in half
+november worden georganiseerd. Nu gaat de reis per trein via
+Keulen naar Napels.
+Mejuffrouw Wynandi [spelling onzeker] vertelt de verslaggever
+dat zij de kinderen in de trein naar Napels begeleidt.
+Vandaar zal met de 'Reiger' naar Indië worden gevlogen.
+Kort gesprek met enkele kinderen die de terugreis gaan maken,
+zoals Ankie en Hansje van de Steenhove [spelling onzeker] uit
+Malang.
+In de achtergrond roepen leden van het Nationaal Jongeren
+Verbond (NJV) driemaal hoera en een trompetsignaal klinkt tot
+afscheid. De kinderen wordt een goede overtocht gewenst.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Opnamedatum valt tussen 1939-09-15 en 1939-11-15. Volgens
+mededeling van Van Overbeek wordt vanaf 7 september 1939 [om
+veiligheidsredenen] niet meer vanaf Schiphol op Indië
+gevlogen, maar is de vliegdienst op Indië 'Napels-Batavia'
+tot stand gebracht.
+OudSFW: C31097/26-3073/D2098. Deze opname kan van wisselende
+geluidskwaliteit zijn.
+
+Bon: 44788
+Bijzonderheden: Programmagegevens op bon,
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>582348</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[actuele informatie]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[jeugd]]></trefwoord>
+          <trefwoord><![CDATA[mobilisatie]]></trefwoord>
+          <trefwoord><![CDATA[reizen]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[luchtbruggen]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA[Amsterdam]]></geografische_naam>
+          <geografische_naam><![CDATA[Batavia]]></geografische_naam>
+          <geografische_naam><![CDATA[Napels]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[NJV]]></naam>
+          <naam><![CDATA[Reiger]]></naam>
+          <naam><![CDATA[Tweede Wereldoorlog]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

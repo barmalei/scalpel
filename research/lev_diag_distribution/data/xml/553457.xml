@@ -1,0 +1,279 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/553457">
+    <expressie>
+      <docid><![CDATA[51835]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[6840000]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Aalbers, Paul]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[eindredactie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Aalbers, Paul]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Aalbers, Paul]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Goede, Anton de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[interviewer]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Goede, Anton de]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[presentatie]]></functie>
+            </functies>
+          </maker>
+          <maker>
+            <naam><![CDATA[Nauta, Astrid]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[productie]]></functie>
+            </functies>
+          </maker>
+          <spreker>
+            <naam><![CDATA[Aarts, C.]]></naam>
+            <functie><![CDATA[uitgever]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Heijden, A.F.Th. van der]]></naam>
+            <functie><![CDATA[schrijver]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Mulisch, Harry]]></naam>
+            <functie><![CDATA[schrijver]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Ros, Martin]]></naam>
+            <functie><![CDATA[uitgever]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Toorn, Willem van]]></naam>
+            <functie><![CDATA[schrijver]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Woltz, Wout]]></naam>
+            <functie><![CDATA[journalist]]></functie>
+          </spreker>
+        </rollen>
+        <taalgebruiken />
+        <opnamen />
+        <recht>
+          <bron />
+          <rechten><![CDATA[Originele banden, lenen uitsluitend met toestemming van de
+rechthebbende.]]></rechten>
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>554596</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum><![CDATA[11-12-1984]]></begindatum>
+        <einddatum />
+        <datumprecisie />
+        <begintijd><![CDATA[65160000]]></begintijd>
+        <eindtijd />
+        <tijdsduur><![CDATA[6840000]]></tijdsduur>
+        <tijdsduur_annotatie><![CDATA[Avail: 114'00"]]></tijdsduur_annotatie>
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[11-12-1984]]></sorteerdatum>
+        <sorteertype>1</sorteertype>
+        <technische_annotatie />
+        <netten>
+          <net><![CDATA[Hilversum 1]]></net>
+        </netten>
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[VPRO]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA97137]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2369957</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554596]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3317335</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NB41561]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2369958</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554596]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3317336</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager><![CDATA[65160000]]></beginopdrager>
+        <eindeopdrager><![CDATA[72000000]]></eindeopdrager>
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA4396]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1308302</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[554596]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1932307</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Wekelijks literair magazine, met:
+1. Reportage met uitgever Martin Ros over de 'Kleine
+Uitgeversbeurs' die afgelopen zondag is gehouden in
+Amsterdam. Gesprekken met een redactiemedewerkster van het
+tijdschrift 'Lift' voor amateurschrijvers, een medewerker van
+de uitgeverij 'Pranger' en met een medewerker van de
+Atheneumboekhandel in Amsterdam en tevens eigenaar van een
+kleine uitgeverij [26'23"].
+2. Interview met uitgever Cees Aarts naar aanleiding van het
+verschijnen van Aarts 'Letterkundige Almanak 1985', met dit
+keer als thema 'De Tachtigers' [10'23"].
+3. Bespreking door schrijver Willem van Toorn van de poëzie
+van dichteres Eva Gerlach naar aanleiding van het verschijnen
+van haar dichtbundel 'Dochter' [5'17"].
+4. In de serie 'De schrijver en het geheugen' een fragment
+uit het boek 'Vallende ouders' van schrijver A.F.Th. van der
+Heyden, gelezen door de presentator en een interview met Van
+der Heyden over het geheugen [31'09"].
+5. Fragment uit de Huizinga-lezing door schrijver Harry
+Mulisch 'Het ene' over moderne geschiedschrijving. De
+inleiding wordt verzorgd door journalist Wout Woltz van NRC
+Handelsblad [20'58"].]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Programma niet afgeluisterd. Beschrijving gemaakt op basis
+van programmagegevens.
+Bandnummers NA--97137 en NB--41561.
+
+Bon: 7088
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>686314</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[literatuurprogramma]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[beurzen]]></trefwoord>
+          <trefwoord><![CDATA[geheugen]]></trefwoord>
+          <trefwoord><![CDATA[geschiedenis]]></trefwoord>
+          <trefwoord><![CDATA[literatuur]]></trefwoord>
+          <trefwoord><![CDATA[non-fictie]]></trefwoord>
+          <trefwoord><![CDATA[poëzie]]></trefwoord>
+          <trefwoord><![CDATA[uitgeverijen]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden />
+        <rvd_genres />
+        <persoonsnamen>
+          <persoonsnaam><![CDATA[Gerlach, Eva]]></persoonsnaam>
+        </persoonsnamen>
+        <geografische_namen>
+          <geografische_naam><![CDATA[Amsterdam]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[Huizinga-lezing]]></naam>
+          <naam><![CDATA[Tachtigers]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>

@@ -1,0 +1,201 @@
+<DataSetExpressie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <doc id="/10031/10034/10034/439604">
+    <expressie>
+      <docid><![CDATA[56680]]></docid>
+      <afleveringsnummer />
+      <deel />
+      <tijdsduur><![CDATA[0]]></tijdsduur>
+      <broncatalogus><![CDATA[Radio Programma (voorlopig)]]></broncatalogus>
+      <descriptie>
+        <titels />
+        <rollen>
+          <maker>
+            <naam><![CDATA[Lazrak, A.]]></naam>
+            <toelichting />
+            <functies>
+              <functie><![CDATA[verslaggever]]></functie>
+            </functies>
+          </maker>
+          <spreker>
+            <naam><![CDATA[Asjaboun,]]></naam>
+            <functie><![CDATA[medewerker St. Samenw. Haagse Marokkanen]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Haverhoek,]]></naam>
+            <functie><![CDATA[secretaris in Kapelle]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Tuynman,]]></naam>
+            <functie><![CDATA[inwoner van Middelburg]]></functie>
+          </spreker>
+          <spreker>
+            <naam><![CDATA[Werner,]]></naam>
+            <functie><![CDATA[secretaris St. Samenw. Haagse Marokkanen]]></functie>
+          </spreker>
+        </rollen>
+        <taalgebruiken />
+        <opnamen>
+          <opname>
+            <begindatum><![CDATA[03-05-1989]]></begindatum>
+            <einddatum />
+            <datumprecisie />
+            <productiejaar />
+            <montagedatum />
+            <begintijd />
+            <eindtijd />
+            <indicatiepubliek />
+            <annotatie />
+          </opname>
+        </opnamen>
+        <recht>
+          <bron />
+          <rechten />
+          <blokkering />
+          <licentie />
+        </recht>
+      </descriptie>
+    </expressie>
+    <publicaties>
+      <publicatie>
+        <id>440743</id>
+        <titel />
+        <type><![CDATA[uitzending]]></type>
+        <begindatum />
+        <einddatum />
+        <datumprecisie />
+        <begintijd />
+        <eindtijd />
+        <tijdsduur><![CDATA[0]]></tijdsduur>
+        <tijdsduur_annotatie />
+        <begintijdstip />
+        <annotatie_publicatie />
+        <tijdcodestandaard />
+        <distributiekanaal><![CDATA[Radio]]></distributiekanaal>
+        <distributieformaat />
+        <gelegenheid />
+        <indicatie_herhaling />
+        <indicatie_live />
+        <uitzendfrequentie />
+        <begin_binnen_expressie />
+        <einde_binnen_expressie />
+        <ontvangstdatum />
+        <weeknummer />
+        <sorteerdatum><![CDATA[03-05-1989]]></sorteerdatum>
+        <sorteertype>4</sorteertype>
+        <technische_annotatie />
+        <netten />
+        <zendgemachtigden>
+          <zendgemachtigde><![CDATA[NOS]]></zendgemachtigde>
+        </zendgemachtigden>
+      </publicatie>
+    </publicaties>
+    <Posities>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer />
+        <dragernummer><![CDATA[NA160648]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>2373564</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[440743]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>3323252</positieid>
+      </Positie>
+      <Positie>
+        <begintijd />
+        <eindtijd />
+        <annotatie />
+        <beginopdrager />
+        <eindeopdrager />
+        <volgnummer><![CDATA[1]]></volgnummer>
+        <dragernummer><![CDATA[VA9797]]></dragernummer>
+        <dragertype><![CDATA[Magneetband]]></dragertype>
+        <archiefstatus />
+        <bewaarplaats />
+        <dragerannotatie />
+        <dragersoort><![CDATA[Programma]]></dragersoort>
+        <dragerid>1193363</dragerid>
+        <DMGUID />
+        <SOF />
+        <publID><![CDATA[440743]]></publID>
+        <ExterneReferentie />
+        <beginpositieopdrager />
+        <eindpositieopdrager />
+        <formaat />
+        <herkomst />
+        <geluidstype />
+        <metrage />
+        <sortering />
+        <positieid>1619649</positieid>
+      </Positie>
+    </Posities>
+  </doc>
+  <Niveaus>
+    <Niveau intentieID="1" taalID="1">
+      <samenvatting><![CDATA[Reportage over de Marokkanen die gesneuveld zyn by de 'slag
+om Zeeland' in 1940 en over de honderden Marokkanen die
+krygsgevangen hebben gezeten in een drietal Zeeuwse kampen.
+Gesprekken met secretaris Haverhoek van het Zeeuwse Kapelle,
+waar op de Centrale Franse begraafplaats ook Marokkanen en
+Algerynen begraven liggen, met de heer Tuynman uit
+Middelburg,
+die als 12-jarige jongen contact had met Marokkaanse
+krygsgevangenen, met de heer Werner, secretaris van de
+Stichting Samenwerkende Haagse Marokkanen, die zich inzet
+voor een monument voor alle Marokkanen die in de stryd in
+Europa tydens de Tweede Wereldoorlog zyn omgekomen, en met de
+heer Asjaboun van die Stichting, die hierover sprak met de
+Marokkaanse autoriteiten.]]></samenvatting>
+      <beschrijving />
+      <annotatie><![CDATA[Bon: 52046
+Reserveringen: Gereserveerd HA]]></annotatie>
+      <taakID>542339</taakID>
+      <ontsluitingen>
+        <museumtitel />
+        <genres>
+          <genre><![CDATA[NADER TE BEPALEN]]></genre>
+        </genres>
+        <doelgroepen />
+        <collectie_avails>
+          <collectie_avail><![CDATA[Radio Programma (voorlopig)]]></collectie_avail>
+        </collectie_avails>
+        <themas>
+          <thema><![CDATA[Tranche RADIO goedgekeurd]]></thema>
+        </themas>
+        <trefwoorden>
+          <trefwoord><![CDATA[concentratiekampen]]></trefwoord>
+          <trefwoord><![CDATA[krijgsgevangenen]]></trefwoord>
+        </trefwoorden>
+        <vervallen_trefwoorden>
+          <vervallen_trefwoord><![CDATA[Stichting Samenwerkende Haagse Marokkanen]]></vervallen_trefwoord>
+        </vervallen_trefwoorden>
+        <rvd_genres />
+        <persoonsnamen />
+        <geografische_namen>
+          <geografische_naam><![CDATA[Marokko]]></geografische_naam>
+          <geografische_naam><![CDATA[Zeeland]]></geografische_naam>
+        </geografische_namen>
+        <namen>
+          <naam><![CDATA[Tweede Wereldoorlog]]></naam>
+        </namen>
+        <deelcatalogi />
+      </ontsluitingen>
+    </Niveau>
+  </Niveaus>
+</DataSetExpressie>
