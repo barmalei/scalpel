@@ -1,6 +1,5 @@
 *.pyc
 *.log
-*.zip
 lib/gravity/*.class
 lib/gravity/common/*.class
 lib/gravity/tae/*.class
@@ -14,9 +13,7 @@ lib/gravity/tae/internal/*.class
 lib/gravity/tae/pos/stanford/*.class
 lib/gravity/common/internal/*.class
 test/gravity/common/*.class
-lib/lxml*
 *.so
-*.gz
 *.egg-info
 *.lm
 *.hmm
