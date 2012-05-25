@@ -73,8 +73,8 @@ For research purposes the project can be used as is. No special restrictions hav
 ## More information
 
 Take a look at Scalpel presentation:
-   * In PDF: http://www.lw-zone.org/download/tae.pdf
-   * As iWork KeyNote presentation: http://www.lw-zone.org/download/tae.key
+   * In PDF: http://www.lw-zone.org/download/scalpel.pdf
+   * As iWork KeyNote presentation: http://www.lw-zone.org/download/scalpel.key
 
 
 
