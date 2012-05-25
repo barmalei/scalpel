@@ -1,17 +1,17 @@
 
 import os, codecs, time, re
 
-from ilps.common.xml.grabber import XmlElementsCollector, XmlGrabber, XmlPathFilter 
+from gravity.common.xml.grabber import XmlElementsCollector, XmlGrabber, XmlPathFilter 
 
-from ilps.tae.ner.tnt.ner import NER
+from gravity.tae.ner.tnt.ner import NER
 
-from ilps.tae.match.lev_distance import fClassicalLevDistance, fLevDistance, fLevPath, fLevDistance2
+from gravity.tae.match.lev_distance import fClassicalLevDistance, fLevDistance, fLevPath, fLevDistance2
 
-from ilps.tae.distance import fDistancePath, fMinPath
-from ilps.tae.match.distance_matrix import UprightDistanceMatrix, UprightSubsetDistanceMatrix, DistanceMatrix, HybridSubsetDistanceMatrix 
-from ilps.tae.match.bitap.distance import fBitapDistance
-from ilps.tae.match.bitap.rj_set import fRjExact, fRjSubstitute, fRjInsert, fRjDelete, fRjKError
-from ilps.tae.match.bitap.rj import fRj
+from gravity.tae.distance import fDistancePath, fMinPath
+from gravity.tae.match.distance_matrix import UprightDistanceMatrix, UprightSubsetDistanceMatrix, DistanceMatrix, HybridSubsetDistanceMatrix 
+from gravity.tae.match.bitap.distance import fBitapDistance
+from gravity.tae.match.bitap.rj_set import fRjExact, fRjSubstitute, fRjInsert, fRjDelete, fRjKError
+from gravity.tae.match.bitap.rj import fRj
 
 data_dir = os.path.join(os.path.dirname(__file__), "data")
    
@@ -193,7 +193,7 @@ t = time.time()
 
 
 
-from ilps.tae.match.lev_distance import  fLevDistanceDiag
+from gravity.tae.match.lev_distance import  fLevDistanceDiag
 #s1 = "Song about   Alice dream"
 #s2 = "Song al?ce dream" 
 

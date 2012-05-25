@@ -35,7 +35,7 @@ Changes v1.3.0 since v1.2.1
 * ILPS sentiment corpus support
 * ILPS primitive sentiment analyzer 
 * Standalone runner integration: the most important classes can be run from command line:
-    $ python lib/ilps/tae/ner/stanford/ner.py  "text" | file
+    $ python lib/gravity/tae/ner/stanford/ner.py  "text" | file
 
 	  or even shorter 
 

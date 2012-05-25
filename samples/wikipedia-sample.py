@@ -5,7 +5,7 @@ import sys
 sys.path.insert(0, "lib")
 
 
-from ilps.tae.link.wikipedia import Wikipedia
+from gravity.tae.link.wikipedia import Wikipedia
 
 #
 #   

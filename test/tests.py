@@ -5,7 +5,7 @@ tae_home = os.path.normpath(os.path.join(os.path.abspath(sys.argv[0]), os.pardir
 py_path = os.path.join(tae_home, 'lib')
 sys.path.insert(0, py_path)
 
-from ilps.common.file.filewalker import FileWalker
+from gravity.common.file.filewalker import FileWalker
 
 python_path = "python"
 if python_path: python_path = sys.executable

@@ -1,8 +1,8 @@
 import cPickle, os
 
 
-from ilps.tae.tokenizer import TokenSet, Token
-import ilps.tae.ner.ne
+from gravity.tae.tokenizer import TokenSet, Token
+import gravity.tae.ner.ne
 
 def _store_tokens(name, tokens):
     path = os.path.abspath(os.path.join('data', name + ".pickle"))
@@ -161,9 +161,9 @@ def run_recognizer(ner_id, corpus, model = None):
     lang = corpus.lang
     
     if model == None:
-        ner  = ilps.tae.ner.ne.NER.ner(ner_id, lang) 
+        ner  = gravity.tae.ner.ne.NER.ner(ner_id, lang) 
     else: 
-        ner = ilps.tae.ner.ne.NER.ner(ner_id, lang, model)
+        ner = gravity.tae.ner.ne.NER.ner(ner_id, lang, model)
         
     tokens = [ t for t in ner(corpus) ]
     store_tokens(tokens, ner_id, lang, "recognized", model)
@@ -388,8 +388,8 @@ def calc_parametrized_vote_result(corpus, model = None):
 
 
 
-from ilps.tae.corpora.conll import CoNLL2002
-from ilps.tae.corpora.conll import CoNLL2003
+from gravity.tae.corpora.conll import CoNLL2002
+from gravity.tae.corpora.conll import CoNLL2003
 #corpus = CoNLL2003.testb("en")
 
 corpus = CoNLL2002.testb("nl")

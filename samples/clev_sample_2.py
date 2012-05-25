@@ -1,7 +1,7 @@
-from ilps.tae.match import lev_distance 
-from ilps.tae import distance
-from ilps.tae.match.c_lev_distance import fLevDistanceDiag
-from ilps.tae.match.c_lev_distance import fLevPath
+from gravity.tae.match import lev_distance 
+from gravity.tae import distance
+from gravity.tae.match.c_lev_distance import fLevDistanceDiag
+from gravity.tae.match.c_lev_distance import fLevPath
 
 
 s1 = "Test Den   Haag entity"

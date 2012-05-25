@@ -1,19 +1,19 @@
 
 import os, codecs, time
 
-from ilps.common.xml.grabber import XmlElementsCollector, XmlGrabber, XmlPathFilter 
+from gravity.common.xml.grabber import XmlElementsCollector, XmlGrabber, XmlPathFilter 
 
-from ilps.tae.ner.tnt.ner import NER
-from ilps.tae.ner.tnt.ner import fEntityLocator
+from gravity.tae.ner.tnt.ner import NER
+from gravity.tae.ner.tnt.ner import fEntityLocator
 
-from ilps.tae.match.lev_distance import fClassicalLevenshteinDistance, fLevenshteinDistance, fLevenshteinPath, fLevenshteinDistance2
+from gravity.tae.match.lev_distance import fClassicalLevenshteinDistance, fLevenshteinDistance, fLevenshteinPath, fLevenshteinDistance2
 
 
-from ilps.tae.match.distance import  fDiagDistance, fDistancePath, fMinPath
-from ilps.tae.match.distance_matrix import UprightDistanceMatrix, UprightSubsetDistanceMatrix, DistanceMatrix, HybridSubsetDistanceMatrix 
-from ilps.tae.match.bitap.distance import fBitapDistance
-from ilps.tae.match.bitap.rj_set import fRjExact, fRjSubstitute, fRjInsert, fRjDelete, fRjKError
-from ilps.tae.match.bitap.rj import fRj
+from gravity.tae.match.distance import  fDiagDistance, fDistancePath, fMinPath
+from gravity.tae.match.distance_matrix import UprightDistanceMatrix, UprightSubsetDistanceMatrix, DistanceMatrix, HybridSubsetDistanceMatrix 
+from gravity.tae.match.bitap.distance import fBitapDistance
+from gravity.tae.match.bitap.rj_set import fRjExact, fRjSubstitute, fRjInsert, fRjDelete, fRjKError
+from gravity.tae.match.bitap.rj import fRj
 
 data_dir = os.path.join(os.path.dirname(__file__), "data")
 

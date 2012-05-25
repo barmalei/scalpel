@@ -1,7 +1,7 @@
-from ilps.tae.match import lev_distance 
-from ilps.tae.match.c_lev_distance import fLevTextsAligner
-from ilps.tae.match.c_lev_distance import fLevPath
-from ilps.tae.match.c_lev_distance import fLevDistanceDiag
+from gravity.tae.match import lev_distance 
+from gravity.tae.match.c_lev_distance import fLevTextsAligner
+from gravity.tae.match.c_lev_distance import fLevPath
+from gravity.tae.match.c_lev_distance import fLevDistanceDiag
 
 
 ## Offsets:  01234567890123456789012345
