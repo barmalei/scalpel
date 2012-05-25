@@ -7,6 +7,8 @@ lib/gravity/tae/pos/*.class
 lib/gravity/tae/ner/*.class
 lib/gravity/tae/ner/stanford/*.class
 lib/gravity/tae/ner/stanford_old/*.class
+lib/gravity/tae/ner/stanford/*.gz
+lib/gravity/tae/ner/stanford_old/*.gz
 lib/gravity/tae/ner/lbj/*.class
 lib/gravity/tae/ner/lingpipe/*.class
 lib/gravity/tae/internal/*.class
