@@ -6,7 +6,7 @@ from primus.javaartifact  import CompileJavaCode, RunJUnit
 
 
 #  Repo URL
-REPO_URL = 'http://ilps.science.uva.nl/thirdparty-packages'
+REPO_URL = 'http://www.lw-zone.org/repo'
 
 #  Deployment configuration
 PROJECT = Project("TAE",
