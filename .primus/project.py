@@ -39,15 +39,15 @@ PROJECT = Project("TAE",
           DownloadArchivedFiles('lib/corpora/CoNLL/2002', "%s/corpora/conll/conll-2002.zip" % REPO_URL),
           DownloadArchivedFiles('lib/corpora/CoNLL/2003', "%s/corpora/conll/conll-2003.zip" % REPO_URL),
           DownloadArchivedFiles('lib/corpora/ILPS', "%s/corpora/ilps.zip" % REPO_URL),
-          #DownloadArchivedFiles('lib/snowball', "%s/snowball/stemmer-1.1.0.zip" % REPO_URL),
+          DownloadArchivedFiles('lib/snowball', "%s/stemmer/snowball.zip" % REPO_URL),
           DownloadFile('lib/junit/junit-4.8.2.jar', "%s/junit/junit-4.8.2.jar" % REPO_URL),
           DownloadArchivedFiles('lib/jython', "%s/jython/jython-2.5.2.zip" % REPO_URL)
         ]),
 
         DoGroup("Build binary modules:",
         [
-            SetupPythonPackage('lib/gravity/tae/match') #,
-            #SetupPythonPackage('lib/snowball', lib = 'lib/gravity/tae/stemmer/snowball/so')
+            SetupPythonPackage('lib/gravity/tae/match'),
+            SetupPythonPackage('lib/snowball', lib = 'lib/gravity/tae/stemmer/snowball/so')
         ]),
         
         DoGroup("Compile Java code:",
