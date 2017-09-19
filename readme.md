@@ -73,6 +73,6 @@ For research purposes the project can be used as is. No special restrictions hav
 ## More information
 
 Take a look at Scalpel presentation:
-   * In PDF: http://repo.zebkit.org/repo/scalpel.pdf
+   * In PDF: http://repo.zebkit.org/scalpel.pdf
 
 
